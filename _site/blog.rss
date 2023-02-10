@@ -1,0 +1,953 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Stefan Dillinger</title>
+  <subtitle>Laufen in Straubing und im Bayerischen Wald</subtitle>
+  <link href="https://raincastle.blog/blog.rss" rel="self"/>
+  <link href="https://raincastle.blog"/>
+  <updated>2023-01-29T00:00:00Z</updated>
+  <id>https://raincastle.blog/</id>
+  <author>
+    <name>Stefan Dillinger</name>
+  </author>
+  
+  <entry>
+    <title>Mein nächster Wettkampf</title>
+    <link href="/posts/2023-01-29-Mein-naechster-Wettkampf/"/>
+    <updated>2023-01-29T00:00:00Z</updated>
+    <id>https://raincastle.blog/posts/2023-01-29-Mein-naechster-Wettkampf/</id>
+    <content type="html">&lt;p&gt;Inspiriert durch das &lt;a href=&quot;https://youtube.com/watch?v=AZqXinfF8lY&amp;amp;si=EnSIkaIECMiOmarE&quot;&gt;aktuelle Video&lt;/a&gt; von Jens war ich endlich motiviert dazu das Training für das Frühjahr zu planen und mich für meinen ersten Wettkampf seit der Coronapause  und auf den Weg zum M40 anzumelden.&lt;/p&gt;
+&lt;h2 id=&quot;status-quo&quot;&gt;Status Quo&lt;/h2&gt;
+&lt;p&gt;Der Januar war und ist geprägt von meiner Elternzeit und unsrem Umzug in eine neue Wohnung. Da war leider bisher nicht viel Platz für das Laufen. Jetzt wo wir umgezogen sind und so langsam alles seinen Platz findet kann es auch mit dem Laufen wieder losgehen.
+Um meine Form zu dokumentieren und den Fortschritt durch den Trainingsplan (mehr dazu weiter unten) überprüfbar zu machen gab es zu Beginn des Trainingsblock einen &lt;a href=&quot;https://www.strava.com/activities/8448199413&quot;&gt;Benchmark Lauf&lt;/a&gt;. Dieser Bestand im Wesentlichen aus einem 10 min Time Trial. In den 10 min schaffte ich 2,22 km (4:30 min/km) bei 265 W. Meine CP liegt deshalb aktuell bei 250 W (3,76 W/kg). Stryd berechnet daraus eine Wertkampfzeit für &lt;em&gt;5 km von 23:09 min (+/- 27 sec)&lt;/em&gt;. Ich bin gespannt ob und wie sich diese Paramter über das Training im Frühjahr verändern.&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/images/2023/Herzogstadtlauf_Prognose_Jan.png&quot;&gt;&lt;img src=&quot;/assets/images/2023/Herzogstadtlauf_Prognose_Jan.png&quot; class=&quot;w-4/5&quot; hover:w-full=&quot;&quot; align=&quot;center/&quot; /&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;wettkampf&quot;&gt;Wettkampf&lt;/h2&gt;
+&lt;p&gt;Den Weg zu meinem nächsten Marathon im Jahr 2025 wollte ich über die Unterdistanzen gehen und da bietet es sich an mit einem 5k-Lauf zu starten. Die Erfahrung hat gezeigt, dass ich, aus dem Wintertraining kommend, Wärme bei einem Wettkampf nicht so gut vertrage. Daher habe ich nach einem 5k Wettkampf möglichst noch im April gesucht. Und tatsächlich gibt es in Straubing am 30.4. dieses Jahr den &lt;a href=&quot;https://www.laufen.de/dlv-laufkalender/details/23V02000222100000&quot;&gt;Herzogstadtlauf&lt;/a&gt; mit einer 5 Kilometer Strecke. Solltest du zufällig auch vor Ort sein, lass es mich gerne wissen 😁.&lt;/p&gt;
+&lt;h2 id=&quot;training&quot;&gt;Training&lt;/h2&gt;
+&lt;p&gt;Normalerweise trainiere ich mich selbst, die Prinzipien habe ich hier im Blog schon öfter beschrieben [&lt;a href=&quot;https://raincastle.blog/posts/2019-03-03-road-to-regensburg/&quot;&gt;1&lt;/a&gt;, &lt;a href=&quot;https://raincastle.blog/posts/2020-02-05-laengere-mikrozyklen-introducing-nanozyklen/&quot;&gt;2&lt;/a&gt;]. Zum einen habe ich aber das Gefühl, dass dieses Training schön langsam zu monoton wird und mir ein anderer Reiz gut tun würde, zum anderen fehlt mir aus den oben genannten Gründen aktuell die Zeit und die Muße mich selbst um mein Training zu kümmern. Daher probiere ich für den 5k Wettkampf einmal einen Trainingsplan von Stryd aus. Auf den ersten Blick sieht mir das Training etwa ungewöhnlich aus (viele kurze Läufe über 3km oder 20min…), aber wie ich immer sage:“Trust the Process”. Also werde ich mich einfach auf den Plan einlassen und euch dann bald von meinen Erfahrungen berichten.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Die etwas anderen Begleitapps zum Laufen</title>
+    <link href="/posts/2023-01-23-Die-etwas-anderen-Begleitapps-zum-Laufen/"/>
+    <updated>2023-01-23T00:00:00Z</updated>
+    <id>https://raincastle.blog/posts/2023-01-23-Die-etwas-anderen-Begleitapps-zum-Laufen/</id>
+    <content type="html">&lt;p&gt;Die Liste der Apps oder Tools um seine Laufleistung zu analysieren ist lang: Strava, Stryd, Runalyze, WKO, to name a few. Heute möchte ich mal auf andere Tools eingehen, über die ich in den letzten Wochen gestolpert bin, die einen zum Laufen motivieren können und jeweils einen anderen Aspekt des Laufens betrachten.&lt;/p&gt;
+&lt;h2 id=&quot;summitbag&quot;&gt;Summitbag&lt;/h2&gt;
+&lt;p&gt;Das neueste Tool auf meiner Liste ist &lt;a href=&quot;https://summitbag.com&quot;&gt;Summitbag&lt;/a&gt;. Wie der Name erahnen lässt geht es darum „Summits“ (also Gipfel) zu „baggen“ (also in die Tasche zu stecken). Dazu muss man sich anmelden und seinen Account mit Strava verbinden, danach werden die letzten 100 Aktivitäten (die Premiumversion für 15€/Jahr importiert die komplette History) geladen und Gipfel automatisch erkannt. Bei neuen Aktivitäten werden die Gipfel dann auch in die Kommentare geschrieben. Am Ende wird das Ergebnis grafisch in einer Karte dargestellt oder die Gipfel in einer sortierbaren Liste angezeigt (siehe Bilder unten). Grade für Trailläufer ein schönes Tool um die gelaufenen Gipfel im Auge zu behalten.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/images/2023/Summitbag_Map.png&quot;&gt;&lt;img src=&quot;/assets/images/2023/Summitbag_Map.png&quot; class=&quot;w-4/5&quot; hover:w-full=&quot;&quot; align=&quot;center&quot; /&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/images/2023/Summitbag_List.png&quot;&gt;&lt;img src=&quot;/assets/images/2023/Summitbag_List.png&quot; class=&quot;w-4/5&quot; hover:w-full=&quot;&quot; align=&quot;center&quot; /&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;statshunters&quot;&gt;Statshunters&lt;/h2&gt;
+&lt;p&gt;Meine nächsten beiden Tools verfolgen das Ziel den Läufer dazu zu animieren ausgetretene Wege zu verlassen und einfach mal neue Wege in der Nachbarschaft zu erkunden. Das erste Tool ist &lt;a href=&quot;https://www.statshunters.com&quot;&gt;Statshunters&lt;/a&gt;. Das Ziel hier ist es so viele Kacheln wie möglich laufend zu verbinden und am Ende ein maximal großes zusammenhängendes Quadrat zu bilden. Eine Kachel ist ca. eine Quadratmeile groß (hier die exakte &lt;a href=&quot;https://rideeverytile.com/how-big-is-a-tile&quot;&gt;Definition&lt;/a&gt;), die Größe schwankt aber je nachdem wo man sich genau auf der Erde befindet. Hat man einmal einen Fuß in diese virtuelle Kachel gesetzt zählt sie als gelaufen. Mein aktueller Max Square ist 16 (4x4) Tiles groß. Ich denke ähnliche Funktionen gibt es auch in anderen Tools/Apps, mir ist es zumindest aus Runalyze bekannt.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/images/2023/Statshunters.png&quot;&gt;&lt;img src=&quot;/assets/images/2023/Statshunters.png&quot; class=&quot;w-4/5&quot; hover:w-full=&quot;&quot; align=&quot;center&quot; /&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;wandrer.earth&quot;&gt;Wandrer.earth&lt;/h2&gt;
+&lt;p&gt;Einen etwas anderen Ansatz verfolgt &lt;a href=&quot;https://wandrer.earth&quot;&gt;Wandrer.earth&lt;/a&gt;. Hier geht es nicht darum eine möglichst große Fläche abzudecken sondern möglichst viele Straßen der Heimatstadt abzulaufen, was für das Laufen evtl. etwas sinnhafter sein mag. Natürlich gibt es auch hier wieder Leaderboards und die übliche gamification. Ein Wermutstropfen hier ist allerdings die Genauigkeit des GPS, welche manchmal komische Blüten treibt und auf der Standardstrecke auf einmal neue abgelaufene Wege identifiziert. Mein aktueller Stand ist, dass ich 6% von Straubing erkundet habe 😅.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/images/2023/Wandrer.png&quot;&gt;&lt;img src=&quot;/assets/images/2023/Wandrer.png&quot; class=&quot;w-4/5&quot; hover:w-full=&quot;&quot; align=&quot;center&quot; /&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;raceday.me-und-runverter.io&quot;&gt;&lt;a href=&quot;http://Raceday.me&quot;&gt;Raceday.me&lt;/a&gt; und &lt;a href=&quot;http://Runverter.io&quot;&gt;Runverter.io&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Aus der Feder des gleichen &lt;a href=&quot;https://stefan.wtf&quot;&gt;Entwicklers&lt;/a&gt; stammen die Seiten &lt;a href=&quot;https://raceday.me&quot;&gt;raceday.me&lt;/a&gt; und &lt;a href=&quot;https://runverter.io&quot;&gt;runverter.io&lt;/a&gt;. &lt;br /&gt;
+&lt;a href=&quot;http://Raceday.me&quot;&gt;Raceday.me&lt;/a&gt; ist sehr nützlich wenn man sich bei einem Wettkampf virtuell von den zu Hause gebliebenen verfolgen lassen will oder den Link auf Social Media teilen will, sodass andere das Rennen verfolgen können. &lt;br /&gt;
+&lt;a href=&quot;http://Runverter.io&quot;&gt;Runverter.io&lt;/a&gt; hingegen ist ein kleines Tool welches Umrechnungen aller Art durchführt. Pace in Wettkampfzeit, es...</content>
+  </entry>
+  
+  <entry>
+    <title>Neustart</title>
+    <link href="/posts/2023-01-01-Neustart/"/>
+    <updated>2023-01-01T00:00:00Z</updated>
+    <id>https://raincastle.blog/posts/2023-01-01-Neustart/</id>
+    <content type="html">&lt;p&gt;Neustart ist das Stichwort der Stunde und das Stichwort für 2023. Was in 2022 seit meinem letzten Post so passierte und was ich für die Zukunft plane findet ihr in diesem Beitrag.&lt;/p&gt;
+&lt;h2 id=&quot;r%C3%BCckblick&quot;&gt;Rückblick&lt;/h2&gt;
+&lt;p&gt;Mein Jahr 2022 verlief zuerst ganz gut, den &lt;a href=&quot;https://raincastle.blog/posts/2022-01-03-jahresplanung-2022/&quot;&gt;ersten Trainingsblock&lt;/a&gt; konnte ich gut durchziehen und meine Form aufbauen. Zum Wettkampf, dem Regensburg Halbmarathon, konnte ich dann aber aufgrund eines fiesen KiTa-Keims nicht antreten.
+Danach wurde es auf den Blog still und auch meine Laufleistung lies etwas nach. Das lässt sich auch gut an den Kilometerzahlen der einzelnen Quartale ablesen:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Q1: 587&lt;/li&gt;
+&lt;li&gt;Q2: 454&lt;/li&gt;
+&lt;li&gt;Q3: 329&lt;/li&gt;
+&lt;li&gt;Q4: 177&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Hier auch noch die Zusammenfassung des ganzen Jahres:&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/images/2022_Summary.jpg&quot;&gt;&lt;img src=&quot;/assets/images/2022_Summary.jpg&quot; class=&quot;w-4/5&quot; hover:w-full=&quot;&quot; align=&quot;center&quot; /&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Auf die Gründe für den Einbruch in der zweiten Jahreshälfte will ich jetzt hier nicht näher eingehen, aber zu allem Überfluss erwischte uns dann Anfang Oktober, nach 2.5 Jahren erfolgreicher Vermeidung, Corona und an Laufen war erstmal nicht mehr zu denken. Nach einer vierwöchigen Pause konnte ich wieder Laufen und nachdem mir auch der Kardiologe grünes Licht gab konnte ich dann auch wieder mit gutem Gewissen Laufen gehen. Langsam aber sicher stieg ich also wieder ins Laufen ein. Anfang Dezember kam dann unser zweites Kind auf die Welt, was natürlicherweise dem Zeitbudget nicht gerade wohlgesonnen ist. Die letzten beiden Wochen des Jahres liefen dann schon wieder gut und ich konnte jeweils 3 mal die Woche laufen. Ich hoffe ich kann den Schwung nun mit ins neue Jahr mitnehmen und dann auch wieder richtig durchstarten.&lt;/p&gt;
+&lt;h2 id=&quot;neustart&quot;&gt;Neustart&lt;/h2&gt;
+&lt;h3 id=&quot;blog&quot;&gt;Blog&lt;/h3&gt;
+&lt;p&gt;Die augenscheinlichste Veränderung habt ihr schon mitbekommen, als ihr auf meine Seite gekommen seid. Sie erstrahlt in neuem, etwas abgespeckten Glanz. Sie ist nun keine WordPress Seite mehr sondern eine statische Webseite, die mit &lt;a href=&quot;https://11ty.dev&quot;&gt;11ty&lt;/a&gt; gebaut wurde. WordPress wurde mir in letzter Zeit irgendwie zu komplex und auch zu wartungsintensiv. Auch kam ich mit dem neuen Editor nicht zurecht und wollte meine Blogartikel gerne mit Markdown schreiben, das war mir aber mit Wordpress zu kompliziert. Da kam mir der Vorschlag von &lt;a href=&quot;https://informatom.com&quot;&gt;Stefan&lt;/a&gt; mir doch eine statische Seite zu bauen gerade recht. Der Workflow des Schreibens der Beiträge mittels Markdown gefällt mir hier sehr gut. Auch muss ich mich nun um weit weniger Updates kümmern und in Sachen DSGVO brauche ich mir auch keine Sorgen zu machen, da ich nun meine Cookies mehr benutze und auch keine Analytics fahre. Daher bin ich mit der jetzigen Webseitenlösung sehr zufrieden. Das einzige was sich ändert ist die Adresse des RSS-Feeds, ihr könnt sie links unten bei den Social Media Images/Links finden. Gebt mir gerne Feedback, wie euch die neue Seite gefällt.&lt;/p&gt;
+&lt;h3 id=&quot;laufen&quot;&gt;Laufen&lt;/h3&gt;
+&lt;p&gt;Die Zeit seit März 2020 verlief Lauftechnisch eher langweilig und mein letzter richtiger Wettkampf war der Halbmarathon in München im Herbst 2019. Der geplante Halbmarathon in Valencia fand leider nicht statt. Das sollte sich 2023 nach Möhlichkeit ändern. Allerdings habe ich noch keine konkreten Pläne, da sich die neue Familiensituation erst einmal einspielen muss.&lt;/p&gt;
+&lt;p&gt;Während der letzten Wochen habe ich mir auch weitere Gedanken über meine zukünfitge “Laufkarriere” gemacht (auch &lt;a href=&quot;https://3-schweinehun.de/2022/11/11/episode51.html#t=1639&quot;&gt;hier&lt;/a&gt; zu hören). Meinen letzten Marathon lief ich in dem Jahr in dem ich 30 wurde, 2015, &lt;a href=&quot;https://www.strava.com/activities/402142431&quot;&gt;in Berlin&lt;/a&gt;. Also dachte ich mir, es wäre eine runde Sache in dem Jahr in dem ich 40 werde wieder einen Marathon (möglichst mit neuer Bestzeit) zu laufen. Dies wäre dann also...</content>
+  </entry>
+  
+  <entry>
+    <title>Trailrunning am Bogenberg</title>
+    <link href="/posts/2022-03-09-trailrunning-am-bogenberg/"/>
+    <updated>2022-03-09T00:00:00Z</updated>
+    <id>https://raincastle.blog/posts/2022-03-09-trailrunning-am-bogenberg/</id>
+    <content type="html">&lt;p&gt;Wenn ich mal wieder ein paar Höhenmeter brauche oder einen Abstecher auf die Trails machen will, laufe ich gerne am Straubinger Hausberg, dem &lt;a href=&quot;https://de.wikipedia.org/wiki/Bogenberg_%28Berg%29&quot;&gt;Bogenberg&lt;/a&gt;. Obwol der Berg vom Tal bis zum Gipfel nur etwa 100 HM hergibt, kann man am Berg doch eine abwechslungsreiche Runde mit einigen Höhenmetern planen und laufen.&lt;/p&gt;
+&lt;p&gt;Alle Wanderwege die von unten bis zum Gipfel führen sind auf Strava auch als Segmente angelegt. Außerdem gibt es noch den einen oder anderen Weg dazwischen, wie zB den Quellweg.&lt;/p&gt;
+&lt;h2 id=&quot;segmente&quot;&gt;Segmente &lt;br /&gt;&lt;br /&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.strava.com/segments/24246527&quot;&gt;Pilgerweg-Bogenberg&lt;/a&gt;: 0,74 km, 14% Steigung, 105 HM&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.strava.com/segments/15788336&quot;&gt;Trail Bogenberg SÜD- OST&lt;/a&gt;: 1,14 km, 8,6% Steigung, 98 HM&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.strava.com/segments/20320250&quot;&gt;Bogenberg- Lippweg&lt;/a&gt;: 0,74 km, 14,6% Steigung, 109 HM&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.strava.com/segments/29827140&quot;&gt;Quellweg uphill&lt;/a&gt;: 0,38 km, 8,0% Steigung, 33 HM&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.strava.com/segments/29829856&quot;&gt;Hangweg uphill&lt;/a&gt;: 0,55 km, 18,8% Steigung, 105 HM &lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Letzte Woche wollte ich mal wieder ein paar Höhenmeter in mein Training einbauen und bin zum Bogenberg gefahren um alle Segemente abzulaufen und zu Filmen (&lt;a href=&quot;https://www.strava.com/activities/6771492971&quot;&gt;37 | Alle Trails am Bogenberg&lt;/a&gt;). Am Ende kamen auf 9 Kilometern 500 HM zusammen. Das Video zum Lauf gibt’s auf YouTube: &lt;a href=&quot;https://youtu.be/Jads8edKb_8%5C&quot;&gt;https://youtu.be/Jads8edKb_8\&lt;/a&gt; &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Jahresplanung 2022</title>
+    <link href="/posts/2022-01-03-jahresplanung-2022/"/>
+    <updated>2022-01-03T00:00:00Z</updated>
+    <id>https://raincastle.blog/posts/2022-01-03-jahresplanung-2022/</id>
+    <content type="html">&lt;p&gt;Die Zeit um den Jahreswechsel lädt dazu ein auf das vergangene Jahr zurück zu blicken und auf das neue voraus zu schauen. Das will ich nun auch mit diesem Artikel machen.&lt;/p&gt;
+&lt;h2 id=&quot;fazit-2021&quot;&gt;Fazit 2021&lt;/h2&gt;
+&lt;p&gt;Meine Ziele für 2021 könnt ihr ausführlich im Jahreswechselartikel von vor einem Jahr nachlesen: &lt;a href=&quot;https://raincastle.blog/posts/2021-01-31-meine-lauf-jahressplanung-fuer-2021&quot;&gt;Meine Lauf-Jahressplanung für 2021&lt;/a&gt;. Den Fokus wollte ich dieses Jahr auf die Regeneration legen. Anfangs hab ich das auch noch wie beschrieben getrackt, aber irgendwann im Sommer hab ich die Dokumentation dann leider schleifen lassen. Allerdings mache ich jetzt sehr regelmäßig 2-3 mal pro Woche Yoga und das tut mir auf jeden Fall sehr gut.&lt;/p&gt;
+&lt;p&gt;Lauftechnisch verliefen die ersten 3 Monate 2021 ganz gut. Ich spulte ein gutes Trainingsprogramm ab und absolvierte 2 “virtuelle Wettkämpfe”. Mit den Zeiten war ich soweit auch zufrieden. Danach schlich sich etwas der Wurm ein und der Coronablues schlug zu. Dann kam die erste Impfung und ich wollte wieder voll durchstarten. Ich hielt 3 Tage nach der Impfung noch die Beine still und ging am 4. Tag wieder laufen. Das war anscheinend nicht genug Pause, denn am nächsten Tag lag ich komplett Flach. Also nochmal ein wenig mehr Pause gemacht und die ganze Sache auch bis nach der zweiten Impfung langsam angehen lassen. Nach der zweiten Impfung habe ich dann eine Woche Pause gemacht, um wirklich sicher zu gehen.&lt;/p&gt;
+&lt;p&gt;Ab dann lief es auch wieder besser und ich konnte jeden zweiten Tag laufen gehen und die Form wurde auch immer besser. Dann kam unser Sohn Anfang September in die KiTa; und alle Eltern können sich schon vorstellen, was dann passierte ;). Exakt, wir wurden von einem fiesen KiTa-Virus flach gelegt und ich musste eine 16-tägige Pause einlegen.&lt;/p&gt;
+&lt;p&gt;Danach lief es wieder sehr gut und ich konnte regelmäßig und konstant laufen. Das zog ich dann bis Mitte Dezember durch, bis die Booster-Impfung anstand. Nach den bisherigen Erfahrungen hab ich das dann zu einer Erholungs-/Weihnachtspause genutzt. Mit dem Silvesterlauf letzte Woche habe ich dann jetzt das Laufjahr 2022 eingeläutet und hoffe dass das wieder besser wird als 2021.&lt;/p&gt;
+&lt;p&gt;Insgesamt bin ich in 2021 1325km gelaufen, das war sehr weit weg von meinem Ziel 2000km+. Aber ich nehme das locker und blicke in die Zukunft. Was mir gleich die Überleitung zur Planung für das Jahr 2022 baut.&lt;/p&gt;
+&lt;h2 id=&quot;planung-2022&quot;&gt;Planung 2022&lt;/h2&gt;
+&lt;p&gt;Da sich die Lage in der Pandemie nicht seriös für 2022 vorher sagen lässt ist dieser Plan natürlich nicht in Stein gemeißelt und lässt sich auch jederzeit ändern. Aber grob plane ich mit einem Wettkampf Ende Mai, einer Trailsaison im Sommer und evtl noch einem Wettkampf Ende des Jahres.&lt;/p&gt;
+&lt;h3 id=&quot;grunds%C3%A4tze-meines-trainings&quot;&gt;Grundsätze meines Trainings&lt;/h3&gt;
+&lt;p&gt;Ich habe in älteren Artikeln schon öfter über meine Trainingsgrundsätze geschrieben, allerdings wollte ich es hier nochmal kurz zusammenfassen und den aktuellen Stand darlegen. Ich plane mein Training mit meiner historisch gewachsenen Exceltabelle gern für das ganze Jahr im voraus, dabei berechne ich mir aus der aktuellen CP/FTP die entsprechenden Belastungswerte (TSS) für die einzelnen Trainingseinheiten und versuche so mein Training ausgewogen zu gestalten. Für die einzelnen Läufe benutze ich für Grundlagenausdauerläufe den Puls als Richtwert, hier nutze ich &lt;a href=&quot;https://pubmed.ncbi.nlm.nih.gov/16095403/&quot;&gt;den Puls an der Laktatschwelle&lt;/a&gt; als Basiswert und leite daraus die Pulsbereiche ab.&lt;/p&gt;
+&lt;p&gt;Für Intervalle und Schwellenläufe richte ich mich nach den Wattwerten des &lt;a href=&quot;http://stryd.com/&quot;&gt;Stryd&lt;/a&gt;. Für die Intervalle könnte man natürlich auch auf die Pace setzen, ich sehe aber einen Vorteil der Wattmessung mit dem Stryd darin, dass man mit der CP immer ein Maß für die aktuelle Form hat und man die Intervalle deshalb immer entsprechend der Form richtig Pacen kann. Das setzt natürlich voraus, dass man das Modell auch mit den...</content>
+  </entry>
+  
+  <entry>
+    <title>1. Lion&#39;s Gäubodenlauf</title>
+    <link href="/posts/2021-04-24-1-lions-gaeubodenlauf/"/>
+    <updated>2021-04-24T00:00:00Z</updated>
+    <id>https://raincastle.blog/posts/2021-04-24-1-lions-gaeubodenlauf/</id>
+    <content type="html">&lt;p&gt;Der letzte Wettkampf liegt gerade erstmal etwas mehr als 3 Wochen zurück, dennoch schreibe ich jetzt schon wieder einen Bericht über einen Wettkampf. Nachdem es das letzte Mal ein 10k Lauf war, habe ich mich diesmal für einen virtuellen 5k Wettkampf angemeldet.&lt;/p&gt;
+&lt;p&gt;Als Strecke habe ich mir wieder die bewährte Runde um den Eisweiher ausgesucht. Je kürzer die Strecke, desto einfacher ist diese Strecke mental.&lt;/p&gt;
+&lt;h2 id=&quot;prognose&quot;&gt;Prognose&lt;/h2&gt;
+&lt;p&gt;Mangels absolvierter 5k Rennen benutze ich meine aktuelle 10k Prognose für dieses Rennen, diese liegt aktuell bei einer Pace von 4:23 (21:56) und 259 Watt. Für die 5k kann man sicher noch ein paar % drauf geben, das würde dann auch ganz gut mit der Prognose aus der Stryd-App übereinstimmen (sieht Bild unten). Aus diesen Prognosen leite ich das Ziel ab auf jeden Fall unter 22 Minuten bleiben zu wollen und in Richtung 21 Minuten zu Schielen.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/IMG_8567.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;rennen&quot;&gt;Rennen&lt;/h2&gt;
+&lt;p&gt;Diesmal absolvierte ich das Rennen nicht alleine, sowohl meine Familie (Sohn spielte mit Mama auf dem Spielplatz) war zur Unterstützung dabei wie auch zwei Mitstreiter. Michael und Florian hatten sich ebenso für den Lauf angemeldet. Die Bedingungen waren nahezu optimal: trocken, sonnig und ca 6 Grad. Um das Ganze Coronakonform zu halten, starteten wir nacheinander im Abstand von 1-2 Minuten. Ich wollte den Lauf konservativ angehen und mich im Laufe des Laufs steigern, so ging ich es auch an. Nach einer halben Runde um den See hatte ich aber ein komisches Gefühl in den Beinen und sie fühlten sich sehr leer bzw wie eingeschlafen an. Ein kurzer Blick auf die Uhr verriet mir auch den Grund dafür: Ich war viel zu schnell unterwegs. Die Pace lag bei 3:45/min und die Power bei ca 300W. Ich nahm also Tempo raus und versuchte mich bei 4:20 und 260W einzupendeln. Das gelang mir dann auch nach dem ersten Kilometer ganz gut. Die nächsten drei Kilometer verliefen dann ganz unspektakulär und ich konnte die Pace bei etwa 4:10-4:15 halten. Auf dem letzen Kilometer wollte ich nochmal alles raus holen und die Pace Richtung 4:00 pushen, was mir mit einer 4:07 pace auch ganz gut gelang. Am Ende der 5k standen &lt;a href=&quot;https://www.strava.com/activities/5181407449&quot;&gt;21:03&lt;/a&gt; min auf der Uhr. Mit diesem Ergebnis bin ich sehr zufrieden und ich konnte meine Ziele erreichen.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/IMG_8574.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;what%E2%80%99s-next%3F&quot;&gt;What’s next?&lt;/h2&gt;
+&lt;p&gt;Im Mai werde ich mich nun wieder ein wenig mehr auf die Trails begeben um dann in der 2. Jahreshälfte die Vorbereitung auf einen Halbmarathon zu starten.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Fazit des ersten Trainingsblock 2021</title>
+    <link href="/posts/2021-04-10-fazit-des-ersten-trainingsblock-2021/"/>
+    <updated>2021-04-10T00:00:00Z</updated>
+    <id>https://raincastle.blog/posts/2021-04-10-fazit-des-ersten-trainingsblock-2021/</id>
+    <content type="html">&lt;p&gt;Um dieses 2. Coronajahr Lauftechnisch nicht ganz den Bach runter gehen zu lassen, habe ich mir trotz der zu erwartenden Wettkampflosigkeit einen Trainingsplan mit 2 Mock-Wettkämpfen verordnet. Das erste Quartal 2021 und somit auch der erste Trainingszyklus sind nun vorbei, Zeit ein Fazit zu ziehen.&lt;/p&gt;
+&lt;h2 id=&quot;vorbereitung&quot;&gt;Vorbereitung&lt;/h2&gt;
+&lt;p&gt;Für die Vorbereitung auf den Halbmarathon im Herbst wollte ich im Frühjahr etwas an meiner Geschwindigkeit auf der Unterdistanz arbeiten und den Trainingsblock mit einem 10k-Lauf abschließen. Dafür hatte ich mir wieder die schnelle Strecke rund um den Eisweiher ausgesucht. Die 13-wöchige Vorbereitung startete ich schon fast traditionell in der Silvesterwoche mit einem &lt;a href=&quot;https://www.strava.com/activities/4543863751&quot;&gt;3-Schweinehunde Communitylauf&lt;/a&gt;. Bei mir war es ein Berglauf mit 400 HM.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Die erste Phase&lt;/strong&gt; meines Plans nutzte ich dazu, die Umfänge nach der Off-Season wieder zu erhöhen. Um die Belastung nicht zu schnell zu steigern, verzichtete ich bis auf &lt;a href=&quot;https://www.strava.com/activities/4587696585&quot;&gt;einen kleinen Test&lt;/a&gt; auf Tempoarbeit. &lt;strong&gt;Die zweite Phase&lt;/strong&gt; wollte ich dazu nutzen wieder in die Tempoarbeit einzusteigen und an meiner Tempohärte zu arbeiten. Leider war es von Anfang bis Mitte Februar sehr kalt und es schneite viel, sodass die Straßen für Intervalle eher ungeeignet waren. Kurzum verkürzte ich die zweite Phase auf 2 Wochen und zog die Erholungswoche vor. Durch die vorgezogenen Erholungswoche wurde &lt;strong&gt;die letzte Phase&lt;/strong&gt; von 3 auf 4 Wochen verlängert. Diese Verlängerung um eine Woche merkte ich vor allem in der 2. Hälfte der letzten Belastungswoche und ich war froh als das Tapering begann. Die Königseinheit des Trainingblocks sollte eigentlich eine &lt;a href=&quot;https://www.strava.com/activities/4882690337&quot;&gt;4x12’ Threshold Intervalleinheit&lt;/a&gt; werden. Leider hatte ich in dieser Mittagspause keine Zeit dafür, daher musste ich mich mit 3x12’ zufrieden geben. Dafür nutzte ich den daruffolgenden Longrun noch für einen &lt;a href=&quot;https://www.strava.com/activities/4902164530&quot;&gt;Steigerungslauf&lt;/a&gt;. Beide Einheiten verliefen sehr gut und ich fühlte mich bereit für die 10k-Challenge.&lt;/p&gt;
+&lt;h2 id=&quot;prognose&quot;&gt;Prognose&lt;/h2&gt;
+&lt;p&gt;Das Ziel für die 10k-Challenge war es, einen schnellen Lauf unter 45 Minuten, so nah wie möglich an die 40 Minuten zu absolvieren. Meine Prognose, basierend auf der aktuellen FTP/CP sagte mir, dass ich im Schnitt 256 W und am Ende eine Pace von 04:26 min/km bei einer Endzeit von 44:24 min Laufen können sollte. Die FTP sollte einigermaßen akkurat sein, hätte aber mit einem 15 oder 20 minütigem maximal-Intervall noch besser sein können.&lt;/p&gt;
+&lt;h2 id=&quot;wettkampf&quot;&gt;Wettkampf&lt;/h2&gt;
+&lt;p&gt;Den Wettkampf musste ich dann leider um eine Woche verschieben und so hatte ich statt 2 Taperingwochen nun 3 zur Verfügung und ich startete am K-Samstag meine 10k-Challenge. Alles war vorbereitet für die ca. 16 Runden um den Eisweiher. Der Lauf fing gut an, ich wollte die ersten paar Runden dazu nutzen mich einzugrooven und dann ab km 2 richtig Gas zu geben. Das versuchte ich dann auch und es lief gut, ich konnte meine Vorgaben gut halten und versuchte das Tempo zu halten. Bis Kilometer 5 hatte ich mich auf eine Pace von 4:15-4:20 eingependelt. Kurz nach der Hälfte versuchte ich das Temo nochmal zu erhöhen und trank etwas von meinem deponierten Wasser. Ein bis zwei Runden späer sah ich dann, dass sich jemand meinem Wasser näherte und es aus der Ferne untersuchte - ich wurde skeptisch und behielt ihn im Auge. Als ich an der Bank wieder vorbei kam näherete er sich meinem Wasser und fasste es an, da drehte ich um und schrie ihn an was dass denn soll (Corona of all times …?!?). Er entfernte sich dann auch schimpfend wieder von meinem Wasser, aber trinken wollte ich davon dann auch nicht mehr. Außerdem kostete mich dieser Vorfall ca. 20-30 Sekunden, die Uhr hat wohl pausiert aber zuträglich war es der Pace eher nicht. Mit Wut im Bauch konnte...</content>
+  </entry>
+  
+  <entry>
+    <title>Herzfrequenzvariabilitätsmessung (HRV) - Gastbeitrag von Jens Peters</title>
+    <link href="/posts/2021-02-27-herzfrequenzvariabilitaetsmessung-hrv-gastbeitrag-von-jens-peters/"/>
+    <updated>2021-02-27T00:00:00Z</updated>
+    <id>https://raincastle.blog/posts/2021-02-27-herzfrequenzvariabilitaetsmessung-hrv-gastbeitrag-von-jens-peters/</id>
+    <content type="html">&lt;p&gt;Ein Gastbeitrag zur Herzfrequenzvariabilitätsmessung von Jens Peters&lt;/p&gt;
+&lt;h2 id=&quot;vorwort&quot;&gt;Vorwort&lt;/h2&gt;
+&lt;p&gt;Seit einem Monat messe ich jeden Morgen meine Herzratenvariabilität, um neben meinem Körpergefühl noch einen objektiven Messwert für die Regeneration zur Belastungssteuerung zur Hand zu haben. Die Fortschritte in der Messung, die es jetzt auch möglich macht die Handykamera zur Messung zu benutzen, haben die Messung so angenehm gemacht, dass ich es auch in meinen Alltag mit einem 18-Monate alten Sohn einfügen kann. Da ich mich selbst noch an das Thema herantaste und erstmal nur Daten sammle, habe ich &lt;a href=&quot;https://instagram.com/running_jot__pe?igshid=25y3svsiyjsr&quot;&gt;Jens&lt;/a&gt; gebeten einen Gastartikel für meinen Blog zu schreiben. Weitere Informationen zu Jens findet ihr am Ende des jetzt folgenden Artikels.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2 id=&quot;wie-die-messung-der-herzratenvariabilit%C3%A4t-(hrv)-beim-ausdauertraining-helfen-kann&quot;&gt;Wie die Messung der Herzratenvariabilität (HRV) beim Ausdauertraining helfen kann&lt;/h2&gt;
+&lt;p&gt;Der Begriff der Herzratenvariabilität ist inzwischen vielen Sportinteressierten schon einmal über den Weg gelaufen. Wer sich beispielsweise eine neue Sportuhr kaufen will und zuvor die Leistungsmerkmale des anvisierten Modells studiert hat, dürfte bei mehr und mehr Herstellern ebenfalls über diesen Begriff und die dazu gehörige Messung gestolpert sein. Doch was ist die Herzratenvariabilität, wie kann ich sie messen und wie profitiert mein Lauftraining davon? - diesen Fragen will ich hier nachgehen. Dabei will ich nicht zu sehr ins wissenschaftliche gehen, sondern eher einen soliden Überblick zu den genannten Fragen geben und für die weitere Recherche Linktipps geben.&lt;/p&gt;
+&lt;h3 id=&quot;was-ist-die-herzratenvariabilit%C3%A4t%3F&quot;&gt;Was ist die Herzratenvariabilität?&lt;/h3&gt;
+&lt;p&gt;„Vor 10 bis 15 Jahren stand der Begriff nicht einmal im gängigsten medizinischen Wörterbuch“, &lt;a href=&quot;https://www.runnersworld.de/training-basiswissen/was-ist-eigentlich-die-herzfrequenzvariabilitaet/&quot;&gt;erklärte jüngst&lt;/a&gt; Kuno Huttenrott - Sportwissenschaftler an der Martin-Luther-Universität Halle-Wittenberg. Inzwischen ist &lt;a href=&quot;https://www.iat.uni-leipzig.de/datenbanken/iks/sponet/Search/Results?lookfor=hrv&amp;amp;type=AllFields&quot;&gt;die Anzahl der Publikationen sprunghaft angestiegen&lt;/a&gt;, denn die Herzratenvariabilität gibt einen Aufschluss darüber, wie fit ein Mensch ist. Doch nicht nur das - auch Rückschlüsse über Krankheiten oder einen allgemein gestressten Organismus lassen sich ziehen. Das dies für Sportler interessant ist, liegt auf der Hand.&lt;/p&gt;
+&lt;p&gt;Die Herzratenvariabilität misst - simpel ausgedrückt - die Abstände zwischen zwei Herzschlägen. Die Abstände sind nämlich, anders als man vielleicht denken würde, nicht alle gleich, sondern unterscheiden sich im Millisekundenbereich. Je variabler die Werte ausfallen, desto fitter ist der Organismus. Das Herz ist jederzeit in der Lage sprunghaft das Herz-Kreislaufsystem anzukurbeln, weil es so variabel arbeitet. Ist der Körper gestresst und dies kann unterschiedliche Gründe haben, wie Sport, Stress auf der Arbeit oder in der Familie, Menstruation, Schwangerschaft, Verletzungen, Alkohol oder zu wenig Schlaf, dann nimmt die Variabilität ab und damit auch die Leistungsfähigkeit.&lt;/p&gt;
+&lt;p&gt;Die Vorgänge im Körper sind natürlich wesentlich komplexer und wer sich für den Einfluss von Sympathikus und Parasympathikus auf die Erholung und die HRV interessiert, dem lege ich beispielsweise diese beiden Videos (&lt;a href=&quot;https://www.youtube.com/watch?v=Sww2sffbV3k&quot;&gt;1&lt;/a&gt;, &lt;a href=&quot;https://www.youtube.com/watch?v=niwy5rjt36M&quot;&gt;2&lt;/a&gt;) von Laura Hottenrott (Tochter des oben genannten Wissenschaftlers ans Herz).&lt;/p&gt;
+&lt;h3 id=&quot;wie-messen%3F&quot;&gt;Wie messen?&lt;/h3&gt;
+&lt;p&gt;Es gibt verschiedene Arten die Herzratenvariabilität zu messen. Eine Möglichkeit ist ein Handy mit einer entsprechenden App zu benutzen - ein Brustgurt ist nicht zwingend nötig (mehr dazu gleich). Auch immer mehr Sportuhren (zum Beispiel die Polar Vantage-Modelle) können...</content>
+  </entry>
+  
+  <entry>
+    <title>Meine Lauf-Jahressplanung für 2021</title>
+    <link href="/posts/2021-01-31-meine-lauf-jahressplanung-fuer-2021/"/>
+    <updated>2021-01-31T00:00:00Z</updated>
+    <id>https://raincastle.blog/posts/2021-01-31-meine-lauf-jahressplanung-fuer-2021/</id>
+    <content type="html">&lt;p&gt;Jetzt ist es ja fast schon zu spät um diesen Artikel für die Jahresplanung 2021 zu schreiben. Da ich diesen Artikel aber unbedingt schreiben wollte, tue ich es jetzt einfach, ist ja schließlich auch meine Seite und solange es noch Januar ist, ist das auch vertretbar denke ich.&lt;/p&gt;
+&lt;h2 id=&quot;lehren-aus-den-letzten-jahren&quot;&gt;Lehren aus den letzten Jahren&lt;/h2&gt;
+&lt;p&gt;Im letzten Artikel habe ich das letzte Jahr ja schon revue passieren lassen. Hier will ich aber nochmal kurz auf die Lehren aus den letzten Jahren eingehen. Konstantes Laufen, das ist der einfache Teil, dieses Jahr will ich mich auf die Teile des Trainings konzentrieren, die ich in letzter Zeit vernachlässigt habe: die Regeneration. Das heißt mehr von Mobility, &lt;a href=&quot;https://youtu.be/g_tea8ZNk5A&quot;&gt;Stretching&lt;/a&gt;, &lt;a href=&quot;https://www.blackroll.com/de/&quot;&gt;Foam-Rolling&lt;/a&gt;, Stabilitäts-/Krafttraining und auch die Herzfrequenzvariabilitätsmessung (kurz HRV) will ich mir wieder etwas näher ansehen. Kurz gesagt: es geht um “Körperpflege” um zum einen die Folgen des Schreibtischjobs abzufedern und andererseits so fit und ausgeruht wie möglich die Trainingseinheiten absolvieren zu können. Der Plan ist, dieses Jahr neben dem Lauftraining jeweils 1-2 mal pro Woche auf der Blackroll rollen, 15 min Yoga machen und/oder Krafttraining machen und eben jeden Tag &lt;a href=&quot;https://www.hrv4training.com&quot;&gt;die HRV Messen&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/2021-01-01_14.43.02-7955-300x281.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Ich habe mir zur Dokumentation dessen auch eine &lt;a href=&quot;https://apps.apple.com/us/app/tally-the-anything-tracker/id1090990601&quot;&gt;App&lt;/a&gt; heruntergeladen und werde den Fortschritt darin festhalten und ab und an auf Instagram posten :)&lt;/p&gt;
+&lt;h3 id=&quot;grunds%C3%A4tze-meines-trainings&quot;&gt;Grundsätze meines Trainings&lt;/h3&gt;
+&lt;p&gt;Ich hab in älteren Artikeln schon öfter über meine Trainingsgrundsätze geschrieben, allerdings wollte ich es hier nochmal kurz zusammenfassen und den aktuellen Stand darlegen. Ich plane mein Training mit meiner historisch gewachsenen Exceltabelle gern für das ganze Jahr im voraus, dabei berechne ich mir aus der aktuellen CP/FTP die entsprechenden Belastungswerte (TSS) für die einzelnen Trainingseinheiten und versuche so mein Training ausgewogen zu gestalten [&lt;a href=&quot;https://www.scienceforsport.com/acutechronic-workload-ratio/&quot;&gt;6&lt;/a&gt;]. Für die einzelnen Läufe benutze ich für Grundlagenausdauerläufe den Puls als Richtwert, hier nutze ich &lt;a href=&quot;https://pubmed.ncbi.nlm.nih.gov/16095403/&quot;&gt;den Puls an der Laktatschwelle&lt;/a&gt; als Basiswert und leite daraus die Pulsbereiche ab.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/Bildschirmfoto-2021-01-30-um-20.47.53-300x187.png&quot; alt=&quot;Pulsbereiche&quot; /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Für Intervalle und Schwellenläufe richte ich mich nach den Wattwerten des &lt;a href=&quot;http://Stryd.com&quot;&gt;Stryd&lt;/a&gt;. Für die Intervalle könnte man natürlich auch auf die Pace setzen, ich sehe aber einen Vorteil der Wattmessung mit dem Stryd darin, dass man mit der CP immer ein Maß für die aktuelle Form hat und man die Intervalle deshalb immer entsprechend der Form richtig Pacen kann. Das setzt natürlich voraus, dass man das Modell auch mit den richtigen Daten füttert. Aber bei einem ausgewogenen Trainingsplan sollte das automatisch der Fall sein. Die Pulsbereiche verändern sich Gottseidank nicht so schnell, sodass man mit einem &lt;a href=&quot;https://pubmed.ncbi.nlm.nih.gov/16095403/&quot;&gt;Test&lt;/a&gt; vor einem Trainingsblock ganz gut zurecht kommt.&lt;/p&gt;
+&lt;h3 id=&quot;ausr%C3%BCstung&quot;&gt;Ausrüstung&lt;/h3&gt;
+&lt;p&gt;Heutzutage kann es schnell passieren, dass man zu viele Gadgets sammelt und man behangen wie ein Christbaum durch die Gegend läuft. Ich versuche eine gute Balance zwischen dem Interesse an neuen Techniken und dem tatsächlich nützlichen zu finden. Als GPS Uhr setze ich seit Jahren auf Garmin, nachdem ich vor 3 Jahren wegen des Stryd auf eine FR235 upgegradet habe, habe ich mittlerweile auf die &lt;a href=&quot;https://amzn.to/2YqUefs&quot;&gt;Fenix 6X PRO&lt;/a&gt; gewechselt. Sie liefert neben der Möglichkeit zur...</content>
+  </entry>
+  
+  <entry>
+    <title>Das dritte konstante Jahr in Folge | Review 2020</title>
+    <link href="/posts/2020-12-30-das-dritte-konstante-jahr-in-folge-review-2020/"/>
+    <updated>2020-12-30T00:00:00Z</updated>
+    <id>https://raincastle.blog/posts/2020-12-30-das-dritte-konstante-jahr-in-folge-review-2020/</id>
+    <content type="html">&lt;p&gt;Das Jahr 2020 verlief in vielen Bereichen nicht so wie geplant oder erhofft, aber das lest ihr sicherlich jetzt schon zum 100. Mal. Im Bezug auf das Laufen verlief das Jahr bei mir allerdings recht positiv, da spielte es mir natürlich in die Karten, dass ich seit Februar nur noch im Homeoffice arbeite, was die Trainingsplanung erheblich erleichtert. Zwar konnte ich keine neue persönliche Bestzeit aufstellen, allerdings ist das auch nicht immer das entscheidende Kriterium, denn im Großen und Ganzen denk ich bin ich in 2020 ein kompletterer und konstanterer Läufer geworden.&lt;/p&gt;
+&lt;p&gt;Meine “Laufkarriere” war bisher von auf und abs geprägt, was die Konstanz über die Jahre angeht. Allerdings wurden die Umfänge über die Jahre immer höher.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/Years_over_time-300x151.png&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Seit 2017 lief ich allerdings immer über 1000km und der Schnitt der letzten 3 Jahre, seit 2018, liegt bei über 2000km pro Jahr und auch für 2021 plane ich mit über 2000km, dazu aber mehr in einem weiteren Artikel. Das freut mich umso mehr weil das alles zusammen mit meiner Familie möglich war/ist und ich bei 645km in Begleitung meines Sohnes unterwegs war.&lt;/p&gt;
+&lt;p&gt;Der Hauptwettkampf diesen Jahres solle eigentlich der Valencia Halbmarathon Ende Oktober sein .Dafür wollte ich mich in der ersten Hälfte des Jahres mit einem 10k vorbereiten. Leider fiel dieses Ziel schnell ins Wasser und ich konzentrierte mich in der ersten Jahreshälfte darauf meine Grundlagenausdauer zu verbessern.&lt;/p&gt;
+&lt;p&gt;Im Sommer (Juli) konnte ich dann die neu gewonnene Nähe zu den Bergen ausnutzen und ich versuchte mich auf den Trails in bayerischen Wald.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Arberseewandtrail: &lt;a href=&quot;https://youtu.be/W4YSJA2AR10&quot;&gt;Youtube&lt;/a&gt; - &lt;a href=&quot;https://www.strava.com/activities/3726015438&quot;&gt;Strava&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Schopf - Hirschenstein - Rauher Kulm: &lt;a href=&quot;https://youtu.be/6_o4I1SRyh8&quot;&gt;Youtube&lt;/a&gt; - &lt;a href=&quot;https://www.strava.com/activities/3759672769&quot;&gt;Strava&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.strava.com/activities/4052539067&quot;&gt;Dreitannenriegel - Geißkopf - Breitenauer Riegel - Hölzerne Hand&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.strava.com/activities/4300380509&quot;&gt;Hirschenstein - Rauher Kulm - Schopf&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Leider hatte ich bei den letzten beiden Läufen technische Probleme mit der GoPro, weshalb ich dort kein Video gedreht habe… Für nächsten Sommer habe ich schon ein paar Ideen für neue Routen und ich hoffe, dass es dann mit der GoPro auch wieder klappt und es wieder neuen content auf meinem Youtube-Kanal gibt.&lt;/p&gt;
+&lt;p&gt;Die zweite Hälfte des Jahres habe ich dann einfach den geplanten Trainingsplan für den Valencia Halbmarathon durchgezogen, auch wenn er nicht stattfand. Der Ersatz für den Wettkampf sollte dann der &lt;a href=&quot;https://www.strava.com/activities/4240359310&quot;&gt;Eisweiher Half&lt;/a&gt; werden, allerdings hatte ich dort dann Rückenprobleme und musste den Lauf frühzeitig abbrechen.&lt;/p&gt;
+&lt;p&gt;Den November und Dezember habe ich dann zum Ausruhen und für die Off-Season benutzt. Außerdem ist das traditionell die Zeit des Jahres um sich über den Jahresplan des nächsten Jahres Gedanken zu machen, aber dazu dann mehr im nächsten Beitrag.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/2020_year_progression-300x189.png&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Trainingsdaten analysieren mit Encrateia (Betaversion | 0.4.6) - Übersicht</title>
+    <link href="/posts/2020-08-17-trainingsdaten-analysieren-mit-encrateia-betaversion-0-4-6-uebersicht/"/>
+    <updated>2020-08-17T00:00:00Z</updated>
+    <id>https://raincastle.blog/posts/2020-08-17-trainingsdaten-analysieren-mit-encrateia-betaversion-0-4-6-uebersicht/</id>
+    <content type="html">&lt;p&gt;Im März 2019 &lt;a href=&quot;https://raincastle.blog/posts/2019-03-25-anforderungen-an-eine-selbst-gebaute-trainingsdokumentations-und-analyse-software/&quot;&gt;schrieb ich darüber,&lt;/a&gt; was eine selbstgebaute Trainigssoftware/-App für mich können muss. Nun ist es soweit und &lt;a href=&quot;https://www.informatom.com/&quot;&gt;Stefan&lt;/a&gt; hat nun die Betaversion (v 0.4.6) von &lt;a href=&quot;https://encrateia.informatom.com&quot;&gt;Encrateia&lt;/a&gt; soweit fertig, dass wir sie zum öffentlichen Test bereitstellen können. Solltet ihr Android-User sein, könnt ihr die APK-Files direkt &lt;a href=&quot;https://encrateia.informatom.com/download/&quot;&gt;hier&lt;/a&gt; herunterladen, für iOS gibt es ein &lt;a href=&quot;https://testflight.apple.com/join/RzIM0Yr3&quot;&gt;Testflight-Programm&lt;/a&gt;. Feedback könnt ihr gerne als Kommentar unter dem Post, im 3-Schweinehunde &lt;a href=&quot;https://mattermost.informatom.com/signup_user_complete/?id=pniz51hpoiyqumcdeu11463o8h&quot;&gt;Mattermost-Kanal&lt;/a&gt; oder auf der &lt;a href=&quot;https://gitlab.informatom.com/3-schweinehunde/encrateia&quot;&gt;Gitlab-Seite&lt;/a&gt; geben.&lt;/p&gt;
+&lt;p&gt;Encra … WAS?&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;https://de.wikipedia.org/wiki/Enkrateia&quot;&gt;Encrateia&lt;/a&gt; kommt von dem Adjektiv enkratês (ἐγκρατής von ἐν (en, “in”), was Besitz, Macht über etwas oder jemand anderen bedeutet + κράτος (krátos, “Macht”)). Daraus ergibt sich die Bedeutung von Macht über sich selbst, Macht über die eigenen Leidenschaften und Instinkte, Selbstkontrolle und Selbstbeherrschung. - Enkrateia in Wikipedia&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Unsere App soll euch also ermächtigen die Macht über die mit eurem Fitnesstracker gesammelten Daten zu bekommen bzw. zu erhalten. Aktuell kann Encrateia mit .fit Files von verschiedenen Garmin Uhren umgehen (&lt;a href=&quot;https://encrateia.informatom.com/compatibility/&quot;&gt;Kompatibilitätsliste&lt;/a&gt;). Viele von euch laden ihre Aktivitäten standardmäßig zu Strava hoch, um sie dort zu teilen, zu analysieren, oder ganz einfach weil die Aktivitäten nach einer bestimmten Zeit automatisch wieder von der Laufuhr gelöscht werden, um Platz für neue Aktivitäten zu machen. Da die meisten von euch ein Smartphone besitzen haben wir dafür eine App gebaut.&lt;/p&gt;
+&lt;p&gt;Um Eure Daten zu erhalten, rufen wir Informationen über einzelne Aktivitäten über die Strava-API ab. Da die .fit-files nur von der Website (und nicht über die API) heruntergeladen werden können, müsst Ihr eure Strava-Anmeldeinformationen ein zweites Mal angeben. Dann könnt Ihr den [Download von Strava]-Button auf dem Athletenbildschirm verwenden, um die neuesten Aktivitäten herunterzuladen. Sie werden dann auf dem Handy gespeichert. Dann werden diese .fit-Dateien analysiert und die Daten in einer lokalen SQLite-Datenbank auf dem Gerät gespeichert. Dies dauert einige Zeit, das Parsen ist schnell, aber das Speichern dauert 20 bis 30 Sekunden pro Aktivität. Dies macht eine spätere Analyse jedoch viel schneller und muss nur einmal durchgeführt werden.&lt;/p&gt;
+&lt;p&gt;Ihr müsst die .fit-Files nicht unbedingt von Strava holen, ihr könnt sie auch direkt von eurer Uhr in die App laden. Erstellt dazu einen Benutzer mit der zweiten Option “Erstellen eines eigenständigen Benutzers”. Legt dann die .fit-Files im Dokumentenverzeichnis der Encrateia-App  ab. Ihr könnt die .fit-Files von zB. Garmin Connect über den Batch-Export downloaden. Um die Identifizierung des richtigen Verzeichnisses zu erleichtern, haben wir dort eine Datei mit dem Namen “put_your_fit_files_here.txt” abgelegt. Abschließend die Schaltfläche „Aus lokalem Verzeichnis importieren“ auf Athleten-Level tappen und die Tracking-Daten werden importiert.&lt;/p&gt;
+&lt;p&gt;Aktuell bietet die App 3 Level an Analysen an, die ich hier nun kurz vorstellen will. In den nächsten Wochen und Monaten will ich weitere Artikel publizieren um etwas genauer auf die einzelnen Analysemöglichkeiten einzugehen.&lt;/p&gt;
+&lt;h2 id=&quot;athleten-ebene&quot;&gt;Athleten-Ebene&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/IMG_7197-150x300.jpeg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Auf Athleten-Ebene befinden sich alle Einstellungsmöglichkeiten (graue Felder). Man kann sein Gewicht eingeben...</content>
+  </entry>
+  
+  <entry>
+    <title>Was hat die 2. Hälfte 2020 noch zu bieten?</title>
+    <link href="/posts/2020-08-03-was-hat-die-2-haelfte-2020-noch-zu-bieten/"/>
+    <updated>2020-08-03T00:00:00Z</updated>
+    <id>https://raincastle.blog/posts/2020-08-03-was-hat-die-2-haelfte-2020-noch-zu-bieten/</id>
+    <content type="html">&lt;p&gt;Die erste Hälfte des Jahres 2020 stand ganz im Zeichen des Coronavirus.&lt;/p&gt;
+&lt;h2 id=&quot;review-erste-h%C3%A4lfte&quot;&gt;Review erste Hälfte&lt;/h2&gt;
+&lt;p&gt;Ich war mir Anfang des Jahres noch nicht ganz sicher, welches Rennen den Trainingsblock im Frühjahr abschließen sollte, aber ich wollte ja gerne meine 10k Bestzeit angreifen, wenn nicht sogar verbessern. Daraus wurde leider nichts. Stattdessen hab ich den Fokus mehr auf Regelmäßigkeit und die Verbesserung der Grundlagenaußdauer gelegt. Dank Homeoffice und mildem Sommer, konnte ich das auch bin Ende Juni gut durchziehen. Im Juli wollte ich dann 4 Wochen Pause machen, um mich dann ab August auf den Herbstmarathon Ende Oktober vorzubereiten.&lt;/p&gt;
+&lt;p&gt;Der Grundlagenausdauerblock scheint mir sehr gut getan zu haben, denn die Longruns fallen mir aktuell leicht und die ersten 90sec Intervalle letzte Woche haben sich garnicht so schlimm angefühlt, wie die gleichen Intervalle zu beginn meines letzten Halbmarathon Trainingsplans.&lt;/p&gt;
+&lt;p&gt;Ganz ohne Höhepunkt wollte ich den letzten Trainingsblock auch nicht abschließen und so habe ich die neue Nähe zum Bayerischen Wald genutzt und in meinem Urlaub 2 herrliche Trailläufe gemacht. Die habe ich dann auch je zu einem YouTube Video verwurstet. Hier die beiden Links dazu:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Schopf - Hirschenstein - Rauher Kulm&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://youtu.be/6_o4I1SRyh8&quot;&gt;https://youtu.be/6_o4I1SRyh8&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Arberseewandtrail&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://youtu.be/W4YSJA2AR10&quot;&gt;https://youtu.be/W4YSJA2AR10&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Ich muss sagen, dass mir diese Berg-/Trailläufe schon sehr viel Spaß gemacht haben und ich das in Zukunft wohl öfter zur Abwechslung in mein Training einbauen werde.&lt;/p&gt;
+&lt;p&gt;Am Anfang habe ich noch meine einfachen Longrun Schuhe dafür verwendet, aber für die Nächsten Läufe habe ich mir die Inov-8 Terraultra G270 geholt. Ich habe damit zwar erst einen kurzen Testlauf absolviert aber ich muss sagen, die sind schon sehr geil. Der Grip ist unfassbar gut und auch sonst passen sie sehr gut. Für ein in-depth review hier entlang: &lt;a href=&quot;https://youtu.be/WQ12auEELaE&quot;&gt;https://youtu.be/WQ12auEELaE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Für die Zukunft bin ich auch immer auf der Suche nach neuen Strecken und gut laufbarem Bergen im bayerischen Wald. Ich habe mir jetzt mal selbst 2 Strecken auf Strava geplant und hoffentlich schaffe ich es auch dieses Jahr noch sie zu laufen. Falls ihr noch gute Vorschläge habt, lasst es mich gerne in den Kommentaren, auf Twitter oder Instagram wissen.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Dreitannenriegel - Geißkopf - Breitenauriegel - Hölzerne Hand&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.strava.com/routes/2725285093029172038&quot;&gt;https://www.strava.com/routes/2725285093029172038&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Kaitersberg&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.strava.com/routes/2725336882828351664&quot;&gt;https://www.strava.com/routes/2725336882828351664&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;zweite-h%C3%A4lfte&quot;&gt;Zweite Hälfte&lt;/h2&gt;
+&lt;p&gt;Der Höhepunkt der zweiten Jahreshälfte sollte eigentlich der Halbmarathon in Valencia werden. Ich hatte ihn aufgrund der Coronalage für mich intern schon abgehakt und nun wurde er auch offiziell am 20.07. für 2020 gecancelled und ich werde den Halbmarathon dann wohl in irgendeiner Weise hier lokal durchführen.&lt;/p&gt;
+&lt;p&gt;Die Wettkampflosigkeit bzw die unsichere Situation im Bezug auf (geplante) Wettkämpfe würde vielleicht dazu verleiten, einfach in einen Erhaltungsmodus zu schalten und zu versuchen die Fitness mit einem mehr oder weniger gut ausgearbeitetem Plan aufrecht zu erhalten. Leider ist das nur wenig Zielführend und die Motivation kann sehr darunter leiden. Also hab ich mich versucht auf einzelne Aspekte zu konzentrieren und im ersten Halbjahr 2020 den Fokus darauf gelegt, meine Grundlagenausdauer zu verbessern. Deshalb habe ich vor allem auf langsame Läufe und auf die Steigerung meiner Longruns geachtet.&lt;/p&gt;
+&lt;p&gt;Im zweiten Halbjahr möchte ich den Fokus nun wieder darauf legen auch an der Laktatschwelle schneller bzw besser zu werden, daher werde ich wieder einen “normalen”...</content>
+  </entry>
+  
+  <entry>
+    <title>Corona Aerob Fokus und Ersatzwettkämpfe</title>
+    <link href="/posts/2020-07-09-corona-aerob-fokus-und-ersatzwettkaempfe/"/>
+    <updated>2020-07-09T00:00:00Z</updated>
+    <id>https://raincastle.blog/posts/2020-07-09-corona-aerob-fokus-und-ersatzwettkaempfe/</id>
+    <content type="html">&lt;p&gt;In meinem letzten Artikel Anfang Februar hatte ich noch große Töne gespuckt und ich wollte mich mit meinem neu entwickelten Trainingsplan auf einen 10k im Frühjahr und den Valencia Halbmarathon im Herbst vorbereiten. Wie wir nun wissen kam alles ganz anders. Wettkämpfe wurden abgesagt und das Training musste umgestellt werden.&lt;/p&gt;
+&lt;p&gt;Mein Training habe ich dann ab Anfang/Mitte März auf einen Fokus der Grundlagenausdauer und Kontinuität umgestellt. Ich wollte also nur unterhalb der Laktatschwelle trainieren um den “aeroben Motor” zu stärken. Mein Plan war bis Ende Juni 4 Blocks à 3 Wochen zu absolvieren. Die Blöcke bestanden aus je einem Zone2/Grundlagenausdauerlauf, einem Schwellenlauf und im Optimalfall am Tag danach einem Regenerationslauf und am Sonntag einem Langen Lauf mit Kinderwagen. Dabei wollte ich das Volumen langsam aber kontinuierlich steigern. In der letzten Woche und damit dem Höhepunkt dieser Phase lief ich 59km und 372 TSS, der lange Lauf war dann auch knapp 26km.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/CleanShot-2020-07-09-at-23.10.56@2x-150x150.png&quot; alt=&quot;Übersicht Trainingsphase&quot; /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Als ich dann am Ende des Trainingsblocks ankam, fehlte mir irgendwie ein Höhepunkt, denn bisher war ich es immer gewohnt, jeden Trainingsblock mit einem Wettkampf abzuschließen.  Da aber in diesem Sommer immer noch keine Wettkämpfe stattfinden, musste ich mir etwas anderes ausdenken. Daher habe ich beschlossen in meinem Urlaub mal was neues auszuprobieren und habe mich ans Trail/Berglaufen gewagt. Für diese Herausforderung habe ich mir den höchsten Berg im Bayerischen Wald herausgesucht. Mit dem ArberlandUltraTrail gibt es auch ein Rennen, welches verschiedene Strecken beinhaltet. Ich habe mir hier die kürzeste Strecke ausgesucht - den &lt;a href=&quot;https://www.arberlandultratrail.de/rennen/#Arberlandtrail&quot;&gt;Arberseewandtrail&lt;/a&gt; mit dem Aufstieg zum Großen Arber. Hier ist meine &lt;a href=&quot;https://www.strava.com/activities/3726015438/overview&quot;&gt;Strava Aktivität&lt;/a&gt; dazu und der &lt;a href=&quot;https://connect.garmin.com/modern/course/34059372&quot;&gt;GPS-Track&lt;/a&gt;. Alles weitere dazu könnt ihr in meinem Youtube Video sehen:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://youtu.be/W4YSJA2AR10&quot;&gt;https://youtu.be/W4YSJA2AR10&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Ich muss sagen, dass mir das Berg/Traillaufen schon sehr viel Spaß gemacht hat und ich bestimmt noch den einen oder anderen Berg im Bayerischen Wald hochlaufen werde. Also falls ihr da den einen oder anderen Tipp habt, schreibt es mir gerne in die Kommentare. Für nächste Woche habe ich mir schon eine schöne Strecke ausgesucht, auch da werde ich meine GoPro wieder mitnehmen und ein Video machen :).&lt;/p&gt;
+&lt;p&gt;Eine weitere Sache die ich während des Lockdowns endlich gelöst habe ist ein für mich passendes Youtube Yoga- und Dehnvideo zu finden. Fündig geworden bin ich auf dem Kanal von Mady Morrison und ihrem &lt;a href=&quot;https://www.youtube.com/watch?v=g_tea8ZNk5A&amp;amp;list=PLgPoqhmXiL_NuVldT4TK58hHcaXjBfkPz&amp;amp;index=2&amp;amp;t=0s&quot;&gt;15 Min. Full Body Stretch&lt;/a&gt;-Video. Das ist genau was ich gesucht habe und ich versuche es so oft wie möglich zu machen.&lt;/p&gt;
+&lt;p&gt;Für die zweite Jahreshälfte werde ich mich allerdings wieder auf die Disziplin Halbmarathon konzentrieren. Ich wollte ja eigentlich am 25.10. den Halbmarathon in Valencia Laufen. Ich denke aber, dass dieser nicht stattfinden wird. Ich werde aber dennoch so trainieren, als würde er stattfinden und am 25.10. dann entweder einen anderen Halbmarathon laufen oder einen kreativen Halbmarathon auf einer selbstgewählten Strecke. Vielleicht starte ich auch mein eigenes “&lt;a href=&quot;https://www.youtube.com/watch?v=k-XgKRJUEgQ&quot;&gt;Breaking 2&lt;/a&gt;” Projekt und heuere Windschattengeber an :P. Nach meinem Urlaub habe ich noch eine Woche “Sommerpause” und ab Ende Juli versuche ich wieder etwas Geschwindigkeit und Spitzigkeit in meine Beine zu bekommen, das ganze langsam Laufen hat sie doch schon sehr Träge gemacht. Wie es damit weitergeht werdet ihr dann bald hier lesen.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Stryd PowerCenter 2.0</title>
+    <link href="/posts/2020-02-12-stryd-powercenter-2-0/"/>
+    <updated>2020-02-12T00:00:00Z</updated>
+    <id>https://raincastle.blog/posts/2020-02-12-stryd-powercenter-2-0/</id>
+    <content type="html">&lt;p&gt;Ich laufe nun seit mehr als 2 Jahren mit dem Stryd Powersensor und er ist in dieser Zeit eine sehr wichtige Ergänzung zu meinem Training geworden. Bisher war es immer nötig aus dem Stryd Ökosystem auszubrechen um das volle Potential des Sensor auszuschöpfen. So benutze ich zum Beispiel WKO5 um die FTP zu bestimmen und weitere Analysen durchzuführen. Mit dem Update des &lt;a href=&quot;https://www.stryd.com/powercenter/profile&quot;&gt;Stryd Powercenters&lt;/a&gt; auf die Version 2.0 könnte das für viele Läufer Geschichte sein.&lt;/p&gt;
+&lt;p&gt;Das Stryd Powercenter ist die in-house Analysemöglichkeit von Stryd. Im Gegensatz z.B. zu WKO5 ist sie kostenlos und im Browser zu nutzen. Bisher hatte das Powercenter eine angestaubte Optik und bot wenige Möglichkeiten der Analyse. Im Juli letzten Jahres gab es dann ein Update der mobilen App, mit der erstmals die CP automatisch aus den Läufen der letzten 90 Tage berechnet wurde. Damit wurde der Einstieg in das Stryd Ökosystem einfacher und wenn man keine große Analyse wollte, konnte man den Sensor nun ohne weitere Software benutzen.&lt;/p&gt;
+&lt;p&gt;Mit dem Update des Powercenters auf die Version 2.0 macht Stryd nun so richtig ernst. Wie oben zu sehen ist, sieht die Startseite bzw. Übersichtsseite sehr übersichtlich aus und alle wichtigen Daten sind sofort zu sehen.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/01_Profile-300x218.png&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Links oben ist die automatisch berechnete CP direkt zu sehen und daneben werden die Power-Zones, also die Trainingsbereiche dargestellt. Damit kann man dann sofort loslegen und sein Training gestalten. Ich bin aktuell nicht voll im Training und noch in der OffSeason und meine CP aus Stryd und die FTP aus WKO5 unterscheiden sich um 10 Watt, dazu aber unten mehr.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/02_RSB-300x147.png&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Rechts oben kann man dann zu den einzelnen Läufen navigieren und man sieht seine Running Stress Balance. Ist man gerade also Leistungsfähig oder läuft man ins Übertraining…?&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/Bildschirmfoto-2020-02-12-um-20.35.30-300x179.png&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Klickt man auf einen Lauf öffnen sich dessen Details. Man kann im Graphen alle Daten anzeigen lassen, die vom Stryd gesammelt werden. Außerdem kann man seine gestoppten Runden einzeln auswählen, das ist gerade für Intervalle sehr nützlich. Rechts unten wird die Verteilung über die Power Zones angezeigt.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/04_PDC_PC-300x146.png&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Scrollt man im Dashboard weiter nach unten kann man die Power Duration Curve (PDC) und auch die verwendeten Daten, die ihr zugrunde liegen sehen. Das war bisher nur mit WKO oder Golden Cheetah möglich. Rechts neben der PDC sieht man, wie sich die einzelnen Bereiche bzw. Energiesysteme im Vergleich zu einer Vergleichsgruppe verhalten. Im meinen Fall sind das männliche Halbmarathonläufer im Alter von 30-39. Aktuell scheine ich recht durchschnittlich zu sein ;).&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/03_PDC_WKO-300x159.png&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Im Vergleich zu WKO sieht die PDC doch etwas anders aus. Auf den Stryd Seiten heißt es auch, dass sie ihre Berechnung der CP an die von Golden Cheetah angelehnt haben. Ich muss mir das aber auch noch genauer ansehen. Das erklärt dann wohl auch die Abweichung der FTP/CP um 10 Watt. Bei WKO werden alle Läufe der letzten 90 Tage gleich stark in die Berechnung einbezogen, bei Stryd wird hier eine Gewichtung vorgenommen, welche aktuelle Läufe stärker Berücksichtigt als ältere, sie nennen es “&lt;a href=&quot;https://blog.stryd.com/2019/08/22/auto-calculated-critical-power-depreciation/&quot;&gt;Deprication&lt;/a&gt;”.&lt;/p&gt;
+&lt;h2 id=&quot;fazit&quot;&gt;FAZIT&lt;/h2&gt;
+&lt;p&gt;Dieses Update vom Stryd Powercenter ist ein weiterer Schritt den Stryd Sensor mehr Leuten zugänglich zu machen und ein komplettes eigenes Ökosystem aufzubauen. Wenn man keine großen Analysen fahren will, kann man mit dem PowerCenter sein Training nun ausreichend gut analysieren. Natürlich fehlen noch viele Möglichkeiten...</content>
+  </entry>
+  
+  <entry>
+    <title>Längere Mikrozyklen - Introducing Nanozyklen</title>
+    <link href="/posts/2020-02-05-laengere-mikrozyklen-introducing-nanozyklen/"/>
+    <updated>2020-02-05T00:00:00Z</updated>
+    <id>https://raincastle.blog/posts/2020-02-05-laengere-mikrozyklen-introducing-nanozyklen/</id>
+    <content type="html">&lt;p&gt;Wie ich in meinem letzten Blogeintrag resümierte, lief das letzte Jahr nach anfänglichen Erfolgen eher suboptimal. Zugegeben, mein Plan war ambitioniert, ich wollte 3 Qualitätseinheiten und 2 Recoveryeinheiten in eine Woche quetschen, leider war das am Ende wohl zu viel Belastung und zu wenig Regeneration. Das Alles hat mich zum Nachdenken gebracht und ich habe mein Training nochmal evaluiert. Außerdem hat es mich dazu motiviert die Ausbildung zum Lauftrainer zu machen, denn die Arbeit mit den Schweinehunden hat mir wirklich viel Spaß gemacht.&lt;/p&gt;
+&lt;h2 id=&quot;zyklisches-planen-der-laufsaison&quot;&gt;Zyklisches Planen der Laufsaison&lt;/h2&gt;
+&lt;p&gt;Die Laufsaison wird standardmäßig in Zyklen mit wechselndem Trainingsfokus und -belastung geplant. Dafür ist es notwendig, die Hauptwettkämpfe eines Jahres festzulegen (üblicherweise 2 (Halb-)Marathons - einer im Frühjahr und Herbst), um das Training dann darauf auszurichten. In der Trainingsperiodisierung wird typischerweise zwischen drei verschieden langen Zyklen unterschieden: Mikrozyklus (meist eine Woche), Mesozyklus (meist vier Wochen) und Makrozyklus (je nach Anzahl der Saisonhöhepunkte ein halbes oder ein ganzes Jahr). Eine direkte Vorbereitung auf einen Wettkampf dauert in der Regel 12-16 Wochen.&lt;/p&gt;
+&lt;p&gt;In den letzten Jahren habe ich mich in meinem Halbmarathontraining an zwei Prinzipien gehalten, die für mich total Sinn ergeben. Zum einen polarisiertes Training (80/20) und der Trainingsaufbau nach Jack Daniels. Dabei gefällt mir besonders die Reihenfolge der Phasen, die von schnellen, kurzen Wiederholungsläufen, über längere Intervalle, zu Schwellenläufen zum Wettkampf hin immer spezifischer werden. Die Wiederholungsläufe machen die Beine (wieder) schnell, wenn man aus dem Grundlagentraining kommt, die längeren Intervalle geben die Härte und die Schwellenläufe bereiteten mich darauf vor das Tempo auch im Wettkampf lange halten zu können. Gerade die Schwellenläufe waren für mich immer ein guter Gradmesser.&lt;/p&gt;
+&lt;p&gt;Ich baute das Training dann immer im 3:1 Rhythmus auf, das heißt auf 3 Belastungswochen folgte dann immer eine Erholungswoche, hierbei ist der Umfang bzw die Belastung in der Erholungswoche ca. 30% gegenüber der Belastungswoche reduziert. Das passte auch sehr gut zum Plan von Jack Daniels, da mit der Erholungswoche der Übergang zur nächsten Phase stattfinden konnte.&lt;/p&gt;
+&lt;p&gt;Da ich immer noch die 90 Minuten Marke im Halbmarathon im Auge habe, habe ich versucht, 3 Qualitätseinheiten pro Woche unterzubringen. Das bedeutet 1x Intervall, 1x Intervall/Tempo und ein Longrun. Nach den Intervallen plante ich immer noch einen Recoverylauf, um auf die 80/20 Verteilung zu kommen. Das funktionierte auch für 1 Halbmarathon ganz gut und ich konnte mich der 90 Minutenmarke annähern, leider musste ich im Frühjahr 2019 feststellen, dass das mit gesteigerter Reisetätigkeit im Job und dem Faktor “L” (Leben) nicht immer optimal ist und ich konnte den Regensburg Halbmarathon letztes Jahr nicht finischen. Davor, im Winter 2019 nahm ich an einer Winterlaufserie teil, dazu trainierte ich 4x die Woche mit einer Intervalleinheit und das schien sehr gut zu klappen. In meinen Überlegungen nach dem DNF wollte ich dann auf 4 Läufe pro Woche zurück gehen, stieß aber dann auf folgenden Artikel:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://runningscience.co.za/2019/01/15/the-myth-of-the-weekly-training-cycle/&quot;&gt;https://runningscience.co.za/2019/01/15/the-myth-of-the-weekly-training-cycle/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;In diesem Artikel wird vorgeschlagen, den Mikrozyklus von 7 auf 9 Tage auszudehnen, um mehr Zeit für die Regeneration zu haben. Standardmäßig wird in einer Woche ja vorgeschlagen, folgende Läufe zu machen: 1x Intervalle, 1x Regeneration, 1x Tempo und 1x Longrun. Das Konzept des 9-Tage-Mikrozyklus fand ich sehr sexy, und ich habe mir ein paar mehr Gedanken dazu gemacht und folgende Veränderungen in meinen Trainingsplan eingebaut.&lt;/p&gt;
+&lt;h2 id=&quot;adaptionen&quot;&gt;Adaptionen&lt;/h2&gt;
+&lt;p&gt;Die Mikrozyklen sollten also von 7 auf 9 Tage verlängert werden,...</content>
+  </entry>
+  
+  <entry>
+    <title>2019 -&gt; 2020</title>
+    <link href="/posts/2020-01-01-2019-2020/"/>
+    <updated>2020-01-01T00:00:00Z</updated>
+    <id>https://raincastle.blog/posts/2020-01-01-2019-2020/</id>
+    <content type="html">&lt;p&gt;Das Jahr 2020 ist ja jetzt schon ein paar Tage alt und eigentlich - ausreden, ausreden 😉 Hier jetzt endlich der obligatorische Blick zurück und nach vorne.&lt;/p&gt;
+&lt;h2 id=&quot;r%C3%BCckblick-2019&quot;&gt;Rückblick 2019&lt;/h2&gt;
+&lt;p&gt;Das Jahr 2019 begann für mich vielversprechend, ich plante die Teilnahme am 10 und 15km Lauf der Oberpfälzer Winterlaufserie. Beide Läufe [&lt;a href=&quot;https://www.strava.com/activities/2091228565&quot;&gt;1&lt;/a&gt;,&lt;a href=&quot;https://www.strava.com/activities/2171422930&quot;&gt;2&lt;/a&gt;] verliefen sehr erfolgreich und meine Form war absolut ansteigend. Zu dieser Zeit trainierte ich 4x die Woche mit einer Intervalleinheit und einem Longrun. Diesen Schwung wollte ich mitnehmen in die Vorbereitung zum Halbmarathon in Regensburg und die Frequenz noch einmal etwas steigern, um die 90 Minutenmarke anzugreifen. Ich plante also eine zweite Intervalleinheit pro Woche zusätzlich und machte mich auf den Weg. Die Vorbereitung verlief soweit auch ganz gut. Leider hatte ich dann beim Regensburg Halbmarathon mein erstes DNF. Die Tatsache, dass ich das Rennen nicht zu Ende laufen konnte hat mich nachhaltig verwirrt und zum nachdenken gebracht. Nachdem ich nun ein paar Ärzte abgeklappert habe um auszuschließen, dass es was gesundheitliches war, denke ich nun, dass mein Sweetspot bei 4 Trainingseinheiten pro Woche liegt und dass der Plan wohl doch etwas zu intensiv war. Vor allem wenn noch berufliche Reisen dazu kommen, wird es schnell zu anstrengend. Das hat mich nun dazu veranlasst meinen Trainingsplan nochmals zu überarbeiten, dazu aber in einem weiteren Artikel mehr.&lt;/p&gt;
+&lt;p&gt;Im Oktober stand dann noch das Schweinehunde Main-Event an. Die Vorbereitung darauf ging ich sehr bedacht und locker an, schließlich kam Mitte September auch unser erster Sohn auf die Welt und das Laufen rückte in der Priorität eine Stufe nach hinten. Am Ende war es ein schöner Tag und ein schöner Lauf ohne Ambitionen auf eine Bestzeit.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/Bildschirmfoto-2019-12-31-um-22.37.30-300x172.png&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;ausblick-2020&quot;&gt;Ausblick 2020&lt;/h2&gt;
+&lt;p&gt;Für 2020 steht ganz klar das Wort “Kontinuität” im Vordergrund. Ich versuche das Laufen so gut wie möglich in den Alltag mit unsrem Sohn zu integrieren und mindestens immer 3 Läufe pro Woche machen. Ich hoffe, dass ich ab März dann auch mit ihm im Babyjogger unterwegs sein kann. Als Ziele habe ich mir jetzt mal grob einen &lt;a href=&quot;https://www.herzogstadtlauf.de/home/#_&quot;&gt;Frühjahrs 10k&lt;/a&gt; und einen &lt;a href=&quot;https://www.valenciaciudaddelrunning.com&quot;&gt;Herbsthalbmarathon&lt;/a&gt; vorgenommen. Für den Frühjahrs 10k plane ich 2 Mesozyklen als Vorbereitung und hoffe dass ich damit meine 10k-Zeit wieder auf Vordermann bringe. Für den Herbsthalbmarathon plane ich 3 Mesozyklen, allerdings mit einer Verlängerung der Mikrozyklen von 7 auf 9 Tage, dazu aber später etwas ausführlicher mehr dazu.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Meine Stammzellenspende 2019</title>
+    <link href="/posts/2019-12-13-meine-stammzellenspende-2019/"/>
+    <updated>2019-12-13T00:00:00Z</updated>
+    <id>https://raincastle.blog/posts/2019-12-13-meine-stammzellenspende-2019/</id>
+    <content type="html">&lt;p&gt;Am 9.12.2019 habe ich eine periphere Stammzellenspende mittels Apharese absolviert. Da ich selber nicht genau wusste, auf was ich mich da einlasse, will ich hier mal meine Erfahrungen mit dem ganzen Prozess schildern.&lt;/p&gt;
+&lt;p&gt;Die ganze Geschichte begann Anfang Oktober, als mich ein Brief erreichte, auf dem ein Stempel unmissverständlich klar machte, dass man diesen Brief unbedingt lesen und ihn nicht wegschmeißen sollte. Darin befand sich ein Schreiben, dass mir mitteilte, dass ich als Knochenmarkspender infrage komme.&lt;/p&gt;
+&lt;p&gt;Zu diesem Zeitpunkt war unser Sohn gerade einmal einen Monat alt und ich war mir wirklich nicht sicher ob ich in dieser Situation zusagen und die Spende machen soll. Da mir die Dame am Telefon aber versicherte, dass es vermutlich noch bis ins neue Jahr bis zur Spende dauern wird, sagte ich zu. Außerdem habe ich mich ja auch nicht registriert um dann am Ende doch “Nein” zu sagen.&lt;/p&gt;
+&lt;p&gt;Aber erstmal mehr zu den Hintergründen einer Stammzellen-/Knochenmarkspende.&lt;/p&gt;
+&lt;h2 id=&quot;leuk%C3%A4mie&quot;&gt;Leukämie&lt;/h2&gt;
+&lt;p&gt;Die Leukämie ist eine Krebserkrankung des blutbildenden Systems. Dabei kommt es zu einer starken Vermehrung von Vorläuferzellen in der Hämatopoese (Blutbildung). Diese Vermehrung der Vorläuferzellen führt schließlich dazu, dass sich diese unreifen Zellen im &lt;a href=&quot;https://de.wikipedia.org/wiki/Knochenmark&quot; title=&quot;Knochenmark&quot;&gt;Knochenmark&lt;/a&gt; ausbreiten und dort die übliche Blutbildung verdrängen. Sie treten dann in der Regel auch stark vermehrt im peripheren Blut auf und können Leber, Milz, Lymphknoten und weitere Organe infiltrieren und dadurch ihre Funktion beeinträchtigen. Die Symptome sind sehr unspezifisch und reichen von Müdigkeit über Knochenschmerzen bis hin zu Nasenbluten oder verstärkter Neigung zu Hämatomen, daher ist die Diagnose meist ein Zufallsbefund.&lt;/p&gt;
+&lt;p&gt;Eine Knochenmarkspende hilft Leukämiepatienten die Krankheit zu überwinden und ein weitgehend normales Leben zu führen. Der berühmteste Fall einer Knochenmarktransplantation ist wohl &lt;a href=&quot;https://de.wikipedia.org/wiki/Josep_Carreras&quot;&gt;José Carreras&lt;/a&gt;, der darauf hin seine eigene &lt;a href=&quot;https://de.wikipedia.org/wiki/Deutsche_Jos%C3%A9_Carreras_Leuk%C3%A4mie-Stiftung&quot;&gt;Leukämie Stiftung&lt;/a&gt; gründete welche sich mit der Erforschung und Therapie der Krankheit beschäftigt.&lt;/p&gt;
+&lt;h2 id=&quot;stammzellen&quot;&gt;Stammzellen&lt;/h2&gt;
+&lt;p&gt;Stammzellen sind weitgehend unreife Vorläuferzellen, die noch das Potential besitzen sich zu teilen und differenzieren. Sie stehen im Gegensatz zu den terminal differenzierten Körperzellen, die eine spezielle Aufgabe erfüllen und sich meist nicht mehr teilen können. Nach erfüllter Aufgabe sterben sie nach Tagen oder Wochen ab und werden durch neue ersetzt. Im Falle des Blutes befinden sich diese &lt;a href=&quot;https://de.wikipedia.org/wiki/H%C3%A4matopoetische_Stammzelle&quot;&gt;hämatopoetischen Stammzellen&lt;/a&gt; im Knochenmark, dort sind sie gut geschützt und dienen zur Bildung des gesamten Blutes, das heißt sie Bilden die weißen Blutkörperchen, die roten Blutkörperchen und die Blutplättchen. Aus diesem Grund kann man, wenn man solche Stammzellen isolieren kann, das komplette Blut eines Menschen regenerieren.&lt;/p&gt;
+&lt;h2 id=&quot;stamzellenspende&quot;&gt;Stamzellenspende&lt;/h2&gt;
+&lt;p&gt;Diesen Umstand macht man sich bei der Stammzellenspende bzw. Knochenmarkspender zu Nutze. Beide Verfahren zielen darauf ab, die Stammzellen aus dem Knochenmark zu isolieren, sie dem leukämiekranken Patienten zu transferieren und ihn dadurch zu heilen. Bei einer Knochenmarkspende werden die Stammzellen mittels Punktion in Vollnarkose aus dem Beckenkamm geholt, das funktioniert immer. Bei einer peripheren Stammzellenspende werden die Stammzellen mittels eines Hormons (dazu später mehr) zur Teilung angeregt und aus dem Knochenmark gelöst. Dadurch erhöht sich die Konzentration der Stammzellen im Blut und man kann sie absammeln. Dies geschieht mittels &lt;a href=&quot;https://de.wikipedia.org/wiki/Apherese&quot;&gt;Apharese&lt;/a&gt;. Dabei wird Blut von einem Arm abgezapft in die Aphareseapparatur...</content>
+  </entry>
+  
+  <entry>
+    <title>Neue Herausforderungen...</title>
+    <link href="/posts/2019-11-12-neue-herausforderungen/"/>
+    <updated>2019-11-12T00:00:00Z</updated>
+    <id>https://raincastle.blog/posts/2019-11-12-neue-herausforderungen/</id>
+    <content type="html">&lt;p&gt;Nach der Geburt unseres Sohnes Mitte September ist mein größter “Feind” nun nicht mehr der Schweinehund, sondern das Zeitmanagement. Mein Schweinehund war eh noch nie sehr stark aber jetzt ist die Frage eher: Wann lässt es die Zeit zu, einen Lauf zu absolvieren?&lt;/p&gt;
+&lt;p&gt;In der Elternzeit war die Situation noch recht entspannt, ich konnte recht spontan loslaufen, wenn es der Junior oder die Situation eben zu ließ. Jetzt, ist die Situation natürlich etwas anders, die Zeitfenster haben sich dramatisch verkleinert. Meine aktuelle Situation ist dabei noch recht komfortabel, ich kann mehrmals pro Woche von zu Hause aus arbeiten und ich wohne nur 4km von meiner Arbeitsstelle entfernt. Daher ergeben sich für mich aktuell 3 Punkte die ich verfolgen will um auf meine Kilometer zu kommen.&lt;/p&gt;
+&lt;h2 id=&quot;turnschuhpendeln&quot;&gt;Turnschuhpendeln&lt;/h2&gt;
+&lt;p&gt;An meiner Arbeitsstelle gibt es leider keine Duschen, daher kommt für das Turnschuhpendeln - also das benutzen einer Pendelstrecke als Trainingseinheit - nur der Heimweg infrage. Dafür habe ich mir jetzt schon einen Trailrucksack gekauft, um auch meinen Mantel bzw. Schlüssel und Kram transportieren zu können. Mein Heimweg lässt sich auch flexibel von 8-12 km erweitern. Daher ist das aktuell eine sehr attraktive Lösung. Zu Hause angekommen ist der Kopf frei, die Sporteinheit absolviert und sogar noch Zeit gespart. Heute hab ich das zum ersten mal &lt;a href=&quot;https://www.strava.com/activities/2860216838&quot;&gt;probiert&lt;/a&gt; und es scheint ganz gut zu klappen.&lt;/p&gt;
+&lt;h2 id=&quot;laufen-in-der-mittagspause&quot;&gt;Laufen in der Mittagspause&lt;/h2&gt;
+&lt;p&gt;Wenn ich im Homeoffice Arbeit, bietet sich von September bis Mai an die Mittagspause für einen Lauf zu nutzen. Das funktioniert für mich auch sehr gut, denn zur Hälfte des Tages ein wenig Bewegung als Abwechslung zum Schreibtischjob tut wirklich gut. Im Sommer kann ich alternativ vor der Arbeit laufen, das geht sich dann zeitlich auch ganz gut aus, wenn man nicht zur Arbeit fahren muss.&lt;/p&gt;
+&lt;h2 id=&quot;laufen-mit-kind&quot;&gt;Laufen mit Kind&lt;/h2&gt;
+&lt;p&gt;Wenn der Junior dann im Frühjahr alt genug ist, will ich natürlich mit ihm zusammen meine Runden drehen. Mit einem halben Jahr sollte das dann ja auch gut möglich sein. Als Kinderwagen scheinen mir die von Thule wohl der Standard zu sein ;). Wenn es dann soweit ist, werde ich sicher berichten.&lt;/p&gt;
+&lt;p&gt;Falls ihr Erfahrungen oder Tipps habt, wie man die Familie, den Job und das Laufen am besten unter einen Hut bekommt, bzw. Tipps was Ausrüstung (Kinderjogger, etc.) angeht, schreibt es doch bitte in die Kommentare, ich hab sie wieder geöffnet und sie sind hoffentlich auch DSGVO-konform :).&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Rückblick auf das 3-Schweinehunde Main-Event</title>
+    <link href="/posts/2019-10-19-rueckblick-auf-das-3-schweinehunde-main-event/"/>
+    <updated>2019-10-19T00:00:00Z</updated>
+    <id>https://raincastle.blog/posts/2019-10-19-rueckblick-auf-das-3-schweinehunde-main-event/</id>
+    <content type="html">&lt;p&gt;Seit in Regensburg im Juni mein Versuch die 90 Minuten Schallmauer im Halbmarathon zu knacken krachend gescheitert war, wurde es hier im Blog doch etwas still. Vergangenes Wochenende stand nun der eigentliche Höhepunkt dieses Läuferjahres und eigentlich der letzten beiden Jahre an: Das Main-Event des 3-Schweinehunde Podcasts und somit der München Halbmarathon.&lt;/p&gt;
+&lt;h2 id=&quot;vorbereitung&quot;&gt;Vorbereitung&lt;/h2&gt;
+&lt;p&gt;Die Vorbereitung auf den Wettkampf passte ich wie im letzten Blogeintrag bereits beschrieben an meine aktuelle Situation an. Als zusätzlicher Faktor kam noch die Geburt unseres ersten Kindes Mitte September hinzu, welches ein strukturiertes Training sehr schwierig machte. Am Ende konnte ich im August einen 3 Wochen Zyklus mit Intervalltraining und Longruns absolvieren und ab der Geburt dann noch 3 Läufe pro Woche. Am Ende waren es in diesem Trainingsblock 419 km bei 38 Läufen.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/Bildschirmfoto-2019-10-18-um-20.48.44-300x185.png&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Während der Vorbereitung gab es 2 Läufe bei denen ich mich wirklich gut fühlte (&lt;a href=&quot;https://www.strava.com/activities/2722588187&quot;&gt;125&lt;/a&gt;, &lt;a href=&quot;https://www.strava.com/activities/2762433511&quot;&gt;131&lt;/a&gt;) und einer davon war überwiegend auf Waldboden, vielleicht sollte ich öfter auf weicherem Untergrund laufen, denn die meisten Kilometer spule ich ja schon auf Asphalt, oder hartem (Kies-)Radweg ab.&lt;/p&gt;
+&lt;p&gt;Aufgrund der Umstände und des Trainingsumfanges war das Ziel den Halbmarathon unter 90 Minuten zu laufen natürlich nicht mehr realistisch. Mein neues Ziel war, zum ersten Mal, den Lauf einfach zu genießen und nicht auf Bestzeit zu laufen.&lt;/p&gt;
+&lt;h2 id=&quot;der-tag-davor&quot;&gt;Der Tag davor&lt;/h2&gt;
+&lt;p&gt;Um am Tag des Wettkampfes ausgeruht zu sein, reiste ich bereits am Samstag nach München. Dies bot auch die Möglichkeit alle unter der Schweinehunde-Flagge laufenden Läufer zu treffen. Wir trafen uns am Nachmittag im Olympiapark um die Startnummer abzuholen und eine Episode des Schweinehunde-Podcasts aufzunehmen: &lt;a href=&quot;https://3-schweinehun.de/2019/10/12/episode28.html#fe2e354e&quot;&gt;Episode 28&lt;/a&gt;. In dieser Episode formulierte ich meine Ziele noch offensiv. Ich wollte mit den 1:45er Pacer starten, mit ihm die ersten 5km mithalten, dann bis km 10 mein Tempo finden um dann auf den 2. 10km zu sehen was geht - so die Theorie.&lt;/p&gt;
+&lt;h2 id=&quot;der-wettkampf&quot;&gt;Der Wettkampf&lt;/h2&gt;
+&lt;p&gt;Am Tag des Wettkampfes war klar, es würde ein sehr warmer und sonniger Tag werden. Der Teil der Schweinehunde, der den Halbmarathon lief traf sich kurz vor dem Start um sich auf den Lauf einzustimmen und ein Gruppenfoto zu machen.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/Photo-13.10.19-12-56-32-300x300.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Zusammen mit Markus machte ich ich dann richtig Startblock 1 auf. Nachdem ich den 1:45-Zugläufer gefunden hatte ging es auch schon los. Die Startlinie war leider nicht sehr eindeutig markiert. Es gab zwei Torbögen, darunter befand sich aber leider keine Zeitmessungsmatte. Diese befand sich genau zwischen den beiden Torbögen, was mich etwas verwirrte und dazu führte dass ich zuerst zu früh und dann zu spät auf meine Uhr gedrückt habe - es ging also schon mal gut los. Insgesamt gab es 3 Pacer für 1:45. Ich hänge mich an den ersten von ihnen dran, langsam fanden wir unseren Rhythmus. Nach 2-3 Kilometer konnte ich meine Pace noch etwas steigern, sie lag jetzt zwischen 4:30 und 4:45. Bei ca. Kilometer 4,5 begann das Rennen dann erst so richtig. die Strecke machte eine 90 grad Kurve und von nun an liefen wir direkt nach Süden der Sonne entgegen, die Schattenbereiche wurden rar. Anfangs ging es noch ganz gut, aber je länger dieser Abschnitt dauerte desto härter wurde es. Am Ende knickte die Strecke dann wieder nach links ab und wir liefen nun vollkommen in der Sonne - kein Schatten. Als wir die Hälfte des Rennes absolviert hatten, konnte ich die Pace nicht mehr bei 4:45 halten, es kam der erste Kilometer mit einer Zeit von über 5 Minuten. Das war auch der Zeitpunkt, an dem...</content>
+  </entry>
+  
+  <entry>
+    <title>Wie geht es jetzt weiter ?</title>
+    <link href="/posts/2019-07-17-wie-geht-es-jetzt-weiter/"/>
+    <updated>2019-07-17T00:00:00Z</updated>
+    <id>https://raincastle.blog/posts/2019-07-17-wie-geht-es-jetzt-weiter/</id>
+    <content type="html">&lt;p&gt;Seit dem DNF beim Regensburg Halbmarathon ist viel passiert. Ich habe es lauftechnisch langsamer angehen lassen (~65 km in 6 Wochen) und habe mich vom Orthopäden, Neurologen und Allgemeinarzt durchchecken lassen, bisher ohne Befund.&lt;/p&gt;
+&lt;p&gt;Allerdings bin ich jetzt zumindest ein paar mal bei der Physiotheraphie gewesen und mache jeden Abend ein Mobility und Dehnprogramm und Messe die Herzfrequenzvariabilität. Letzte Woche habe ich auch wieder langsam mit dem Laufen angefangen. Ich konnte die 8 km Strecke zu Ende laufen, aber so richtig Rund lief das noch nicht. Heute dann ein weiterer Versuch.&lt;/p&gt;
+&lt;p&gt;Am 13.10. steht ja das Main Event des 3-Schweinehunde Projektes in München an, dort will ich auf jeden Fall am Start stehen. Der Weg dort hin ist bisher nur unscharf zu sehen. Aber, ich habe das Gefühl, dass ich beim 10 km und 15 km Lauf der diesjährigen Winterlaufserie leistungstechnisch im Sweetspot war, ganz im Gegensatz zum Gefühl vor dem Regensburg HM. Damals habe ich 4x die Woche (ca. 5 Std) trainiert und Dienstags das Intervalltraining gemacht. In der Vorbereitung zum Regensburg HM habe ich das Volumen dann auf 5 Läufe (2x Intervalle) und 6-6.5 std/Woche gesteigert. Alles langsam und im Rahmen, aber evtl war das dann doch zu viel neben dem ganzen anderen Stress im Job und Leben. Ich habe zwar immernoch ~80% der Trainingszeit im GA1-Bereich verbracht, aber vielleicht war das einfach trotzdem insgesamt zu viel. Daher werde ich das 2. Intervalltraining in der Woche in diesem Trainingsblock streichen und lieber in Relation mehr im Grundlagenausdauerbereich trainieren und dafür mehr Zeit in Rollen, Dehnen, Mobility und Regeneration investieren.&lt;/p&gt;
+&lt;p&gt;Diese Woche wäre nun eigentlich der Auftakt zur direkten Vorbereitung auf den München Halbmarathon, ich werde diese Woche aber auf jeden Fall nochmal zur weiteren Evaluierung der Situation nutzen und versuchen jeden 2. Tag zu laufen, also heute (Mittwoch), Freitag und Sonntag. Sollte das alles gut gehen, werde ich dann nächste Woche vorsichtig in den Trainingsplan einsteigen und dann auch das Volumen wieder langsam steigern.&lt;/p&gt;
+&lt;p&gt;Es heißt also weiter geduldig sein und auf den Körper zu hören, ich bin aber weiter optimistisch…&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>STRYD berechnet die FTP/CP jetzt automatisch</title>
+    <link href="/posts/2019-07-10-stryd-berechnet-die-ftp-cp-jetzt-automatisch/"/>
+    <updated>2019-07-10T00:00:00Z</updated>
+    <id>https://raincastle.blog/posts/2019-07-10-stryd-berechnet-die-ftp-cp-jetzt-automatisch/</id>
+    <content type="html">&lt;p&gt;Als ich heute morgen aufwachte, fand ich eine eMail von STRYD in meinem Postfach mit dem Betreff “&lt;strong&gt;Introducing auto-calculated Critical Power&lt;/strong&gt;” (hier der &lt;a href=&quot;http://blog.stryd.com/2019/07/09/introducing-auto-calculated-critical-power/?fbclid=IwAR1odGO6kRlJ1YpeP3herFx92WFDy1i7oz13QlJRm5C4LEuN4Smz3rtVCW4&quot;&gt;Blog-Artikel&lt;/a&gt; dazu). Dieses Feature wurde schon vor ca. 2 Wochen im Stryd Power Podcast angekündigt und fand nun den Weg in die iOS und Android Apps. Soweit ich sehen kann, ist das Feature noch nicht auf der Website verfügbar.&lt;/p&gt;
+&lt;p&gt;Bisher musste man entweder auf andere Software ausweichen, die entweder kostenpflichtig (WKO4) oder frickelig (Golden Cheetah) war, oder einen Test machen. Der Vorteil der Software ist, dass man eine relativ gute Abschätzung seiner Leistung bekommt, wenn das Modell mit guten Daten gefüttert wird. Da die Daten dann meistens von den letzten 90 Tagen genommen werden hat man einen guten Überblick, kann auch verschiedene Zeiträume vergleichen und kann die Tagesform „herausmitteln“. Das ist nämlich genau der Nachteil der Tests. Sie liefern einen oder zwei Datenpunkte des Models und eine zeitlichen Snapshot von genau dem Tag. Verläuft der Test aus irgendwelchen Gründen suboptimal hat man getreu dem Motto „Garbage in, Garbage out“ eben auch einen nicht optimalen Wert.&lt;/p&gt;
+&lt;p&gt;Deshalb benutze ich seit längerem schon WKO4 um meine FTP mit Hilfe der Power Duration Curve zu ermitteln. Dort werden die Rohdaten gezeigt und auch die berechnete Kurve. Dazu wird für verschiedene Dauer die maximale Power aus verschiedenen Trainings der letzen 90 Tage aufgetragen und das dann mathematisch modelliert und die FTP asymptotisch an den „Lacate steady state“ angenähert. Man kann also sehr gut sehen, wo die Daten gut sind und wo nicht (siehe Abbildung unten).&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/B0AEEC93-6B63-4005-B40E-BFC7DFA53785-300x242.png&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Mit dem aktuellen Update der Stryd iOS und Android Apps stellt Stryd nun die automatische Ermittlung der CP zu Verfügung. Allerdings kann man die Rohwerte nicht einsehen und bekommt am Ende nur die CP und die CP in Watt/kg angezeigt. Das hilft einem schon mal sehr viel weiter. Ich habe meine FTP/CP aus WKO4 und STRYD verglichen und sie sind tatsächlich bis auf 1 Watt identisch, was mich sehr optimistisch macht, dass das auch alles Hand und Fuß hat.&lt;/p&gt;
+&lt;p&gt;Ich würde mir dennoch wünschen, die zugrunde liegenden Rohdaten sehen zu können, um zu sehen welche Dauer ich nochmal testen könnte um das Modell zu verbessern. Allerdings vereinfacht dieser Schritt den Einstieg in das Laufen mit Power enorm und für die meisten Läufer reicht ein einfacher Wert auch aus, nicht jeder will sich ja die Rohdaten ansehen sondern einfach nur laufen 🙂.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Mein erstes DNF...</title>
+    <link href="/posts/2019-06-06-mein-erstes-dnf/"/>
+    <updated>2019-06-06T00:00:00Z</updated>
+    <id>https://raincastle.blog/posts/2019-06-06-mein-erstes-dnf/</id>
+    <content type="html">&lt;p&gt;Nun ist es also passiert, ich habe statt einer Medaille oder einer Bestzeit ein DNF (did not Finish) gesammelt, mein erstes…&lt;/p&gt;
+&lt;p&gt;Aber von Vorne. Die Vorbereitung auf den Regensburg Halbmarathon verlief eigentlich sehr gut und ich fühlte mich fit und Race ready.&lt;/p&gt;
+&lt;p&gt;Los ging es eigentlich schon am Freitag vor dem Rennen. Da stand der letzte Lauf an, ein 6km GA1-Lauf zur Regeneration. Bei diesem Lauf fühlten sich meine Beine schon schwer und “wie aus Pudding” an. Ich war froh als ich wieder zu Hause war und mich entspannen konnte. Damals dachte ich mir, dass das bis zum Rennen schon wieder werden würde, denn ich hatte ja auch erst 2 Tage vorher noch einen Lauf mit ein wenig Renntempo gemacht.&lt;/p&gt;
+&lt;p&gt;Am Samstag fühlten sich die Beine eigentlich schon wieder gut an und ich fuhr mit dem Rad zur Startnummernausgabe. Am Sonntag morgen stand ich auf und ich merkte schon, dass mir das Abendessen vom Vortag noch etwas schwer im Magen lag. Nach dem Frühstück und einem Kaffe ging das aber schon wieder recht gut und ich fuhr dann wieder mit dem Rad zum Start. Dort angekommen spulte ich die normale Aufwärmroutine vor dem Wettkampf ab und begab mich zur Startlinie. Der 1:30-Läufer war auch schnell gefunden - dieses mal wollte ich mich von ihm nicht abhängen lassen!&lt;/p&gt;
+&lt;p&gt;Als der Startschuss ertönte, wollte ich es nicht zu schnell angehen und versuchte die Pace bei 4:15 min/km zu halten. Es lief soweit wie geplant und ich konnte mich im Umfeld des 1:30 Läufers aufhalten. Auf den ersten Kilometern gab es auch noch viel Schatten, wodurch sich die warmen Temperaturen nicht so stark auswirkten. Es ging dann durch die Stadt und es blies uns immer ein kühles Lüftchen um die Nase. Ab km 5 machte sich mein Magen wieder etwas bemerkbar aber das lies sich aushalten. Bei der 2. Verpflegungstation bei ca km 7 verlor ich dann meine Kopfbedeckung im Wassertrog. Es wurde auch immer wärmer, da es in Richtung Continental Teststrecke keinen Schatten mehr gab. Als es dann auf die Teststrecke ging, merkte ich auch schon, dass meine Beine irgendwie nicht mehr so viel Energie hergaben wie vorher und das Laufen immer schwerer wurde. Der Puls war auch noch im richtigen Bereich, Kreislauftechnisch war also eigentlich alles ok. Im Verlauf der Runde um die Teststrecke machten meine Beine dann immer mehr zu und ich konnte mein Tempo nicht mehr halten. Auch bekam ich ab und an Gänsehaut auf den Beinen, was mich etwas verunsicherte. Am Ende der Teststrecke konnte ich dann kaum mehr einen 5er Schnitt halten. Bei ca. km 12 kam ich dann das 2. mal bei meiner Frau vorbei, die mich anfeuern wollte, dort fällte ich dann kurzentschlossen auch die Entscheidung das Rennen aufzugeben, da sich meine Beine mittlerweile wie Gummi anfühlten und ich keine Kraft mehr zum laufen hatte.&lt;/p&gt;
+&lt;p&gt;Heute ist Donnerstag und meine Beine fühlen sich noch immer nicht wieder richtig fresh an. Auf der Suche nach den Gründen für diese Performance bin ich noch nicht recht weitergekommen. Die Belastung war nicht höher als im Herbst beim Stockholm Halbmarathon, daher sollte das nicht das Problem gewesen sein. Ich bin auch genug langsam gelaufen (nach Puls und Power). Alle Werte deuteten eigentlich auf eine super Form hin und beim letzten Tempolauf fühlte ich mich 15km lang super. Der einzige Ansatzpunkt der mir aktuell einfällt ist mein 9std Schreibtischjob. Diese Kraftlosigkeit in den Beinen hab ich schon ab und an nach einem Arbeitstag gespürt als ich nach Hause gegangen bin, da muss ich mir wohl was einfallen lassen…&lt;/p&gt;
+&lt;p&gt;Erstaunlicherweise bin ich jetzt weder niedergeschlagen noch traurig. Eher irritiert, dass der Plan nicht geklappt hat… Jetzt werde ich erstmal noch bis Montag eine Pause machen und mich dann wieder an einen Lauf wagen und sehen wie sich die Beine anfühlen. Akute Schmerzen habe ich aktuell nicht mehr, sodass ich nicht glaube, dass was größeres kaputt gegangen ist.&lt;/p&gt;
+&lt;p&gt;Das Main Event der Schweinehunde steht dann im Herbst an und ich werde dort auf jeden Fall wieder an...</content>
+  </entry>
+  
+  <entry>
+    <title>Road to Regensburg - Review Trainingsplan</title>
+    <link href="/posts/2019-05-29-road-to-regensburg-review-trainingsplan/"/>
+    <updated>2019-05-29T00:00:00Z</updated>
+    <id>https://raincastle.blog/posts/2019-05-29-road-to-regensburg-review-trainingsplan/</id>
+    <content type="html">&lt;p&gt;Die Vorbereitung auf den diesjährigen Frühjahres-Halbmarathon in Regensburg war nach dem letztjährigen Stockholm-Halbmarathon die zweite Vorbereitung in der ich mir den Trainingsplan selbst, nach meinen Vorstellungen, gestaltet habe. Der Plan sagte folgendes:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Läuft alles nach Plan komme ich am Ende auf ca. 810km und einer geplanten CTL von 54.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Natürlich läuft selten alles nach Plan und so kann ich sagen, dass es am Ende 792km und der CTL wird bei 50 liegen. Aber nun etwas mehr Details…&lt;/p&gt;
+&lt;h2 id=&quot;umfang&quot;&gt;Umfang&lt;/h2&gt;
+&lt;p&gt;Der Trainingsplan beinhaltete wieder 5 Einheiten pro Woche. Gegenüber dem Plan von Stockholm wollte ich den Umfang und die Intensität noch einmal erhöhen, aber der Faktor L wie Leben ist nie zu unterschätzen und so mussten auch diesmal die Einheiten jongliert werden. Am Ende waren die TSS-Werte mit 4439 im Vergleich zu 4358 sehr vergleichbar.&lt;/p&gt;
+&lt;h2 id=&quot;80%2F20&quot;&gt;80/20&lt;/h2&gt;
+&lt;p&gt;Auch diesmal versuchte ich mich wieder and das Prinzip des polarisierten Trainings zu halten.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/Bildschirmfoto-2019-05-28-um-21.12.37-300x117.png&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Wie man sehen kann verbrachte ich sogar noch ein Prozent mehr im Grundlagenbereich. Ich hätte also noch ein wenig mehr Zeit in den höheren Trainingsbereichen verbringen können. Vielleicht würden mir noch ein paar VO2max Intervalle gut tun.&lt;/p&gt;
+&lt;h2 id=&quot;ftp&quot;&gt;FTP&lt;/h2&gt;
+&lt;p&gt;Ein wichtiger Gradmesser der Fitness ist die FTP. Ich kann den Halbmarathon, wenn ich ca. 90 Minuten dafür kalkulieren bei ca. 97-98% der FTP laufen. Daher ist eine höhere FTP wichtig. Die FTP ermittle ich aus WKO4 anhand der Power Duration Curve (siehe unten). Die mFTP liegt nun bei 278W (4,15 W/kg) im Vergleich zu 266W (3,97 W/kg) vor dem Stockholm Marathon. Auch liegt meine Maximale Power um einiges höher als damals. Man sieht auch gut, dass die gesamte Kurve (und auch die Rohdaten) zwischen 10 und 60min um etwa 10 Watt höher liegen als vor dem Stockholm Halbmarathon. Dies stimmt mich ziemlich zuversichtlich, dass eine Verbesserung der Zeit möglich ist. Die aktuelle Prognose anhand der Daten liegt bei 1:29:56h. Die beiden letzten Halbmarathons, die die Grundlage der Berechnung sind hatten allerdings 250 und 140 Höhenmeter, da Regensburg recht flach ist hoffe ich, dass hier noch die eine oder andere Minute zu holen ist :).&lt;/p&gt;
+&lt;h2 id=&quot;intervalle&quot;&gt;Intervalle&lt;/h2&gt;
+&lt;p&gt;Bei den Qualitätseinheiten/Intervalltraining habe ich versucht die Intervalle gleichmäßiger auszuführen und dabei noch rund zu Laufen. Ich hab mal 2 Kerneinheiten rausgesucht und sie mit der Stockholm Vorbereitung verglichen. Einmal ein 10x1000m Training und einen 1h Tempolauf.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/Bildschirmfoto-2019-05-29-um-08.50.44-300x68.png&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Man sieht sehr gut, dass die Intervalle und der Tempolauf schneller und auch gleichmäßiger waren. Auch war die Laufeffizienz dabei nicht schlechter.&lt;/p&gt;
+&lt;h2 id=&quot;advanced-power-metrics&quot;&gt;Advanced Power Metrics&lt;/h2&gt;
+&lt;p&gt;Am Ende möchte ich noch einen Blick auf die Daten die sonst noch so aus dem Stryd Sensor kommen werfen. Zum ersten blicke ich auf das Verhältnis von Power zu Herzfrequenz. Im Bild unten ist die lila Kurve die aus der Vorbereitung für Stockholm und die hellblaue die aktuelle. Man sieht, dass die Kurven recht ähnlich verlaufen, aber so ab Anfang Mai konnte ich mich heuer nicht mehr so stark verbessern wie letztes Jahr. Genau in dieser Phase lag auch meine Geschäftsreise zu einer Konferenz in Heidelberg, wo ich 3 Tage lang den ganzen Tag auf der Konferenz rumstand und -lief. Das hat sich wohl nicht so gut auf meine Form ausgewirkt. In den letzten Wochen steigt der Trend aber wieder etwas, also hab ich das wohl jetzt ganz gut verkraftet.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/Bildschirmfoto-2019-05-29-um-08.55.28-300x242.png&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Schließlich gibt der Stryd Sensor auch noch Werte zur Leg Spring Stiffness (LSS) aus. Die LSS ist ein Maß für die “Steifheit” der...</content>
+  </entry>
+  
+  <entry>
+    <title>Anforderungen an eine selbst gebaute Trainingsdokumentations und -analyse Software</title>
+    <link href="/posts/2019-03-25-anforderungen-an-eine-selbst-gebaute-trainingsdokumentations-und-analyse-software/"/>
+    <updated>2019-03-25T00:00:00Z</updated>
+    <id>https://raincastle.blog/posts/2019-03-25-anforderungen-an-eine-selbst-gebaute-trainingsdokumentations-und-analyse-software/</id>
+    <content type="html">&lt;p&gt;Ich komme gerade von der &lt;em&gt;Subscribe10&lt;/em&gt;, DER deutschen Podcasterkonferenz. Dort traf ich unter anderem die 3 Schweinehunde, darunter auch &lt;a href=&quot;https://www.informatom.com/&quot;&gt;Stefan&lt;/a&gt;, seineszeichens Podcaster und Softwareentwickler. Als wir Sonntags gegen Ende der Konferenz zusammensaßen (diesmal ohne Bier) und uns über die Fortschritte des Lauftrainings unterhielten kamen wir auch auf die Analyse der Trainingsdaten und welchen Aufwand jeder dafür so betreibt. Ich erzählte im dann von meiner Exceltabelle (Ausschnitt siehe Coverbild), die ich seit 10 Jahren pflege und die nun beachtliche Ausmaße angenommen hat. Allerdings erntete ich bei Stefan nur Kopfschütteln, warum ich denn das alles manuell machen würde und diese Berechnungen und Analysen keinem Computer überlasse - fair point!&lt;/p&gt;
+&lt;p&gt;Nun ja - die Exceldatei ist unkompliziert und zur Not kann man sich alles ausdrucken :) (beste Datensicherung). Man ist sicher vor plattformwechseln oder -sterben und braucht keine Programmierkenntnisse, nur ein bisschen Mathe. Als Stefan dann meinte, dass er sowas ja als Web-App bauen könnte, versprach ich ihm, dass ich diesen Blogpost schreiben werde um einfach mal alles aufzulisten, was ich mir für so eine Trainingsauswertung vorstelle bzw benötige.&lt;/p&gt;
+&lt;h2 id=&quot;mein-aktueller-workflow-in-der-trainingsanalyse&quot;&gt;Mein aktueller Workflow in der Trainingsanalyse&lt;/h2&gt;
+&lt;p&gt;Dazu will ich aber erstmal kurz erläutern, wie mein aktueller Workflow der Trainingsanalyse aussieht.&lt;/p&gt;
+&lt;h3 id=&quot;trainingstagebuch&quot;&gt;Trainingstagebuch&lt;/h3&gt;
+&lt;p&gt;Ich gehe laufen und zeichne das Training mit meiner Garmin FR935 auf, dabei werden Distanz, Puls, Power und Pace aufgezeichnet. Nach dem Lauf werden die Daten von Garmin Connect nach Strava, TrainingPeaks (incl WKO4), Smashrun und ConnectStats verteilt. Nun geht der Spaß los…&lt;/p&gt;
+&lt;p&gt;Ich öffne TrainingPeaks (free Version, ich will keine 20€/Monat dafür zahlen) und übertrage Distanz, Zeit, Pace, Avg HFQ, Avg Pace und TSS in meine Excel-Datei. Daraus berechne ich die Laufeffizienz (nur für GA1-Läufe wirklich sinnvoll), CTL, ATL und TSB. In TrainingPeaks schaue ich mir auch die Power an und ob ich in den richtigen Trainingsbereichen trainiert habe. Dann wähle ich aus einer Dropdown Liste den getragenen Schuh aus um die gelaufenen Kilometer pro Schuh in einer Pivottabelle im Auge zu haben. Außerdem erstelle ich mir den Performance Management Chart (PMC). Die einzige Sache die ich NUR aus TrainingPeaks bekomme ist aktuell der TSS.&lt;/p&gt;
+&lt;h3 id=&quot;trainingsanalyse&quot;&gt;Trainingsanalyse&lt;/h3&gt;
+&lt;p&gt;Mittlerweile habe ich alle weiteren Analysen die ich mache in eine 2. Excel-Tabelle ausgelagert ;).&lt;/p&gt;
+&lt;p&gt;Dort schaue ich mir die wöchentliche Trainingsbelastung in TSS an und überwache so meine Periodisierung. In einem anderen Sheet fasse ich die monatlich und jährlich gelaufenen Kilometer zusammen, inklusive Balkendiagrammen. Für eine grobe Analyse der Trainingsbereiche habe ich in einem anderen Sheet eine Pivottabelle angelegt und daraus ein Tortendiagramm gebastelt welches mir anzeigt wie sich das Training in die einzelnen Bereiche verteilt. Das ist leider nur eine Abschätzung, da ich nur das Training als ganzes und nicht auch wie bei einem Intervalltraining unterschiedliche Bereiche erfassen kann.&lt;/p&gt;
+&lt;p&gt;Am Ende gibt es noch 2 weitere Analyseseiten. Zum einen analysiere ich die Intervalltrainings etwas genauer. Ich extrahiere mir für jedes einzelne Intervall aus den Daten die Avg Power, Pace und errechne mir die Laufeffizienz, das vergleiche ich dann mit anderen, früheren Einheiten des selben Typs um zu sehen ob ich mich verbessern konnte. Solch eine Funktion habe ich bisher noch nirgends gefunden. Außerdem habe ich noch eine weitere Tabelle zur Abschätzung meiner möglichen Wettkampfzeiten über 10 und 21 km, basierend auf früheren Wettkämpfen und meiner aktuellen FTP.&lt;/p&gt;
+&lt;p&gt;Leider kann ich nicht alles in einer Exceltabelle oder einem Programm abbilden. WKO4 kommt dem schon sehr nahe, aber leider hab ich noch immer nicht...</content>
+  </entry>
+  
+  <entry>
+    <title>Road to Regensburg 2019</title>
+    <link href="/posts/2019-03-03-road-to-regensburg/"/>
+    <updated>2019-03-03T00:00:00Z</updated>
+    <id>https://raincastle.blog/posts/2019-03-03-road-to-regensburg/</id>
+    <content type="html">&lt;p&gt;Mit der morgen beginnenden 10. Kalenderwoche startet für mich der &lt;strong&gt;zweite Makrozyklus&lt;/strong&gt; in diesem Jahr: die Vorbereitung auf den ersten Halbmarathon der Saison in Regensburg. Der erste Makrozyklus war, wie ich sie nannte, die Preseason, die auf eine 3-monatige Off-Season nachdem Stockholm Halbmarathon folgte. Ziel der Pre-Season war es die Umfänge wieder zu erhöhen und die Form in 2 Trainingswettkämpfen zu testen, bevor es nun wieder voll zur Sache geht.&lt;/p&gt;
+&lt;p&gt;Mein Training für den Regensburg Halbmarathon beruht wieder auf meinem im letzten Jahr etablierten System und basiert auf den 4 Prinzipien:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;“Training with Power” mit dem Stryd Powersensor&lt;/li&gt;
+&lt;li&gt;Trainingsplanung von &lt;a href=&quot;https://amzn.to/2GQWiqt&quot;&gt;Jack Daniels&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Periodisierung: Drei Belastungswochen werden von einer Erholungswoche gefolgt&lt;/li&gt;
+&lt;li&gt;Dem &lt;a href=&quot;https://amzn.to/2BXBQQv&quot;&gt;80/20 Prinzip&lt;/a&gt;, welches besagt, dass 80% der Zeit im Grundlagenausdauerbereich gelaufen werden&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Im Laufe des letzten Jahres habe ich noch etwas an meiner Excel-Datei und dem Trainingsplan gefeilt. Ich habe z.B. aus den Wattbereichen und der Laufeffizienz die ungefähren Pacebereiche errechnet, die mir wiederum zur Berechnung der TSS dienen. Außerdem ist die maximale Belastung in TSS/Woche nun nicht mehr 450 sondern 475.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/Trainingsbereiche.png&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Des weiteren habe ich noch etwas an den einzelnen Trainingseinheiten geschraubt. Beispielsweise gibt es jetzt auch lange GA1-Läufe mit 15% Wettkampftempo, das sind die GA1-Läufe mit einem “s” hinten. Die  400er Intervalle habe ich auf 12 gesteigert und so die Umfänge in Phase 1 noch etwas erhöht. Die errechneten TSS-Werte funktionieren auch weiterhin sehr gut für die Prognose der TSS und zur Errechnung von ATL und CTL.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/Trainingsarten-189x300.png&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Auch an meiner Excel-Datei habe ich ein wenig gebastelt und sie enthält jetzt die Berechnung von CTL, ATL und TSB sowie den Performance Management Chart (PMC, siehe unten).&lt;/p&gt;
+&lt;p&gt;Die Vorbereitung besteht dieses mal wieder aus 5 Einheiten pro Woche, die auf 3 Phasen plus 2 Wochen Tapering aufgeteilt sind. Die erste Phase besteht vor allem aus 400er Intervallen und Pyramiden-Intervallen bis 800m, sowie einem 30min Schwellenlauf in der letzten Woche als kleinen Benchmark. In der Erholungswoche habe ich dieses mal immer einen festen “Critical-Power-Test” zur Formüberprüfung eingeplant. Die zweite Phase besteht dann vor allem aus 1000m und 2000m Intervallen bzw einem Fahrtenspiel. Auch hier wieder der 30min Schwellenlauf am Ende. In der 3. Phase konzentriere ich mich dann vor allem auf Schwellenläufen (bis 60min) und längere Intervalle bis 3000m um das spezifische Renntempo zu Trainieren.&lt;/p&gt;
+&lt;p&gt;Läuft alles nach Plan komme ich am Ende auf ca. 810km und einer geplanten CTL von 54. Zum Vergleich, beim Stockholm Halbmarathon hatte ich eine CTL von 48. Sollte ich das alles so durchhalten, könnte also eine Verbesserung der Zeit auf unter 90min drin sein.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Amazon-links sind affiliate Links.&lt;/em&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Oberpfälzer Winterlaufchallenge – 15km</title>
+    <link href="/posts/2019-02-24-oberpfaelzer-winterlaufchallenge-15km/"/>
+    <updated>2019-02-24T00:00:00Z</updated>
+    <id>https://raincastle.blog/posts/2019-02-24-oberpfaelzer-winterlaufchallenge-15km/</id>
+    <content type="html">&lt;p&gt;Heute stand, zum Abschluss der 2019er Pre-Season, der 15km Lauf im Rahmen der Oberpfälzer Winterlaufchallenge an. Diesen Lauf bin ich letztes Jahr schon gelaufen, daher bot er eine gute Möglichkeit meine Form und auch das Training zu überprüfen.&lt;/p&gt;
+&lt;p&gt;Die Bedingungen waren nahezu perfekt. Es hatte 3-4 Grad, war trocken und etwas sonnig. Mein primäres Ziel war es meine Kilometer-Pace von 4:20 min/km vom letzten Jahr zu verbessern und den Wettkampf in unter einer Stunde zu absolvieren. Dazu wollte ich immer knapp über oder unter meiner FTP (gestrichelte Linie) laufen. Wie man unten sehen kann, gelang mir das ganz gut.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/Bildschirmfoto-2019-02-24-um-19.18.49.png&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Die Strecke war eine Mischung aus Teer- und Feldwegen. Der erste Kilometer ging dabei über eine Kartbahn. Ich versuchte bedacht zu laufen, leider gelang mir das auf der “Rennstrecke” nicht sehr gut und der erste Kilometer war mit 4:04 min/km auch etwas zu schnell. Danach ging es noch einen weiteren Kilometer leicht bergab und schön langsam pendelte ich mich im geplanten Bereich ein. Danach gelang es mir ganz gut die angestrebten Watt und Paceberieche einzuhalten. Die Runde um den Murner See war dann auch sehr schön und die Wege weder rutschig noch vereist. Ein wenig Respekt hatte ich noch vor den Bergaufpassagen kurz vor Schluss. Aber ich hatte, dank guter Renneinteilung, noch genug Körner übrig und habe nicht viel Zeit verloren. Die letze Runde ging dann wieder über die Rennstrecke, wo ich nochmal ordentlich Gas geben konnte um am Ende mit 58:37min über die Ziellinie zu laufen.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/Bildschirmfoto-2019-02-24-um-19.25.42.png&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Nun ist die Pre-Season also vorbei und nächste Woche steht erstmal eine Ruhewoche an. Ab 05. März beginnt dann die Vorbereitung auf den Regensburg Halbmarathon am 02.06… Die Form scheint schon jetzt zu stimmen, denn heute konnte ich meine 10km Zeit auf 41.28min verbessern und den Wettkampf im Verglich zu letztem Jahr 10 s/km schneller laufen obwohl die CTL mit 38 genau gleich war.&lt;/p&gt;
+&lt;p&gt;Jetzt heißt es aber erstmal die Füße hochlegen und etwas entspannen!&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Oberpfälzer Winterlaufchallenge - 10km</title>
+    <link href="/posts/2019-01-23-oberpfaelzer-winterlaufchallenge-10km/"/>
+    <updated>2019-01-23T00:00:00Z</updated>
+    <id>https://raincastle.blog/posts/2019-01-23-oberpfaelzer-winterlaufchallenge-10km/</id>
+    <content type="html">&lt;p&gt;Nachdem ich jetzt 3 Monate Off-Season hinter mir habe und seit dem Silvesterlauf die Belastung wieder etwas hoch fahre war der 10km-Lauf im Rahmen der Oberpfälzer Winterlaufchallenge die erste Standortbestimmung in diesem Jahr.&lt;/p&gt;
+&lt;p&gt;Im Vergleich zum letzten Jahr waren es fast perfekte Bedingungen. Die Temperatur war knapp unter 0 Grad und die Strecke war hart und gefroren, nicht matschig wie letztes Jahr.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/2019-01-20-13.16.00-1024x1024.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Ich hab’ versucht halb nach Gefühl und halb nach Watt zu laufen, es sollte ja eine Standortbestimmung werden. Die FTP war zum Lauf 263 Watt und ich habe versucht auch in diesem Bereich (+/- 5 Watt) zu laufen. Wie man unten sehen kann ist mir das auch ganz gut gelungen.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/Bildschirmfoto-2019-01-23-um-19.02.26-1024x402.png&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Die Strecke war zweigeteilt. Die ersten 5 Kilometer waren leicht ansteigend und die hinteren 5 dann abfallend. Ich kannte die Strecke ja vom letzten Jahr und ich habe versucht auf der ersten Hälfte nicht zu viele Körner zu verpulvern um am Ende noch genug Energie übrig zu haben. Das gelang mir auch ganz gut, denn der schnellste Kilometer war der letzte :).&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/Bildschirmfoto-2019-01-23-um-19.19.25-1024x558.png&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Am Ende stand eine Zeit von 42:13 min und ich war damit ca 2:30 min schneller als letztes Jahr. Ein wenig hatte ich das auch gehofft, denn ich habe dieses Jahr vor Weihnachten keine Laufpause gemacht und sollte theoretisch in besserer Form sein, schön dass sich das auch bestätigt hat. Um das auch mit Daten zu unterfüttern: 2018 hate ich eine CTL von 21,5 TSS/Tag und 2019 eine CTL von 28,4 TSS/Tag.&lt;/p&gt;
+&lt;p&gt;Als nächstes steht dann Ende Februar der 15km Lauf der Winterlaufserie an. Danach beginnt dann die direkte Vorbereitung auf den Regensburg Halbmarathon, wenn es so weitergeht scheint eine Zeit unter 90 Minuten möglich :)…&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>2018 -&gt; 2019</title>
+    <link href="/posts/2019-01-16-2018-2019/"/>
+    <updated>2019-01-16T00:00:00Z</updated>
+    <id>https://raincastle.blog/posts/2019-01-16-2018-2019/</id>
+    <content type="html">&lt;p&gt;Das Jahr 2018 hat den Ansatz mit dem ich den Laufsport betreibe entscheidend verändert. Ich laufe seit 2007, bisher war mein Trainingsplan aber eher von den 12-wöchigen Vorbereitungen auf einen bestimmten Wettkampf geprägt und dazwischen passierte recht wenig und schon gar nichts strukturiertes.&lt;/p&gt;
+&lt;h3 id=&quot;2018&quot;&gt;2018&lt;/h3&gt;
+&lt;p&gt;Seit wir das Projekt &lt;a href=&quot;https://3-schweinehun.de&quot;&gt;3-Schweinehunde&lt;/a&gt; ins Leben gerufen haben und mich die Schweinehunde mit Fragen gelöchert haben, habe ich auch meine Einstellung zum Laufen etwas verändert und betrachte das jetzt eher ganzheitlich und ganzjährig. Auch die Benutzung des Stryd Powersensors hat meine Belastung- und Trainingssteuerung und so mein Training verändert. Die Abbildung unten zeigt die Verteilung des wöchentlichen “Training Stress Score” (TSS) über das Jahr.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/2018_TSS.png&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;2019&quot;&gt;2019&lt;/h3&gt;
+&lt;p&gt;Der Höhepunkt in 2019 ist ganz klar der Halbmarathon mit den 3-Schweinehunden im Oktober in München, der Trainingsplan für die 3-Schweinehunde dafür steht auch schon. Um für den Halbmarathon auch in Höchstform zu sein, habe ich für das Frühjahr wieder die Teilnahme an der Oberpfälzer Winterlaufserie geplant um die Form langsam aufzubauen. Ende März steht dort dann der erste Härtetest mit dem Halbmarathon an. Diesen will ich dann aus dem Training heraus laufen, da Anfang März die Vorbereitung auf den Regensburg Halbmarathon am 2. Juni startet. Dort will ich versuchen die 90 Minuten Marke zu reißen. Mitte Juli startet dann die direkte Vorbereitung auf den Halbmarathon in München, den ich dann hoffentlich auch unter 90 Minuten finishen werde. In der Abbildung unten seht ihr schon mal die grobe Planung für 2019. Wenn alles klappt werden es am Ende ca 2500km sein…&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/2019_TSS.png&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Ein Jahr Training mit dem Stryd Powersensor</title>
+    <link href="/posts/2018-12-06-ein-jahr-training-mit-dem-stryd-powersensor/"/>
+    <updated>2018-12-06T00:00:00Z</updated>
+    <id>https://raincastle.blog/posts/2018-12-06-ein-jahr-training-mit-dem-stryd-powersensor/</id>
+    <content type="html">&lt;p&gt;Der Stryd Powersensor ist für mich binnen eines Jahres zum unverzichtbaren Begleiter im Training geworden. Hier möchte ich kurz beschreiben, warum das so ist.&lt;/p&gt;
+&lt;h2 id=&quot;belastungssteuerung&quot;&gt;Belastungssteuerung&lt;/h2&gt;
+&lt;p&gt;Ein wichtiger Bereich, den ich mit dem Stryd-Sensor abdecken kann, ist die Belastungssteuerung. Früher habe ich nur grob geschaut, bzw mich auf die Trainingspläne verlassen, wie die Verteilung über die einzelnen Trainingsbereiche war. Da meine letzte Leistungsdiagnostik inkl Maximalpulsbestimmung aber schon ein paar Jahre zurück liegt, war das auch eher eine Schätzung. Mit dem Stryd Sensor weiß ich jetzt zu jeder Zeit in welchem Trainingsbereich ich mich befinde und kann dies dann über eine Woche, einen Montag oder einen beliebigen Zeitraum aufsummieren. So sehe ich immer, ob ich mich noch an das 80/20 Prinzip halte und evtl Anpassungen vornehmen. Als Zeitraum nehme ich hier zum einen eine Woche und zum anderen die letzten 90 Tage.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/Bildschirmfoto-2018-12-06-um-19.05.21-300x238.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/Bildschirmfoto-2018-12-06-um-19.06.19-300x68.png&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Man sieht hier, dass ich in der Vorbereitung zum Halbmarathon im Frühjahr (OWC21) fast genau 80% im GA-Bereich verbracht habe. In der Vorbereitung zu Stockholm hätte ich noch ein wenig Luft für Tempo gehabt :)&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;laufeffizienz&quot;&gt;Laufeffizienz&lt;/h2&gt;
+&lt;p&gt;Ein weiterer Wert bzw Analyseparameter ist die Laufeffizienz. Sie lässt sich wie folgt berechnen:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;ECOR = rP (Watt/kg) / v (m/s) [kJ/kg*km]&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Der Wert bewegt sich bei mir zwischen 0,96 bei 400er Intervallen und 1,08 bei langsamen GA1-Läufen. Man sieht also, dass die Laufeffizienz auch von der Geschwindigkeit abhängt, aber auch innerhalb der GA1-Läufe schwankte die Laufeffizienz zwischen 1,04 und 1,08. Das ist jetzt nicht die Welt, gibt aber schon einen guten Indikator über die Form und Fitness. Besonders, wenn man die einzelnen Intervalle vergleicht, kann man sehen wie sich die Laufeffizienz über die Zeit verändert.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;wettkampfprognose&quot;&gt;Wettkampfprognose&lt;/h2&gt;
+&lt;p&gt;Wenn man seine Laufeffizienz kennt und weiß wie lange man eine durchschnittliche Power halten kann (aus früheren Läufen oder Wettkämpfen), kann man anhand der aktuellen FTP (aus WKO4 oder einem CP-Test) seine potentielle Wettkampfzeit ermitteln, indem man die Formel von oben nach der Geschwindigkeit umstellt.&lt;/p&gt;
+&lt;p&gt;Bei mir sieht das zur Zeit so aus: Ich bin die letzten beiden Halbmarathons mit ca. 97,6% FTP gelaufen. Die Laufeffizienz war im Schnitt bei 1,04. Meine aktuelle FTP liegt bei 268 W. Daraus würde sich dann eine Wettkampfzeit für einen potentiellen Halbmarathon von 1:33:37 ergeben. Um theoretisch eine Zeit von 1:30 zu erreichen, müsste ich meine FTP auf 279 W steigern. Ich weiß also was ich im Training zu tun habe :)&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/Bildschirmfoto-2018-12-06-um-19.19.35.png&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;All das ist natürlich nur eine theoretische Berechnung. Für meinen letzen Halbmarathon in Stockholm hat diese Formel aber eine Zeit von 1:31:24 ausgespuckt. Tatsächlich gelaufen bin ich 1:32:27. Sie lag also nur ca eine Minute daneben. Ziemlich ok wie ich finde.&lt;/p&gt;
+&lt;p&gt;Für den 9km Silvesterlauf sagt die Prognose aktuell eine Zeit von 38:17 voraus, ich werde euch dann davon berichten :)&lt;/p&gt;
+&lt;h2 id=&quot;critical-power-test&quot;&gt;Critical Power Test&lt;/h2&gt;
+&lt;p&gt;Um seine aktuelle FTP zu ermitteln kann man entweder WKO4 und die Power Duration Curve bemühen oder einen Critical Power Test durchführen. Die Power Duration Curve nähert mathematisch die FTP an, dadurch können sich manchmal mathematische Absurditäten einschleichen, weil man gerade in den letzten 90 Tagen so trainiert hat, dass das Modell nicht die optimale Kurve findet. Daher ist es ganz gut ab und an (optimalerweise alle 90 Tage) einen Critical Power Test einzuschieben um die Form gegen zu testen. Zum Beispiel fällt in den nächsten Tagen...</content>
+  </entry>
+  
+  <entry>
+    <title>Was geschah eigentlich im Podcasting und in der Wissenschaft?</title>
+    <link href="/posts/2018-11-22-was-geschah-eigentlich-im-podcasting-und-in-der-wissenschaft/"/>
+    <updated>2018-11-22T00:00:00Z</updated>
+    <id>https://raincastle.blog/posts/2018-11-22-was-geschah-eigentlich-im-podcasting-und-in-der-wissenschaft/</id>
+    <content type="html">&lt;p&gt;Über den Sommer habe ich mich hier im Blog vor allem um das Laufen gekümmert. Da sich aber im Laufen momentan nicht viel tut, wollte ich den Fokus mal wieder auf das Podcasting und die Wissenschaft legen.&lt;/p&gt;
+&lt;h2 id=&quot;podcasting&quot;&gt;Podcasting&lt;/h2&gt;
+&lt;p&gt;Bei &lt;a href=&quot;https://therandomscientist.de&quot;&gt;&lt;strong&gt;The Random Scientist&lt;/strong&gt;&lt;/a&gt; haben wir seit Mai 6 Folgen veröffentlicht:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://therandomscientist.de/2018/06/01/trs035-fettverbrennung/&quot;&gt;TRS035 - Fettverbrennung&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://therandomscientist.de/2018/07/01/trs036-aminosaeuren/&quot;&gt;TRS036 - Aminosäuren&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://therandomscientist.de/2018/08/01/560/&quot;&gt;TRS037 - Wie funktionieren unsere Muskeln?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://therandomscientist.de/2018/09/01/trs038-photosynthese-i/&quot;&gt;TRS038 - Photosynthese I&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://therandomscientist.de/2018/10/06/trs039-nobelpreistraeger-2018/&quot;&gt;TRS039 – Nobelpreise 2018&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://therandomscientist.de/2018/11/06/trs040-photosynthese-ii/&quot;&gt;TRS040 – Photosynthese II&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Neben der Folge über die Nobelpreise, in der wir die Nobelpreise Chemie und Medizin näher vorstellen, war sicher unsere 40. Folge ein Highlight. In dieser Folge stellt ich eine Publikation über die Reaktion des menschlichen Immunsystems auf die Genschere CRISPR/CAS9 vor und konnte dazu den Erstautor der Studie &lt;a href=&quot;https://twitter.com/dlwagner13&quot;&gt;Dimitrios L Wagner&lt;/a&gt; von der Charité in Berlin interviewen. Es wurde ein schönes Interview indem er seine Arbeit sehr eloquent erklärt (zu hören ab &lt;a href=&quot;http://therandomscientist.de/2018/11/06/trs040-photosynthese-ii/?t=1:18:10&quot;&gt;1:18h&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;Bei &lt;a href=&quot;https://1889fm.de&quot;&gt;&lt;strong&gt;1889fm&lt;/strong&gt;&lt;/a&gt; läuft die zweite Saison des Jahns in der 2. Liga. Das gab es in der Geschichte des Vereins noch nie :) Da es nebenbei auch noch der beste Saisonstart in der zweiten Liga ist, sind wir im Podcast eigentlich sehr zufrieden mit der Situation. Neben der Saisonvorschau möchte ich noch die Folge empfehlen in der mit Philipp Pentke unser Torwart zu Gast war.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://1889fm.de/037-die-grosse-saisonvorschau-18-19/&quot;&gt;#037 - Die große Saisonvorschau 18/19&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://1889fm.de/038-interview-franzi-reng/&quot;&gt;#038 - Interview Franzi Reng&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://1889fm.de/039-die-schmach-von-leipzig/&quot;&gt;#039 - Die Schmach von Leipzig&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://1889fm.de/040-ein-sieg-zur-richtigen-zeit/&quot;&gt;#040 - Ein Sieg zur richtigen Zeit!&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://1889fm.de/041-das-war-die-perfekte-woche-feat-philipp-pentke/&quot;&gt;#041 – Das war die perfekte Woche! (feat. Philipp Pentke)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://1889fm.de/042-elfmeter-ist-wie-krieg/&quot;&gt;#042 – Elfmeter ist wie Krieg&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Bei den &lt;a href=&quot;http://3-schweinehun.de&quot;&gt;3 Schweinehunden&lt;/a&gt; sind wir jetzt ca. bei der Halbzeit des Projektes. Ziel bisher war es, dass sich die Schweinehunde an das Laufen gewöhnen und es in ihren Alltag integrieren, um sich auf die Vorbereitung auf den Halbmarathon vorzubereiten. Das klappt bisher auch ganz gut und im Herbst wurden die ersten Versuche unternommen, polarisiertes Training mit Intervallen in das Training zu integrieren. Jetzt gilt es die Form und die Umfänge über den Winter zu retten um dann im Frühjahr richtig durchstarten zu können.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://3-schweinehun.de/2018/06/12/episode11.html#32a4f697&quot;&gt;Episode 11&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://3-schweinehun.de/2018/07/23/episode12.html#22a8565d&quot;&gt;Episode 12&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://3-schweinehun.de/2018/09/04/episode13.html#748d2a21&quot;&gt;Episode 13&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://3-schweinehun.de/2018/10/02/episode14.html#56a7071c&quot;&gt;Episode 14&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Beim &lt;a href=&quot;http://activemotif.podbean.com/&quot;&gt;Epigenetics Podcast&lt;/a&gt; bei dem ich verschiedene Wissenschaftler aus dem Bereich der Epigenetik interviewe gelang es mir im September für die 2. Staffel 3 Interviewpartner zu...</content>
+  </entry>
+  
+  <entry>
+    <title>Road to Stockholm - Trainingsplan Fazit</title>
+    <link href="/posts/2018-09-30-road-to-stockholm-trainingsplan-fazit/"/>
+    <updated>2018-09-30T00:00:00Z</updated>
+    <id>https://raincastle.blog/posts/2018-09-30-road-to-stockholm-trainingsplan-fazit/</id>
+    <content type="html">&lt;p&gt;Mit dem Stockholm-Halbmarathon ist meine Laufsaison für dieses Jahr vorbei und die Off-Season ist eingeläutet. Zeit, die Saison 2018 revue passieren zu lassen und den Trainingsplan zu evaluieren. Das will ich nun in diesem Artikel tun. Das tue ich vor allem um für mich, um zu sehen ob mein selbst erstellter Trainingsplan besser zu mir passt als der den ich für den Frühjahrshalbmarathon aus einem Laufbuch benutzt habe. Vielleicht ist es aber auch für den einen oder anderen von euch interessant und hilft euch bei eurem Training weiter.&lt;/p&gt;
+&lt;h2 id=&quot;umfang&quot;&gt;Umfang&lt;/h2&gt;
+&lt;p&gt;Für den Frühjahrshalbmarathon habe ich einen Plan von Hubert Beck genommen. Er ging über 12 Wochen, enthielt 49 Trainingseinheiten, 585km (3582 TSS) und war mit 2 Trainingswettkämpfen (10km und 15km) der Oberpfälzer Winterlaufserie gespickt. Für den Herbstmarathon habe ich mir nun den Trainingsplan nach den Prinzipien von Jack Daniels zusammengebaut: Er ging 13 Wochen, enthielt 58 Trainingseinheiten und 760km (4573 TSS).&lt;/p&gt;
+&lt;h2 id=&quot;80%2F20-%3F&quot;&gt;80/20 ?&lt;/h2&gt;
+&lt;p&gt;Ein Prinzip des Trainingsplanes war es, 80% der Zeit im Grundlagenausdauer-Bereich zu trainieren. In der Folgenden Tabelle habe ich mal die Verteilung der Trainingsbereiche in den einzelnen Phasen aufgelistet.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/Screen-Shot-2018-09-23-at-19.13.34-300x83.png&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Man sieht ganz gut, dass ich die meiste Zeit über 80% in der GA1/GA2 Zone lag. In Phase 1 hätte ich sogar noch Reserven und könnte in der nächsten Vorbereitung noch etwas mehr Gas geben. Die jeweils letzte Phase (Phase 3, OWC21) ist durch den enthaltenen Wettkampf etwas verfälscht.&lt;/p&gt;
+&lt;h2 id=&quot;ftp%2Fpdc&quot;&gt;FTP/PDC&lt;/h2&gt;
+&lt;p&gt;Ob ich mich in meiner Leistung verbessert habe, sollte man ja an meiner &lt;em&gt;Power Duration Curve&lt;/em&gt; ablesen können. Diese Kurve zeigt die maximale Power über einen gewissen Zeitraum an. In der Grafik habe ich die beiden Kurven für die beiden Vorbereitungsphasen übereinander gelegt. Man sieht zum einen, dass die maximale Power angestiegen ist, von 400 auf 424W. Allerdings ist die modulierte FTP von 275 auf 272 gefallen.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/Picture4-300x242.png&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Um zu sehen, ob das alles nur ein Modellierungseffekt ist, habe ich mir noch die Rohdaten dazu angesehen.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/raw_PDC-300x242.png&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Hier ist in grün die Vorbereitung im Frühjahr und in gelb die im Sommer dargestellt. Man sieht schon, dass die Werte im Frühjahr höher waren (vor allem im mittleren Bereich), allerdings war ich da auch noch um 1-2 Kilo schwerer… Es scheint, als wäre die Vorbereitung im Frühjahr effektiver gewesen. Mal sehen wie oder ob sich der Trend nächstes Jahr fortsetzt.&lt;/p&gt;
+&lt;h2 id=&quot;running-efficiency&quot;&gt;Running Efficiency&lt;/h2&gt;
+&lt;p&gt;Als letztes habe ich mir noch die Laufeffizienz angesehen. Die Vorbereitung im Frühjahr ist hier in dunkelblau und die auf Stockholm in hellblau dargestellt. Man sieht hier, dass ich wohl in der 2. Jahreshälfte effizienter gelaufen bin als in der ersten. Man muss dazu auch sagen, dass die Laufeffizienz höher ist, je schneller man läuft, daher wird es spannend sein, einen zweiten Durchlauf des gleichen Trainingsplans zu sehen.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/Picture3-300x136.png&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;stryd-powersensor&quot;&gt;Stryd Powersensor&lt;/h2&gt;
+&lt;p&gt;Ich habe ja im Januar angefangen, den Stryd Powersensor für mein Training einzusetzen, zusammen mit WKO4 entsteht so ein sehr mächtiges Analyse- und Planungstandem. Vor allem für das Training in den einzelnen Trainingsbereichen und die Belastungssteuerung ist Stryd für mich so zu einem unverzichtbaren Hilfsmittel geworden. Man muss nur darauf achten, dass er immer geladen ist. Da er ja auf Schritte/Erschütterung reagiert muss man ihn auf jeden Fall laden, wenn man mit dem Zug oder dem Flugzeug irgendwo hin reist, denn nach dem Transport im Koffer war er bei mir immer leer.&lt;/p&gt;
+&lt;h2 id=&quot;fazit&quot;&gt;Fazit&lt;/h2&gt;
+&lt;p&gt;Ich empfand den selbst...</content>
+  </entry>
+  
+  <entry>
+    <title>Road to Stockholm - Race Review</title>
+    <link href="/posts/2018-09-20-road-to-stockholm-race-review/"/>
+    <updated>2018-09-20T00:00:00Z</updated>
+    <id>https://raincastle.blog/posts/2018-09-20-road-to-stockholm-race-review/</id>
+    <content type="html">&lt;p&gt;Endlich war es soweit, das Training hatte ein Ende und es ging los nach Stockholm zum Halbmarathon. Die Anreise und das Hotel waren soweit unproblematisch und gut.&lt;/p&gt;
+&lt;p&gt;Die Marathonmesse sowie der Start- und Zielbereich waren vor dem königlichen Schloss, eine bessere Lage dieser Punkte habe ich noch bei keinem (Halb-)Marathon gesehen. Das war schon einmalig und sehr schön.&lt;/p&gt;
+&lt;p&gt;Am Tag des Laufes herrschte super Wetter, ca 17°C, Sonne und es war windig. Der Start war um 15:30. Zuerst dachte ich, dass das eine gute Sache ist, denn ich bin ja wirklich kein Frühaufsteher. Allerdings zieht sich der Tag ganz schön bis dann endlich der Start ist, man will ja dann auch nicht zu viel rumlaufen und irgendwelche Verzögerungen riskieren. So haben wir den Tag ruhig verbracht und sind dann gegen Mittag gemütlich zum Startbereich getingelt.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/img_3616.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Fertig angezogen habe ich mich dann auf den Weg Richtung Starbereich A gemacht. Zuerst fanden wir uns vor dem Königspalast ein, bevor wir dann auf die Brücke und die Startlinie geführt wurden. Es gab auch hier wieder Zugläufer und der schnellste davon war der für 1:30. Das traf sich für mich ganz gut, dachte ich, denn ich müsste einfach nur vor ihm bleiben, um mein primäres Ziel von unter 1:30h zu erreichen. Dieser Zugläufer befand sich dann immer vor dem Startblock A und ich war etwas verwirrt, dachte mir aber, dass er sich dann schon etwas zurückfallen lassen wird, denn es sollten im Startblock A genug Läufer dabei sein, die schneller als das Laufen wollen.&lt;/p&gt;
+&lt;p&gt;Als es dann los ging schaffte ich es ca 10 Sekunden und 100 Meter hinter diesem Zugläufer über die Startlinie, der Abstand vergrößerte sich dann auch über die ersten beiden Kilometer ständig, obwohl ich die beiden ersten Kilometer schon in je ca 4:05 gelaufen bin. Ab da beschloss ich mein eigenes Rennen zu laufen, denn einholen hätte ich ihn eh nicht mehr können. Nach den ersten beiden Kilometern ging es auch schon zum ersten mal eher überraschend relativ stark bergauf. Mit solchen Steigungen hatte ich eher nicht gerechnet, denn der Lauf wurde als sehr flach angepriesen, aber wie man im Graph unten sehen kann gab es 5 doch sehr giftige Anstiege. Ich versuchte dann im angepeilten Wattbereich zwischen 245-265W zu bleiben (markierter Bereich unten im Bild). Bei km 10 lag ich dann bei 42:55 min und ich hatte schon gut Kraft gelassen. Auch wurde mir klar, dass es an diesem Tag eher schwer werden würde, die 1:30 zu knacken.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/img_3866.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Bei Kilometer 10 wartete dann auch meine Anfeuerung auf mich und wir konnten uns kurz zuwinken. Motiviert ging es dann also auf die zweiten 10km auf denen ich hoffte die Pace einigermaßen halten zu können. Aber gleich nach der 10km Marke ging es am Übergang von Gamla Stan zu Södermalm (Slussen) wieder hart bergauf, ich nahm etwas an Tempo raus um im angestrebten Wattbereich zu bleiben, was mir auch ganz gut gelang. Da wir auf dem Rückweg wieder diesem Berg hinunter mussten, legte ich meine Hoffnung in die letzten beiden Kilometer, um dort noch etwas Zeit gut zu machen. Bei Kilometer 15 gab es dann endlich auch ein Energiegel, was ich dankbar annahm. Nach einer weiteren Steigung bei ca. Kilometer 17 waren endlich die letzen Kilometer in Sicht und ich versuchte noch etwas Zeit gut zu machen. Leider war nicht mehr viel im Tank und ich kam mit einer Zeit von 1:32:27 ins Ziel. Zuerst war ich etwas geschockt, dass es doch “so viel” über 1:30 lag, andererseits war am Ende wirklich nicht mehr drin und ich habe alles gegeben.&lt;/p&gt;
+&lt;p&gt;So kann ich am Ende doch auf einen gelungenen und sehr schönen Lauf bei Sonnenschein zurückblicken und die 90 Minuten Marke wird dann vielleicht nächstes Jahr fallen (vielleicht beim München Halbmarathon zusammen mit den 3-Schweinehunden). Jetzt geht es erstmal in die Off-Season :).&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/Power_histogramm_stockholm.png&quot; alt=&quot;&quot;...</content>
+  </entry>
+  
+  <entry>
+    <title>Road to Stockholm - Review Phase 3</title>
+    <link href="/posts/2018-09-04-road-to-stockholm-review-phase-3/"/>
+    <updated>2018-09-04T00:00:00Z</updated>
+    <id>https://raincastle.blog/posts/2018-09-04-road-to-stockholm-review-phase-3/</id>
+    <content type="html">&lt;p&gt;Mit dem letzten Longrun letzten Sonntag hab ich die Vorbereitung für den Stockholm Halbmarathon nahezu abgeschlossen, jetzt steht nur noch das Tapering an.&lt;/p&gt;
+&lt;p&gt;Die letzte, dritte, Phase der Vorbereitung stand im Zeichen von Schwellenläufen und längeren Intervallen. Neben den Schwellenläufen, die ich von 8km über 10km auf 60min gesteigert habe, habe ich als Qualitätseinheiten 4x2000er Intervalle, ein Fahrtenspiel und einmal ein 1-2-3-2-1 Pyramidentraining eingebaut.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/images/Phase_3.png&quot;&gt;&lt;img src=&quot;/assets/images/Phase_3.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Ich muss sagen, dass ich bei den ersten beiden Schwellenläufen noch sehr skeptisch war, ob das Training so gut angeschlagen hat, denn sie liefen alles andere als gut (#121 und #129 in Fig 2). Gut, ich musste sie auch morgens machen und da fühle ich mich grundsätzlich nicht so fit. Aber die letzten beiden Schwellenläufe mit 12km und 60min waren da dann deutlich besser.&lt;/p&gt;
+&lt;p&gt;Wie man in oben sehen kann, konnte ich am Ende (#141) eine höhere Power und eine niedrigere Pace über einen längeren Zeitraum halten. Auch die Laufeffizienz wurde immer besser. Beim letzten Schwellenlauf war dann auch ein 10km-Abschnitt dabei den ich in knapp über 42min gelaufen bin.&lt;/p&gt;
+&lt;p&gt;Ich denke, dass mit den letzten Trainingsergebnissen eine Zeit von ca 1:28 realistisch sein könnte. Mal sehen ob das am Ende dann auch klappt. Drückt mir die Daumen :) &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Road to Stockholm - Review Phase 2</title>
+    <link href="/posts/2018-08-06-road-to-stockholm-review-phase-2/"/>
+    <updated>2018-08-06T00:00:00Z</updated>
+    <id>https://raincastle.blog/posts/2018-08-06-road-to-stockholm-review-phase-2/</id>
+    <content type="html">&lt;p&gt;Ich befinde mich gerade in meiner zweiten Regenerationsphase meiner Vorbereitung auf den Stockholm Halbmarathon. Die vergangene zweite Phase hielt für mich längere Intervalle (1 km) als Qualitätseinheiten bereit. Im Großen und Ganzen stellte sich die Phase als etwas schwierig heraus. Vor allem das Wetter, die Hitze, machte die Trainingsplanung kompliziert, denn bei Temperaturen über 30°C sind Intervalle nicht sehr angenehm zu laufen. Die ersten beiden Wochen konnte ich den Trainingsplan noch gut einhalten, aber in der dritten Woche musste ich einen Regenerationslauf ausfallen lassen und ich habe versucht die Intervalleinheiten in den Morgenstunden zu absolvieren.&lt;/p&gt;
+&lt;p&gt;Der Plan war es, die 1000m Intervalle bis 10% über der FTP zu laufen, also zwischen 275 und 303W. Das macht theoretisch ein Tempo von 3:40-4:00 min/km. Ich habe versucht konstant bei ca. 3:50 pro Kilometer zu bleiben.&lt;/p&gt;
+&lt;p&gt;Analog zur Phase 1 hab ich versucht den Erfolg dieser Einheiten mit der gleichen Auswertung zu evaluieren, indem ich die Power, Pace und Laufeffizienz verglichen habe.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/images/1000er_Intervalle.png&quot;&gt;&lt;img src=&quot;/assets/images/1000er_Intervalle.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Die 10x1000 Intervalle habe ich am Morgen absolviert und da meine “Heimbahn” da noch nicht geöffnet hat konnte ich die Runden 1, 2, 3, 9 und 10 nicht auf der Bahn laufen, daher ist diese Trainingseinheit nicht ganz mit den anderen vergleichbar. Allerdings muss ich sagen, dass ich mit der Entwicklung über die Trainingseinheiten sehr zufrieden bin. Am Ende konnte ich die Intervalle recht stabil um 3:50 und bei ca 290-295 Watt laufen. Bei TrainingPeaks sieht das dann so aus:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/images/Power_distribution_1000er.png&quot;&gt;&lt;img src=&quot;/assets/images/Power_distribution_1000er.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Auch blieb die Laufeffizienz konstanter um einen Wert von ca. 0.99 kJ/kg*km und schwankte nicht mehr so stark wie bei den vorherigen Sessions (mal von den letzten beiden abgesehen, aber die waren ja auch nicht mehr auf der Bahn).&lt;/p&gt;
+&lt;p&gt;Im Moment befinde ich mich in der zweiten “Erholungswoche” und die letzten 3 Wochen sahen so aus:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/images/Phase2.png&quot;&gt;&lt;img src=&quot;/assets/images/Phase2.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Phase 3 wird dann vor allem aus Schwellenläufen, Intervalltrainings mit längeren Intervallabschnitten und Grundlagenausauerläufen bestehen. Da die Temperatur ja wieder fallen soll, wird es sicher wieder angenehmer werden zu Laufen :).&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Road to Stockholm - Review Phase 1</title>
+    <link href="/posts/2018-07-10-road-to-stockholm-review-phase-1/"/>
+    <updated>2018-07-10T00:00:00Z</updated>
+    <id>https://raincastle.blog/posts/2018-07-10-road-to-stockholm-review-phase-1/</id>
+    <content type="html">&lt;p&gt;Die erste Phase in der Vorbereitung auf den Stockholm Halbmarathon ist nun vorbei und ich befinde mich in der ersten Regenerationswoche. Phase 1 hielt für mich kurze Intervalle (400 m) als Qualitätseinheiten bereit, die ich mit Pyramideneinheiten als zweite Q-Einheit mischte. Der Plan war, die 400er Intervalle zwischen 303 und 344 W zu laufen. Das macht eine Zeit von ca. 1:20-1:27 min auf 400 m. Ansonsten habe ich auch die Long Runs im Laufe der Phase immer um 2 km gesteigert sodass ich am Ende bei 22 km angekommen bin.&lt;/p&gt;
+&lt;p&gt;Während dieser Phase habe ich mir eine Menge Gedanken dazu gemacht, wie ich ermitteln kann ob mir die Intervalle was bringen. Zuerst hab ich die durchschnittliche Power und Pace für die einzelnen Trainings und Intervalle aufgelistet und verglichen (vgl. Figure 1). So richtig wurde ich daraus aber nicht schlau. Die Performance bei einem Training hängt wohl doch zu sehr von der Tagesform ab. Dann habe ich mir die Laufeffizienz (RE [kJ/kg*km]) als Maß für die Ermüdung angesehen. Dabei ging ich davon aus, dass eine zunehmende Erschöpfung mit einer schlechteren Laufökonomie einher geht. Und siehe da, es zeigten sich leichte Verbesserungen. Außerdem hatte ich in den ersten 3 Durchgängen immer Intervalle dabei, die langsamer als 1:30 min waren. Im letzten Training konnte ich die Pace allerdings sehr gut bei ca. 1:26-1:28 halten also würde ich insgesamt sagen, dass ich mich weiter entwickelt habe.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/images/400m_Intervalle_01.png&quot;&gt;&lt;img src=&quot;/assets/images/400m_Intervalle_01.png&quot; alt=&quot;Analyse 400m Intervalle&quot; /&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Dann habe ich mich daran erinnert, was das Ziel der Intervalle war: “&lt;em&gt;… und schulen vor allem die Körperhaltung und eine saubere Lauftechnik.&lt;/em&gt;” Wenn das wirklich stimmt, dann sollte sich ja die Laufeffizienz in allen Läufen verbessern. Also habe ich mir die Laufeffizienz meiner Grundlagenausdauerläufe seit meinem letzten Wettkampf im März angesehen und verglichen:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;April:&lt;/strong&gt; 1,060&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mai:&lt;/strong&gt; 1,070&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Juni - Base:&lt;/strong&gt; 1,070&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Juni - Phase 1:&lt;/strong&gt; 1,059&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Es sieht also ganz danach aus, als wäre mein Laufstil effizienter geworden.&lt;/p&gt;
+&lt;p&gt;Man kann mir bei alledem natürlich vorwerfen, dass ich es übertreibe. Allerdings will ich gerne effektiv bzw. optimal trainieren und da versuche ich mich lieber auf Messungen und Daten als auf Gefühle zu verlassen. Außerdem macht es mir auch Spaß das ganze im Detail zu analysieren. Solltet ihr noch andere Ideen haben, gerne her damit :).&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Road to Stockholm - Start</title>
+    <link href="/posts/2018-06-11-road-to-stockholm-start/"/>
+    <updated>2018-06-11T00:00:00Z</updated>
+    <id>https://raincastle.blog/posts/2018-06-11-road-to-stockholm-start/</id>
+    <content type="html">&lt;p&gt;Heute geht sie also los, die direkte Vorbereitung auf den Halbmarathon in Stockholm (Um den Druck aufrecht zu erhalten, habe ich mich schonmal angemeldet). Mein Training bis zum Halbmarathon ist in 3 Phasen geteilt, mein Plan ist es nun nach jeder Phase ein kleines Fazit zu ziehen und es hier zu veröffentlichen. Das soll mir dabei helfen, die einzelnen Phasen und das Training im allgemeinen besser bewerten zu können und auch die Motivation hoch zu halten. Denn wenn man es mal niederschreibt ist es doch etwas anderes als wenn man nur so vor sich hin trainiert.&lt;/p&gt;
+&lt;p&gt;Nun zur anstehenden Phase 1: Seit dem ich den Trainingsplan dazu gemacht habe, habe ich noch etwas an ihm gefeilt und ihn ein wenig verändert. Nach dem Urlaub hatte ich noch 2 Wochen Zeit bis zum Start von Phase 1, die erste Woche habe ich für Läufe im Grundlagentempo genutzt (um wieder richtig in den Rhythmus zu kommen). In der jetzt folgenden zweiten Woche habe ich schon mal eine kurze Intervalleinheit eingeschoben (Morgen, 4x400m Intervalle), um mich für die erste Woche der Phase 1 vorzubereiten.&lt;/p&gt;
+&lt;p&gt;Dort habe ich vor allem 400m Intervalle auf der Bahn als Qualitätseinheiten und GA1-Läufe auf dem Trainingsplan. Im Vergleich zur Version von Mitte April habe ich die zweite Intervalleinheit einer Woche (Freitags) jetzt jedoch durch ein Pyramidentraining auf der Bahn ersetzt (200-400-600-[800]-600-400-200m). 2x 400m Intervalle pro Woche schien mir dann doch etwas zu eintönig. Auch habe ich die letzte Intervalleinheit in jeder Phase durch eine Intervalleinheit aus der nächsten Phase ersetzt um schon mal in diese ‘hinein zu schnuppern’.&lt;/p&gt;
+&lt;p&gt;Phase 1 besteht also jetzt aus 24 Trainingseinheiten, 277 km, 1694 TSS und geht bis Mitte Juli. Das sieht dann im Detail so aus:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/images/Screen-Shot-2018-05-07-at-21.00.51-289x300.png&quot;&gt;&lt;img src=&quot;/assets/images/Screen-Shot-2018-05-07-at-21.00.51-289x300.png&quot; alt=&quot;Phase 1&quot; /&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Ich melde mich dann wieder um davon zu berichten :).&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Rückblick Mai 2018</title>
+    <link href="/posts/2018-06-01-rueckblick-mai-2018/"/>
+    <updated>2018-06-01T00:00:00Z</updated>
+    <id>https://raincastle.blog/posts/2018-06-01-rueckblick-mai-2018/</id>
+    <content type="html">&lt;p&gt;Der Mai stand ganz im Zeichen der Hochzeit, des Urlaubs und der Erholung. Deshalb gibt es vom Laufen auch nur sehr wenig zu berichten. Erschwerend kam noch eine leichte Erkältung hinzu. Am Ende kam ich auf 130 km im Grundlagenausdauerbereich. Die nächsten 2 Wochen werde ich die Umfänge wieder etwas steigern und dann ab dem 12.6. mit einem Intervalltraining in die Vorbereitung zum Stockholm Halbmarathon einsteigen.&lt;/p&gt;
+&lt;h2 id=&quot;science&quot;&gt;Science&lt;/h2&gt;
+&lt;p&gt;Forscher der Universität Maastricht und der Royal Netherlands Academy of Arts and Sciences (KNAW) haben in ihrer im Fachmagazin Nature publizierten Studie einen künstlichen Embryo (Blastocyste) allein aus Stammzellen erschaffen welcher sich auch in die Gebärmutter einnistet.&lt;/p&gt;
+&lt;p&gt;Dieser Fortschritt macht es nun möglich die Entwicklung eines Embryos &lt;em&gt;in utero&lt;/em&gt; noch genauer zu untersuchen und mögliche Therapien für Fehlentwicklungen zu finden.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Nicolas C. Rivron, Javier Frias-Aldeguer, … Niels Geijsen (2018) &lt;a href=&quot;https://www.nature.com/articles/s41586-018-0051-0&quot;&gt;Blastocyst-like structures generated solely from stem cells&lt;/a&gt; (Nature) DOI: &lt;a href=&quot;http://dx.doi.org/10.1038/s41586-018-0051-0&quot;&gt;10.1038/s41586-018-0051-0&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;podcast&quot;&gt;Podcast&lt;/h2&gt;
+&lt;p&gt;Aus den oben genannten Gründen war es auch an der Podcastfront leise. Am 1.5. kam die obligatorische ‘The Random Scientist’-Folge. Thema war diesmal Diabetes. Außerdem sprachen wir über die Funktion der so genannten &lt;em&gt;Junk DNA&lt;/em&gt; und darüber wie die altersbedingte Makuladegeneration mit der Hilfe von Stammzellen behandelt werden kann. Auch die 3-Schweinehunde nahmen eine neue Folge auf, da war ich allerdings nicht dabei.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://therandomscientist.de/2018/05/01/trs034-diabetes/&quot;&gt;TRS034 – Diabetes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://3-schweinehun.de/2018/05/23/episode10.html#527d8e52&quot;&gt;Episode 10 - Der überhitzte Schweinehund&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Rückblick April 2018</title>
+    <link href="/posts/2018-04-30-rueckblick-april-2018/"/>
+    <updated>2018-04-30T00:00:00Z</updated>
+    <id>https://raincastle.blog/posts/2018-04-30-rueckblick-april-2018/</id>
+    <content type="html">&lt;p&gt;Lauftechnisch lief diesen Monat nichts spektakuläres, ich befinde mich in der Grundlagen/Basis-Phase zwischen 2 Wettkampfvorbereitungsphasen. Die neue Vorbereitungsphase startet dann Mitte/Ende Mai mit der Vorbereitung auf den Stockholm Halbmarathon. Diese Phase war also geprägt von Grundlagenausdauerläufen und Läufen auf Strecken die ich sonst &lt;a href=&quot;https://www.strava.com/activities/1494287463&quot;&gt;nicht so häufig laufe&lt;/a&gt;. Am Ende kamen dabei 145 km zusammen.&lt;/p&gt;
+&lt;p&gt;Außerdem habe ich diesen Monat die Fenix 5 von Garmin getestet. Leider muss ich diese wieder zurückschicken, da die Verbindung mit meinem Stryd Powersensor immer wieder abbricht und die Daten am Ende eher schlecht als recht zu gebrauchen sind. Für knapp 500€ kann man da mehr erwarten. Hier ein Beispiel, 8 Abbrüche in 60 Minuten ist einach zu viel.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/images/Capture-300x85.png&quot;&gt;&lt;img src=&quot;/assets/images/Capture-300x85.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;podcast&quot;&gt;Podcast&lt;/h2&gt;
+&lt;p&gt;Podcasttechnisch war ich vor allem für 1889fm unterwegs. Der Jahn hat ja jetzt den Klassenerhalt auch sicher und so wurde es eine sehr launige 36. Folge und auch die abschließende der Saison. Die nächste Folge gibt es dann wieder zur neuen Saison - Anfang August.&lt;/p&gt;
+&lt;p&gt;In der 33. Folge von The Random Scientist haben wir uns mit der Atmungskette beschäftigt. Das ist der letzte Schritt im Kohlenhydratstoffwechsel, der Schritt in dem dann am Ende ATP erzeugt wird. Außerdem stellte Dominic eine Studie vor, welche sich um das vermehren von T-Zellen drehte, währen ich über Missverständnisse in der Darstellung einer Zwillingsstudie sprach.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://therandomscientist.de/2018/04/01/trs033-atmungskette/&quot;&gt;TRS033 – Atmungskette&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://fcsp.hamburg/podcast/476-vds-millernton-nds/163-201718_sp31_vds_ssvjahnregensburg&quot;&gt;Vor dem Spiel – SSV Jahn Regensburg (A) – Spieltag 31&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://3-schweinehun.de/2018/04/17/episode9.html#3fe653ab&quot;&gt;3-Schweinehunde - Episode 9 - Eyjafjallajökull&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://1889fm.de/036-hammer-saison/&quot;&gt;1889fm - #036 – Hammer Saison!!&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Mein Training für den Herbst-Halbmarathon</title>
+    <link href="/posts/2018-04-12-mein-training-fuer-den-herbst-halbmarathon/"/>
+    <updated>2018-04-12T00:00:00Z</updated>
+    <id>https://raincastle.blog/posts/2018-04-12-mein-training-fuer-den-herbst-halbmarathon/</id>
+    <content type="html">&lt;p&gt;Seit der Gründung des &lt;a href=&quot;https://3-schweinehun.de&quot;&gt;3-Schweinehunde-Podcasts&lt;/a&gt; beschäftige ich mich wieder mehr mit den Themen rund um das Laufen - also kudos an die Jungs für die Motivation. Dazu gehört nun auch, dass ich mir meinen Trainingsplan selber ‘basteln’ möchte.&lt;/p&gt;
+&lt;p&gt;Auf den Frühjahrshalbmarathon habe ich mich noch mit einem Plan von &lt;a href=&quot;http://amzn.to/2G6OD3Q&quot;&gt;Hubert Beck&lt;/a&gt; vorbereitet. Becks Pläne sind eigentlich sehr schön und liegen mir (damit bin ich meine Marathon-PB in New York gelaufen). Als zweiten Saisonhöhepunkt habe ich mir einen Halbmarathon Mitte September vorgenommen (ich schiele auf Stockholm), wofür ich mir meinen Trainingsplan jetzt selbst zusammenbasteln will. Warum aber wechseln? Zum einen will ich mir wie oben beschrieben den Plan selbst und flexibel gestalten (mehr dazu weiter unten), andererseits ist eine Abwechslung im Plan auch mal ganz nett. Es könnte der Eindruck entstehen, dass ich alles verkompliziere (Gadgets, Apps, Software, Numbers, etc.) und nur alles auf Daten auslege, aber eigentlich ist mir daran gelegen das Training so einfach und effektiv wie möglich zu gestalten. Am liebsten würde ich zwar gemütlich podcasthörend im GA2-Tempo an der Donau entlang laufen, aber wir wissen alle, dass wir davon nicht schneller werden ;). Ich hoffe, ich kann euch im folgenden anhand meines Trainingsplan für den Herbst-Halbmarathon darlegen wie ich mein Training nun aufbauen will und werde dann berichten wie es mir dabei gegangen ist. (&lt;em&gt;Ich bin weder Arzt noch Trainer und habe auch keine Ausbildung im Trainer-Bereich. Ich beschreibe nur meine individuellen Erfahrungen die evtl für den ein oder anderen Leser nützlich oder interessant sein könnten.&lt;/em&gt;)&lt;/p&gt;
+&lt;h2 id=&quot;tools&quot;&gt;Tools&lt;/h2&gt;
+&lt;p&gt;Tools sind eine schöne Sache, aber in diesem Bereich ist weniger auch manchmal mehr. Die richtige Mischung zu finden ist hier so nötig wie schwierig. Mittlerweile bin ich bei einer Mischung aus Soft- und Hardware angelangt, die das Training zusammen mit meiner seit 2007 gepflegten und liebevoll ausgearbeiteten Exceldatei begleiten und unterstützen. Als erstes ist da natürlich meine GPS-Pulsuhr: &lt;a href=&quot;http://amzn.to/2FvOCZx&quot;&gt;Garmin Forerunner 235&lt;/a&gt;. Ich bin damit sehr zufrieden. Sie zeichnet die Distanz und die Herzfrequenz auf, außerdem kann ich dort mein Intervalltraining planen und abspeichern. Es ist wirklich angenehm wenn man die Intervalle nicht selber mitzählen muss ;) (ab dem 8. 1 km Intervall ist das wirklich schwierig…). Das alles tut sie ohne Murren und synchronisiert am Ende automatisch über Bluetooth mit Garmin Connect. Von dort aus werden die Daten dann verteilt. Das zweite Stück Hardware welches ich benutze ist der &lt;a href=&quot;https://www.stryd.com/&quot;&gt;Stryd Powersensor&lt;/a&gt;. Nach meiner ersten GPS Laufuhr ist das wirklich &lt;strong&gt;DAS&lt;/strong&gt; Gerät, was mir am meisten beim Training weiterhilft. Puls- und Pace-Zonen waren mir schon immer irgendwie suspekt, da sie doch von so vielen Faktoren beeinflusst werden (Wind, Steigungen, Temperatur, etc.). Mit der Leistung (in Watt) hat man nun einen unabhängigen Wert an den man sich halten kann. Für mich funktioniert das jedenfalls hervorragend. Mehr dazu im nächsten Abschnitt “Trainingsbereiche”. Die Daten weden von Garmin dann zu Strava gepusht. An Strava mag ich zum einen den Community-Gedanken und zum anderen die Segmente und natürlich die Kudos ;). Seit ich mich damit beschäftige meinen Trainingsplan selbst zu schreiben, benutze ich auch Trainingpeaks (in der Basisversion) und WKO4. Trainingpeaks gibt mir die TSS für jede Einheit, außerdem sind da auch alle anderen Werte einsehbar (Garmin kann noch nicht so gut mit Watt). Ich rechne mir die TSS zwar auch aus, aber exakt stimmt das dann doch immer nicht. WKO4 benutze ich um meine aktuelle FTP aus dem &lt;a href=&quot;https://www.trainingpeaks.com/blog/what-is-the-performance-management-chart/&quot;&gt;Performance Management Chart&lt;/a&gt; abzulesen und meine &lt;a...</content>
+  </entry>
+  
+  <entry>
+    <title>Rückblick März 2018</title>
+    <link href="/posts/2018-03-31-rueckblick-maerz-2018/"/>
+    <updated>2018-03-31T00:00:00Z</updated>
+    <id>https://raincastle.blog/posts/2018-03-31-rueckblick-maerz-2018/</id>
+    <content type="html">&lt;p&gt;Im März habe ich den Trainingsumfang im Vergleich zum Februar etwas verringert und mehr Schwellenläufe und Passagen im angestrebten Halbmarathontempo eingebaut. Das lag vor allem daran, dass der 21 km Lauf der Winterlaufserie anstand. Die Vorbereitung darauf verlief planmäßig.
+Das heißt, ich musste keinen Lauf ausfallen lassen und ich fühlte mich sehr gut vorbereitet. Das Wetter am Tag des Laufes war perfekt: Leichter Wind, strahlender Sonnenschein und ca. 10 Grad. Am Tag davor hatte ich mir auf Strava noch die Strecke vom Vorjahr angeschaut, denn ich hatte den Verdacht, dass es doch etwas hügelig werden könnte. Ich behielt Recht: zwischen &lt;a href=&quot;https://www.strava.com/segments/5165331?filter=overall&quot;&gt;Kilometer 3 und 5&lt;/a&gt; sowie &lt;a href=&quot;https://www.strava.com/segments/17244956?filter=overall&quot;&gt;Kilometer 14 und 16&lt;/a&gt; gab es zwei ordentliche Steigungen mit knapp 100 Höhenmetern. Mit dieser mentalen Vorbereitung ging ich in den Lauf und konnte mein angestrebtes Tempo gut halten. An den beiden Anstiegen nahm ich etwas Tempor aus und versuchte zwischen 250 und 270 Watt zu laufen. Am Ende kam ich mit einer Zeit von &lt;a href=&quot;https://www.strava.com/activities/1470625405&quot;&gt;1:32:39&lt;/a&gt; in Ziel womit ich sehr zufrieden bin. Für den Halbmarathon im Herbst suche ich mir dann lieber eine flachere Strecke aus (Stockholm …?). Den Rest des Märzes lies ich es dann ruhig angehen und kam am Ende auf 219 km. Durch den Halbmarathon hat sich meine FTP jetzt auf 275 W verbessert. Ich werde also meine Trainingsbereiche dementsprechend anpassen. Mehr dazu aber im nächsten Artikel zur Vorbereitung auf den Herbst-Halbmarathon (Teaser, Teaser … ;)).&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/images/Screen-Shot-2018-03-31-at-18.04.32-300x206.png&quot;&gt;&lt;img src=&quot;/assets/images/Screen-Shot-2018-03-31-at-18.04.32-300x206.png&quot; alt=&quot;March Distance&quot; /&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;wissenschaft&quot;&gt;Wissenschaft&lt;/h3&gt;
+&lt;p&gt;Diesen Monat stoplerte ich über eine Studie, die sich mit Schmerzempfinden beschäftigte. Sie wurde von einem Team um Pavel Goldstein im Labor von Simone G. Shamay-Tsoory an der Johns Hopkins Universität in Baltimore durchgeführt. Den Anfang nahm die Studie, als Pavel während der Geburt seines ersten Kindes feststellte, dass der Schmerz seiner Frau bei der Geburt nachlies, wenn er ihre Hand hielt. In dieser Studie wurden nun 22 Paare, die mindestens ein Jahr zusammen waren, in unterschiedlichen Szenarien getestet. Während ihre Hirnwellen überwacht wurden wurden sie einem der folgenden 3 Szenarien ausgesetzt. Nebeneinander sitzend, nebeneinander sitzen plus händehaltend und in unterschiedlichen Räumen sitzen. Außerdem wurde jedes der Szenarien wiederholt wobei bei der Frau leichter Hitzeschmerz am Arm angewandt wurde. Es zeigte sich, dass sich die Gehirnwellen synchronisierten, wenn die Partner in einem Raum waren. Diese Synchronisation war am stärksten, wenn sie die Partner berührten und die Frau schmerz verspürte. Außerdem wurde gezeigt, dass sich der Schmerz reduzierte je empathischer der Mann in der Situation war. Diese Paper zeigt also wieder einmal, wie wichtig menschliche Nähe und Empathie in einer Welt sind, in der wir immer unpersönlicher Kommunizieren.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Pavel Goldstein, Irit Weissman-Fogel, … Simone G. Shamay-Tsoory (2018) &lt;a href=&quot;http://www.pnas.org/content/early/2018/02/16/1703643115&quot;&gt;Brain-to-brain coupling during handholding is associated with pain reduction&lt;/a&gt; (Proceedings of the National Academy of Sciences) DOI: &lt;a href=&quot;http://dx.doi.org/10.1073/pnas.1703643115&quot;&gt;10.1073/pnas.1703643115&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;podcast&quot;&gt;Podcast&lt;/h3&gt;
+&lt;p&gt;Was Podcasts anging war der März ein sehr produktiver Monat. Bei The Random Scientist haben wir den Citratcyclus besprochen. Dieser ist ein wichtiger Bestandteil im Abbau von Kohlenhydraten und Fetten im menschlichen Körper und liefert die Ausgangstoffe zur Energieprodkution. Außerdem sprachen wir über Therapien zur Behandlung von Alzheimer und wie sich die Ernährung auf das Mikrobiom im Darm und die...</content>
+  </entry>
+  
+  <entry>
+    <title>Stryd Power Manual (Download)</title>
+    <link href="/posts/2018-03-02-stryd-power-manual-download/"/>
+    <updated>2018-03-02T00:00:00Z</updated>
+    <id>https://raincastle.blog/posts/2018-03-02-stryd-power-manual-download/</id>
+    <content type="html">&lt;p&gt;Heue fand ich in meinem Newsreader (&lt;a href=&quot;https://www.inoreader.com/&quot;&gt;Inoreader&lt;/a&gt;) einen Post, indem das neue Stryd Manual vorgestellt wurde. Da ich mich ja im Moment sehr mit Trainingsplanung und -steuerung auseinandersetze (indem ich &lt;a href=&quot;http://amzn.to/2FKbwdt&quot;&gt;dieses Buch&lt;/a&gt; lese), fand das bei mir natürlich fruchtbaren Boden vor. Da es aber auch für Leute interessant ist, die evtl daran denken in die Welt von Stryd einzutauchen, dachte ich es wäre sinnvoll hier kurz darauf hinzuweisen. Man kann sich das ganze &lt;a href=&quot;https://storage.googleapis.com/stryd_static_assets/stryd-power-manual-3.pdf&quot;&gt;hier&lt;/a&gt; herunterladen.&lt;/p&gt;
+&lt;p&gt;Dieses PDF hatte dann jetzt auch direkte Auswirkungen auf mein aktuelles Training. Denn dort waren auch die Powerzones aufgeführt und wie sie im Vergleich zu Jim Vance’s Zone sind (diese hatte ich bisher verwendet). Mir war schon immer unklar, warum ein Schwellenlauf (Zone 3) bei 95% der Schwellenleistung (FTP) aufhören sollte und die 1k Intervalle dann von 95%-105% liegen sollten. Die Stryd Powerzones dafür machen für mich mehr Sinn.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/images/Power-Zones.png&quot;&gt;&lt;img src=&quot;/assets/images/Power-Zones.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Ich habe das dann direkt aktualisiert und auch die 1k Intervalle heute danach trainiert.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/images/8x1k_INT-1024x276.png&quot;&gt;&lt;img src=&quot;/assets/images/8x1k_INT-1024x276.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Jetzt kann man natürlich sagen, dass ich die Leistung eh nicht so genau einhalten kann/konnte. Das stimmt natürlich und wenn die Zonen nur 10 Prozentpunkte ‘weit’ sind ist es auch nicht einfach immer in der Zone zu bleiben (auf der flachen Bahn ist es einfacher wie auf der Straße). Andererseits ist es immer ein schwanken um den gedachten Mittelwert und wenn sich der verschiebt bin ich wohl im Schnitt auch eher in der gewünschten Zone, falls ihr versteht was ich meine :).&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Rückblick Februar 2018</title>
+    <link href="/posts/2018-02-28-rueckblick-februar-2018/"/>
+    <updated>2018-02-28T00:00:00Z</updated>
+    <id>https://raincastle.blog/posts/2018-02-28-rueckblick-februar-2018/</id>
+    <content type="html">&lt;p&gt;Ich bin mir noch nicht ganz sicher, ob dieses Format eines Blogartikels so das richtige ist… Ich spiele mit dem Gedanken, in den Monatsrückblick nur noch das Laufen und evtl. die Podcasts rein zu bringen (wobei ich bei den Podcasts nicht sicher bin ob das sinnvoll ist diese überhaupt zu erwähnen) und dafür die Wissenschaft bei Bedarf einzustreuen. Was denkt ihr? (Birgit? ;) )&lt;/p&gt;
+&lt;h2 id=&quot;laufen&quot;&gt;Laufen&lt;/h2&gt;
+&lt;p&gt;Der Februar hielt für mich 226 Trainingskilometer und den 2. Lauf der Oberpfälzer Winterlaufserie über 15km bereit. Nach einer etwas (sehr) anstrengenden KW7 mit 76 Kilometern und einem 10x400m Intervalltraining, fühlte ich mich allerdings etwas schlapp. In der kommenden Woche hab ich dann lieber das Intervalltraining mit Rücksicht auf den 15km Wettkampf am 25.02. in ein etwas leichteres &lt;a href=&quot;https://www.strava.com/activities/1420301083&quot;&gt;Fahrtenspiel&lt;/a&gt; umgewandelt. Der Wettkampf selbst lief sehr gut. Ich pacte das erste mal in einem Wettkampf nach Watt und wollte im Bereich von +/- 5% FTP laufen (also ca 258-286W), was mir auch sehr gut gelang (siehe Abb 1). Am Ende eines schönen Laufes bei -6°C und Sonne sprang eine Zeit von 58:58min auf 13,6km heraus. Leider war die Ausschilderung der Strecke nicht eindeutig und so lief die eine Hälfte des Feldes wohl eine &lt;a href=&quot;https://www.strava.com/activities/1424956000&quot;&gt;kleine Abkürzung&lt;/a&gt; ;).&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/images/15k_Power-300x156.png&quot;&gt;&lt;img src=&quot;/assets/images/15k_Power-300x156.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Ansonsten lief das Training im Februar trotz der Kälte relativ reibungslos und ich konnte das geplante Programm abspulen (siehe Abb 2). Meine FTP habe ich zusätzlich zum Rechner auf ‘The Secret of Running’ auch aus WKO4 genommen. Beide liegen jetzt nach dem Wettkampf bei ca. 270W (268, 272), daher werde ich das ab jetzt als neuen Basiswert für die Trainingsbereiche verwenden.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/images/Feb_distance-300x111.png&quot;&gt;&lt;img src=&quot;/assets/images/Feb_distance-300x111.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Im Laufe des Monats habe ich mich auch weiter mit der Trainingsplanung und den Tools die ich dafür benutzen will beschäftigt. Ich würde gerne in einen Zustand kommen, dass alles zu verstehen und dann einen flexiblen Trainingsplan für mich entwickeln können. Dazu wurde ich vor allem durch die Artikel in Thomas Blog inspiriert (&lt;a href=&quot;http://harlerunner.de/mein-trainingsplan-fuer-2018/&quot;&gt;1&lt;/a&gt;, &lt;a href=&quot;http://harlerunner.de/meine-steuerung-der-trainingsbelastung-mit-wko4/&quot;&gt;2&lt;/a&gt;, &lt;a href=&quot;http://harlerunner.de/prinzipien-des-trainings-gastbeitrag-von-michael-arend/&quot;&gt;3&lt;/a&gt;, &lt;a href=&quot;http://harlerunner.de/mein-halbmarathon-training-nach-jack-daniels/&quot;&gt;4&lt;/a&gt;). Meine Gedanken und die Umsetzung werde ich dann in einem eigenen Artikel beschreiben, wenn ich meinen Trainingsplan für den Herbsthalbmarathon mache.&lt;/p&gt;
+&lt;h2 id=&quot;wissenschaft&quot;&gt;Wissenschaft&lt;/h2&gt;
+&lt;p&gt;Diesen Monat fanden die Olympischen Winterspiele in Südkorea statt. In diesem Zusammenhang ist mir ein Paper in Nature aufgefallen. Es geht, &lt;em&gt;natürlich&lt;/em&gt;, um Doping. In einer Studie der Universität Keele (UK) stellten die Forscher fest, dass menschliche Muskeln eine Art Gedächtnis an frühere Wachstumszustände besitzen, und zwar auf DNA Ebene. Die Muskeln können sich daran ‘erinnern’ wie groß bzw trainiert sie zu einen früheren Zeitpunkt mal waren, was ihnen dabei hilft später auf das gleiche Maß und sogar noch weiter zu wachsen. Dazu unterzogen sie 8 gesunde Männer einem 7 wöchigen Trainingsprogramm in dem die Muskeln wuchsen. Darauf folgte eine 7 wöchige ‘Abtrainierungsphase’ in der die Muskeln wieder auf das Ausgangslevel schrumpften, welche von einer erneut 7 wöchigen Trainingsphase gefolgt wurde in der die Muskeln über das Niveau der ersten Trainingsphase wuchsen. Die Muskeln der Probanden wurden mit verschiedenen genetischen und epigenetischen Methoden auf die &lt;a href=&quot;https://de.wikipedia.org/wiki/DNA-Methylierung&quot;&gt;Methylierung ihrer DNA&lt;/a&gt; untersucht. Wenn Gene aktiviert...</content>
+  </entry>
+  
+  <entry>
+    <title>Critical Power Test</title>
+    <link href="/posts/2018-02-06-critical-power-test/"/>
+    <updated>2018-02-06T00:00:00Z</updated>
+    <id>https://raincastle.blog/posts/2018-02-06-critical-power-test/</id>
+    <content type="html">&lt;p&gt;Es gibt bessere Tage um seine Laufleistung zu evaluieren als den Tag nach dem Super Bowl ;). Allerdings wollte ich das sonnige Wetter und den Urlaubstag ausnutzen und nach dem Aufwärmen ging es auch ganz gut. Das Protokoll, welches von Stryd geliefert wird, um seine Critical Power zu ermitteln, ist folgendes:&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Warm up for 5 minutes. Do two to three 100-meter strides at approximately 80% maximum effort during warm up to enhance the blood circulation and ready your muscle for intense use.&lt;/li&gt;
+&lt;li&gt;800 meters Easy-pace run. Two laps on a 400-meter track, please use the innermost lane. Run at an easy pace, such that you can comfortably maintain conversation.&lt;/li&gt;
+&lt;li&gt;Warm up for another 5 minutes.&lt;/li&gt;
+&lt;li&gt;1200 meters Maximum-effort run. Run at a consistent pace throughout the test, but so that you are nearly exhausted at the end of the test.&lt;/li&gt;
+&lt;li&gt;Recovery for 30 minutes. Throughout the 30-minute recovery period, the runner should walk or jog slowly.&lt;/li&gt;
+&lt;li&gt;2400 meters Maximum-effort run. As was the case for the three-lap run, it is important to maintain a consistent pace during this run instead of dramatically changing pace (and effort) during the run.&lt;/li&gt;
+&lt;li&gt;Cool down.&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Am Ende hat man also die Daten von einem 800m easy-pace run (Watt und Zeit), von einem 1200m max-effort run (Watt und Zeit) und die Daten eines 2400m max-effort run. Diese Werte trägt man dann in den Einstellungen ein. Die Benutzung der Stryd Seite ist für meinen Geschmack noch etwas umständlich… Und am Ende bekommt man seine Critical Power mit den entsprechenden Trainingszonen.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/images/traininzones-300x210.png&quot;&gt;&lt;img src=&quot;/assets/images/traininzones-300x210.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Diese decken sich in etwa mit den Trainingszonen aus ‘&lt;a href=&quot;http://amzn.to/2Ek4EFs&quot;&gt;The Secret of Running&lt;/a&gt;’. Daher fühle ich mich eigentlich sehr wohl damit…&lt;/p&gt;
+&lt;p&gt;Soweit ich es jetzt verstanden habe ist die Critical Power die Leistung die man an der Laktatschwelle (also Übergang von aerob zu anaerob) bringen kann. Wohingegen die FTP (Functional Threshold Power) die Leistung ist die man eine Stunde lang aufrecht erhalten kann. Nach meinem Gefühl sollten diese Werte recht nah beieinander liegen, was sie bei mir auch tun.&lt;/p&gt;
+&lt;p&gt;In diesem Sinne bis zum nächsten mal.&lt;/p&gt;
+&lt;p&gt;Euer Stefan&lt;/p&gt;
+&lt;p&gt;(&lt;em&gt;Ich habe den Stryd-Powersensor selbst bezahlt und will hier nur meine Erfahrungen damit schildern.&lt;/em&gt;)&lt;/p&gt;
+&lt;h2 id=&quot;update&quot;&gt;Update&lt;br /&gt;&lt;br /&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Mittlerweile verwende ich aber ein anderes Protokoll für den Critical Power Test: &lt;a href=&quot;/posts/2018-12-06-ein-jahr-training-mit-dem-stryd-powersensor&quot;&gt;KLICK&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Anfang Juli 2019 hat STRYD die Automatische CP Berechnung eingeführt, was einen CP-Test ersetzt: &lt;a href=&quot;/posts/2019-07-10-stryd-berechnet-die-ftp-cp-jetzt-automatisch&quot;&gt;KLICK&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Rückblick Januar 2018</title>
+    <link href="/posts/2018-01-31-rueckblick-januar-2018/"/>
+    <updated>2018-01-31T00:00:00Z</updated>
+    <id>https://raincastle.blog/posts/2018-01-31-rueckblick-januar-2018/</id>
+    <content type="html">&lt;p&gt;Dank dem recht milden Wetter und recht guter Gesundheit bin ich im Januar tatsächlich so viel gelaufen wie in noch keinem Januar vorher. Danke an die 3 Schweinehunde und die konstante Motivation. Nur 2015 hab ich mal mehr als 100km geschafft. Nach einer kurzen Erkältung Anfang des Monats konnte ich ununterbrochen trainieren und ich musste auch keinen Lauf ausfallen lassen. So kam ich am Ende auf 170km.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/images/Screen-Shot-2018-01-31-at-21.24.26-300x180.png&quot;&gt;&lt;img src=&quot;/assets/images/Screen-Shot-2018-01-31-at-21.24.26-300x180.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Eine Woche nach dem 10 km Wettkampf hatte ich einen flachen Schwellenlauf an der Donau im Programm. Den konnte ich ziemlich locker in 46:28 min und mit durchschnittlich 246 W laufen, was nur etwas langsamer war als der Wettkampf aber eben nicht max-out. Daraufhin wies mich meine Uhr darauf hin, dass meine VO2max auf 55 ml/min*kg gestiegen sei. Da dies auch über die nächsten Läufe konstant blieb und ich auch nach dem Schwellenlauf den Eindruck hatte, dass er im vgl zum Wettkampf recht ‘locker’ war habe ich die FTP auf jetzt 270 W angepasst. Diese stetige Anpassung der Trainingszonen mit dem Powersensor empfinde ich als sehr sinnvoll und nützlich. Ob sie auch der Realität entsprechen ist natürlich immer die Frage, aber vom Feeling her habe ich ein gutes Gefühl. Deshalb habe ich für nächste Woche einen Critical Power Test geplant, mal schauen ob sich die Werte bestätigen.&lt;/p&gt;
+&lt;h2 id=&quot;podcasting&quot;&gt;Podcasting&lt;/h2&gt;
+&lt;p&gt;Auch was das Podcasting angeht war ich diesem Monat sehr aktiv. Zum einen haben wir die allmonatliche &lt;strong&gt;The Random Scientist&lt;/strong&gt; Folge veröffentlicht. Diesmal ging es um &lt;a href=&quot;https://de.wikipedia.org/wiki/Antibiotikum&quot;&gt;Antibiotika&lt;/a&gt;. Ich erkläre, welche verschiedenen Klassen es gibt, wie sie wirken und wie man sie einsetzen kann und sollte. Als nächstes habe ich im Firmen Podcast für Active Motif &lt;a href=&quot;https://www.age.mpg.de/science/research-labs/tessarz/&quot;&gt;Dr. Peter Tessarz&lt;/a&gt; vom Max Planck Institut für Biologie des Alterns über das Altern und die epigenetischen Zusammenhänge gesprochen. Dieses Interview gibt es allerdings nur auf Englisch. Um die Winterpause in der 2. Fußballbundesliga etwas zu verkürzen, habe ich zusammen mit &lt;a href=&quot;https://twitter.com/meszner&quot;&gt;Daniel&lt;/a&gt; vom &lt;a href=&quot;https://www.zeitsprung.fm/&quot;&gt;Zeitsprung Podcast&lt;/a&gt; eine Folge zur Geschichte des SSV Jahn Regensburg aufgenommen. Zu Gast in dieser Folge waren die Archivare des Jahn Wolfgang und Gerd Otto. Mit ihnen haben wir in kompakten 3 Stunden  über die Geschichte des Vereins aus der 2. Bundesliga gesprochen. Als sich die Winterpause dem Ende neigte habe ich in gewohnter Runde zusammen mit den Turmfunkern Thali und Robert, sowie Tobi den Rückblick zur Winterpause bzw die Vorschau auf die Rückrunde aufgenommen. Damals hatten wir 4 Punkte aus den nächsten 3 Spielen erhofft, die sind jetzt vor dem Spiel gegen Kiel schon eingetütet. Weiter so!&lt;/p&gt;
+&lt;h2 id=&quot;links-zu-den-folgen%3A&quot;&gt;Links zu den Folgen:&lt;br /&gt;&lt;br /&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://therandomscientist.de/2018/01/01/trs030-antibiotika/&quot;&gt;TRS030 - Antibiotika&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://1889fm.de/029-die-geschichte-des-ssv-jahn-regensburg-feat-rueckpass-podcast/&quot;&gt;1889fm #029 - Die Geschichte des SSV Jahn Regensburg&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://3-schweinehun.de/2018/01/25/episode6.html#25d3b2fc&quot;&gt;3SH 005 - The Power of the New Year&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://activemotif.podbean.com/e/amp003-ageing-and-epigenetics/&quot;&gt;AM Podcast 004 - Aging and Epigenetics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://1889fm.de/030-winterpausen-roundup/&quot;&gt;1889fm #030 - Winterpausen Roundup&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In diesem Sinne bis zum nächsten mal.&lt;/p&gt;
+&lt;p&gt;Euer Stefan&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>OWC 2018 - 10km Lauf am Steinberger See</title>
+    <link href="/posts/2018-01-21-owc-2018-10km-lauf-am-steinberger-see/"/>
+    <updated>2018-01-21T00:00:00Z</updated>
+    <id>https://raincastle.blog/posts/2018-01-21-owc-2018-10km-lauf-am-steinberger-see/</id>
+    <content type="html">&lt;p&gt;Heute stand für mich der 10km Lauf bei der Oberpfälzer Winterlaufchallenge auf dem Plan. Vorgenommen hatte ich mir irgendwas unter 45 Minuten in Richtung 40.&lt;/p&gt;
+&lt;p&gt;Die Bedingungen waren eher sub optimal. Leichter bis mäßiger Schneefall, knapp über Null. Die Strecke schneebedeckt und matschig, ich dachte mir also schon, dass es mit der 40er Zeit wohl nix werden würde. Ich bin den Lauf auch direkt aus dem Training gelaufen und beim Einlaufen merkte ich, dass die Beine doch etwas unrund wirkten.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;assets/images/Photo-21.01.18-11-50-39-e1517484148415-225x300.jpg&quot;&gt;&lt;img src=&quot;/assets/images/Photo-21.01.18-11-50-39-e1517484148415-225x300.jpg&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Der Start befand sich am Gasthaus Seeblick, sehr schön am Steinberger See gelegen. Der ‘Streckensprecher’ sagte, dass sich ca 330 Leute angemeldet hatten, dafür ging die Startnummernausgabe recht flott (Ich merke gerade, ich hätte mehr Bilder machen sollen ;) ). Pünktlich zum Start um 11 Uhr waren alle an der Startlinie.  Wir liefen also los. Ich versuchte mich auf den ersten Kilometern an meiner 4-4:10/km Pace bzw 270 Watt zu orientieren. Leider ging es die ersten 3 Kilometer auf matschigen Wegen stetig bergan, was ich dann schnell merkte und mein Tempo etwas drosseln musste. Etwa bei der Hälfte ging es dann auf eine Flache 2km Passage mit Teerstraßen, die waren auch gut geräumt. Dort konnte ich mich etwas erholen, bevor es wieder auf die Waldwege ging. Die zweite Hälfte des Laufes war dann wieder besser. Es ging bergab, wodurch ich mich etwas erholen konnte und dabei das Tempo stabilisieren: KM7: 04:49, 8: 04:40, 9: 04:37, 10: 04:12. Am Ende lief ich mit einer Zeit von &lt;a href=&quot;https://www.strava.com/activities/1367617434&quot;&gt;44:39&lt;/a&gt; ein. Ich muss sagen unter den gegebenen Umständen bin ich durchaus damit zufrieden. Es ist ja noch früh im Jahr.&lt;/p&gt;
+&lt;p&gt;Dieser Lauf sollte ja auch dazu dienen, meine FTP anzupassen. Mit den 44:39 auf 10km liegt diese jetzt bei 3,74 Watt/kg (256 W) und meine VO2max bei 52,17 ml O2/kg/min. Mal schauen wie sich das weiterhin entwickelt.&lt;/p&gt;
+&lt;p&gt;In diesem Sinne bis zum nächsten mal.&lt;/p&gt;
+&lt;p&gt;Euer Stefan&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Training mit dem Stryd Powersensor</title>
+    <link href="/posts/2018-01-12-laufen-mit-dem-stryd-powersensor/"/>
+    <updated>2018-01-12T00:00:00Z</updated>
+    <id>https://raincastle.blog/posts/2018-01-12-laufen-mit-dem-stryd-powersensor/</id>
+    <content type="html">&lt;p&gt;Ich laufe nun gut 2 Wochen mit dem Stryd Powersensor; daher finde ich ist es Zeit für ein erstes Fazit.&lt;/p&gt;
+&lt;p&gt;Die zentrale Größe, die es beim Laufen mit Power zu ermitteln gilt und nach der sich auch alles richtet ist die &lt;a href=&quot;https://hetgeheimvanhardlopen.nl/wp-content/uploads/2016/10/8.-Determine-your-FTP-and-your-training-zones-1.pdf&quot;&gt;FTP&lt;/a&gt; (Functional Threshold Power, bei Stryd auch critical power CP). Dies ist die maximale Leistung die man eine Stunde lang halten kann. Soweit ich es verstanden habe, ist dann FTP und CP gleich. Dieser Wert hat was mit der Laktakverstoffwechelung zu tun, der Leistung bei der “maximal lactate steady state (MLSS)” herrscht, also da wo Laktat Aufbau und Abbau gleich schnell sind (Quelle: &lt;a href=&quot;https://www.trainingpeaks.com/blog/introduction-of-the-new-time-to-exhaustion-metric-in-wko4/&quot;&gt;Training Peaks Blog&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;Es gibt mehrere Wege diesen Wert zu ermitteln. Einerseits kann man auf &lt;a href=&quot;http://thesecretofrunning.com&quot;&gt;http://thesecretofrunning.com&lt;/a&gt; eine aktuelle Wettkampfzeit eingeben und daraus wird dann die spezifische FTP in Watt/km und die &lt;a href=&quot;https://de.wikipedia.org/wiki/Maximale_Sauerstoffaufnahme&quot;&gt;VO2Max&lt;/a&gt; (maximale Sauerstoffaufnahme in ml O2/min/kg) berechnet. Da man weiß wie viel Energie Sauerstoff liefert und wie hoch die Stoffwechseleffizienz ist, kann man beide Werte ineinander umrechnen. Andererseits kann man einen &lt;a href=&quot;https://support.stryd.com/hc/en-us/articles/115003989074-How-do-I-perform-a-critical-power-test-and-get-my-critical-power-and-zones-&quot;&gt;Critical Power Test&lt;/a&gt; machen und die Werte im Stryd Powercenter eingeben. Daraus wird dann die CP errechnet. Ich habe jetzt mal eine historische 10km Zeit vom letzten Jahr als erste Näherung genommen. Es könnte sein, dass dadurch die Werte etwas zu hoch sind, aber für eine erste Näherung passt das schon mal. Meine Werte sind also 4,02 W/kg und 56,09 ml O2/min/kg. Nach ein Paar Läufen mit meiner Forerunner 235 spuckte diese allerdings einen VO2max-Wert von 53  ml O2/min/kg aus (GC), was bestätigte, dass der Wert doch etwas hoch gegriffen war. Ich will allerdings den 10km Lauf in einer Woche für die erste Standortbestimmung verwenden um dann dadurch aktuelle werte zu erhalten und auch zu sehen ob der Wert von der Uhr Sinn macht.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/images/Screen-Shot-2018-01-30-at-08.38.37-150x150.png&quot;&gt;&lt;img src=&quot;/assets/images/Screen-Shot-2018-01-30-at-08.38.37-150x150.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Nach dem ich nun meine FTP kenne bzw festgelegt habe, kann ich mir daraus die Trainingsbereiche errechnen (Siehe Abbildung 1). Das heißt, Grundlagenausdauer wird zwischen 190 und 220W bzw zwischen 220 und 240W trainiert. Schwellenläufe zwischen 240 und 260W.&lt;/p&gt;
+&lt;p&gt;Bei Intervallen verspreche ich mir den größten Vorteil der Wattmessung, da sie mir im Gegensatz zur Herzfrequenz ein direktes Feedback über den Trainingsbereich gibt und ich Intervalle früher zu langsam gelaufen bin. 1km Intervalle trainiere ich jetzt bei 261-285W und kurze 400m Intervalle (FSB) bei 288-313W.&lt;/p&gt;
+&lt;h2 id=&quot;berechnungen&quot;&gt;Berechnungen&lt;/h2&gt;
+&lt;p&gt;Wenn man nun seine FTP kennt und die Leistung für jeden einzelnen Lauf messen kann, kann man viele Dinge theoretisch berechnen (was für mich als Wissenschaftler natürlich besonders toll ist :)). Zum einen wäre da die &lt;a href=&quot;https://thesecretofrunning.com/wp-content/uploads/2017/10/25.-The-impact-of-speed-on-the-running-economy-ECOR-and-RE.pdf&quot;&gt;Laufeffizienz&lt;/a&gt; ECOR in ml kJ/kg*km:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;ECOR (kJ/kg*km) = P (Watt/kg)/v (m/s)&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;RE in ml O2/kg*km:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;RE (ml O2/kg/km) = 60/3.6*VO2 (ml O2/kg/min)/v (m/s)&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Durch Umstellen der Gleichung kann man auch ermitteln, wie viel (durchschnittliche) Leistung man aufbringen muss um eine gewisse Geschwindigkeit zu laufen (auf einem Flachen Kurs).&lt;/p&gt;
+&lt;h2 id=&quot;trainingsplanung-und-tools&quot;&gt;Trainingsplanung und Tools&lt;/h2&gt;
+&lt;p&gt;Zur Analyse und Planung...</content>
+  </entry>
+  
+  <entry>
+    <title>Laufen im Jahr 2018</title>
+    <link href="/posts/2018-01-01-laufen-im-jahr-2018/"/>
+    <updated>2018-01-01T00:00:00Z</updated>
+    <id>https://raincastle.blog/posts/2018-01-01-laufen-im-jahr-2018/</id>
+    <content type="html">&lt;p&gt;Gestern habe ich mit dem &lt;a href=&quot;https://www.strava.com/activities/1334713797&quot;&gt;Silvesterlauf&lt;/a&gt; das Laufjahr 2018 eingeläutet. Wie schon im &lt;a href=&quot;/posts/2017-12-27-dann-fange-ich-eben-auch-mal-an/&quot;&gt;vorherigen Artikel&lt;/a&gt; geschrieben, will ich 2018 wieder neu durchstarten und meine Laufform wieder auf Vordermann bringen. Die letzen Jahre waren was die Laufleistung angehen immer etwas schwankend. Aber im großen und ganzen bin ich immer mehr gelaufen.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/images/Picture2.png&quot;&gt;&lt;img src=&quot;/assets/images/Picture2-300x151.png&quot; alt=&quot;test&quot; /&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Da ich aus privaten Gründen den Heim-Halbmarathon heuer nicht laufen kann, habe ich mich entschieden, mich bei der &lt;a href=&quot;http://www.wechselszene.com/wettkampfe/winterlauf-challenge&quot;&gt;Oberpfälzer Winterlaufchallenge&lt;/a&gt; anzumelden. Diese Laufserie beinhaltet 3 Läufe mit aufsteigender Länge:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;ol start=&quot;21&quot;&gt;
+&lt;li&gt;Januar 2018 - 10 km am Steinberger See&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;ol start=&quot;25&quot;&gt;
+&lt;li&gt;Februar 2018 - 15 km am Murner See&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;ol start=&quot;25&quot;&gt;
+&lt;li&gt;März 2018 - 21 km Verbindungslauf Murner- und Steinberger See&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Der 10km dient dann auch als erste Formbestimmung. Bis dahin sind es noch knapp 3 Wochen, könne also etwas knapp werden. Zum Halbmarathon im März sollte die Form dann aber schon passabel sein. April und Mai werden dann etwas ruhiger werden, vor allem weil ich im Mai dann auch 2 Wochen im Urlaub bin. Ab Juni werde ich mich dann auf einen (noch zu bestimmenden) Halbmarathon im Herbst vorbereiten. Im Moment favorisiere ich den Lauf in Bensheim am letzten September Wochenende. Ziel ist es dann nochmal die persönliche Bestzeit über die Halbmarathon-Distanz anzugreifen. Im Moment liegt die bei 1:26h, was bedeuten würde, dass ich eine Zeit unter 85 Minuten anstrebe :). In meiner Laufpause zum Jahresende habe ich mein Equipment mit dem den &lt;a href=&quot;https://stryd.com&quot;&gt;Stryd Powersensor&lt;/a&gt; und eine neue &lt;a href=&quot;http://amzn.to/2DUWItT&quot;&gt;Forerunner 235&lt;/a&gt; (mit meiner alten Uhr ging der Sensor natürlich nicht mehr) upgegradet um mein Training besser steuern zu können (HFQ hat für mich nie gut funktioniert und Pace ist immer so eine Sache) dazu aber in einem späteren Artikel mehr. Außerdem habe ich mir mal einen Jahresplan gemacht. Dieser sieht aktuell ca. 1900km vor. Da aber immer Sachen anders laufen als geplant habe ich mir als Laufziel dieses Jahr 1000 Meilen (also ca. 1600km) vorgenommen.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/assets/images/Picture1.png&quot;&gt;&lt;img src=&quot;/assets/images/Picture1-300x158.png&quot; alt=&quot;test&quot; /&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;In diesem Blog will ich monatlich über meinen Fortschritt berichten und so auch Druck auf mich selbst ausüben und die Motivation hoch halte :)&lt;/p&gt;
+&lt;p&gt;In diesem Sinne bis zum nächsten mal.&lt;/p&gt;
+&lt;p&gt;Euer Stefan&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Dann fange ich eben auch mal an ...</title>
+    <link href="/posts/2017-12-27-dann-fange-ich-eben-auch-mal-an/"/>
+    <updated>2017-12-27T00:00:00Z</updated>
+    <id>https://raincastle.blog/posts/2017-12-27-dann-fange-ich-eben-auch-mal-an/</id>
+    <content type="html">&lt;p&gt;… zu bloggen.&lt;/p&gt;
+&lt;p&gt;Im Moment spreche ich ja lieber in Mikrofone (&lt;a href=&quot;https://fyyd.de/podcast/active-motif-s-podcast/0&quot;&gt;The Epigenetics Podcast&lt;/a&gt; und &lt;a href=&quot;https://3-schweinehun.de&quot;&gt;3 Schweinehunde&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;Meinen ersten Blog hatte ich aber schon 2012. Damals habe ich mit einem Blog mein Training zum New York Marathon 2012 begleitet. Leider konnte dieser dann wegen des Hurrikans Sandy nicht stattfinden. Aufgrund der miesen Kommunikationsstrategie der Veranstalter war ich erstmal geknickt und unmotiviert, konnte mir aber 2014 den Traum vom New York Marathon erfüllen.&lt;/p&gt;
+&lt;p&gt;2014 und 2015 lief ich insgesamt 4 Marathons und 2 Halbmarathons, was sich dann vor allem Ende 2015 als zu viel herausstellte und meine Zeiten einbrachen. Was mich dazu bewog, 2016 eine ruhige Kugel zu schieben.&lt;/p&gt;
+&lt;p&gt;2016 startete ich auch zusammen mit Dominic meinen ersten Podcast (&lt;a href=&quot;https://therandomscientist.de&quot;&gt;The Random Scientist&lt;/a&gt;). Dies führte letztendlich dazu, dass ich zusammen mit 3 anderen Podcastern (&lt;a href=&quot;https://twitter.com/hellmue&quot;&gt;Dominic&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/theTJ23&quot;&gt;TJ&lt;/a&gt; und &lt;a href=&quot;https://twitter.com/informatom&quot;&gt;Stefan&lt;/a&gt;) im Oktober 2017 einen Laufpodcast (&lt;a href=&quot;https://3-schweinehun.de&quot;&gt;Die 3 Schweinehunde&lt;/a&gt;) ins Leben gerufen habe.&lt;/p&gt;
+&lt;p&gt;Seit diesem Tag bin ich wieder voll motiviert mehr zu Laufen und mich auch wieder mehr mit dem Laufen zu beschäftigen. Inspiriert durch einige Blogs (&lt;a href=&quot;http://rageand.run&quot;&gt;rageandrun&lt;/a&gt;, &lt;a href=&quot;http://www.nedsblog.de/&quot;&gt;nedfuller&lt;/a&gt;, …) möchte ich also hier über meine Erfahrungen beim Laufen, beim Podcasten und was mir sonst noch so einfällt schreiben.&lt;/p&gt;
+&lt;p&gt;Ich hoffe euch gefällt das und ihr lest gerne mit 😊&lt;/p&gt;
+&lt;p&gt;In diesem Sinne bis zum nächsten mal.&lt;/p&gt;
+&lt;p&gt;Euer Stefan&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+</content>
+  </entry>
+</feed>
