@@ -1,3 +1,5 @@
+my blog edited bit by bit after this template...
+
 # eleventy-chirpy-blog-template
 
 [![Github Workflow](<https://github.com/muenzpraeger/eleventy-chirpy-blog-template/workflows/Blog%20build%20(main)/badge.svg?branch=main>)](https://github.com/muenzpraeger/eleventy-chirpy-blog-template/actions?query=workflow%3A%22Blog+build+%28main%29%22) [![Netlify Status](https://api.netlify.com/api/v1/badges/ceb123c7-d071-495e-b9a7-51d82b38c8a0/deploy-status)](https://app.netlify.com/sites/eleventy-chirpy-blog-template/deploys)
