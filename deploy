@@ -1,8 +1,0 @@
-#!/bin/sh
-USER=raincast
-HOST=brooks.uberspace.de
-DIR=/var/www/virtual/raincast/html   # the directory where your web site files should go
-
-npx @11ty/eleventy && rsync -avz --delete _site/ ${USER}@${HOST}:${DIR}
-
-exit 0
