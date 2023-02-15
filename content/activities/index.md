@@ -8,4 +8,4 @@ Diese Seite ist mein Versuch mittels des 11ty [eleventy-activity-feed](https://g
 
 [https://raincastle.blog/follow.rss](https://raincastle.blog/follow.rss)
 
-<script src="{{ '/assets/js/follow-feed.11ty.js' }}" type="module"></script>
+<script src="/src/follow-feed.11ty.js"></script>
