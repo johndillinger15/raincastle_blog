@@ -24,8 +24,6 @@ All blog configuration is handled via [`siteconfig.js`](./content/_data/siteconf
 
 All build processes rely on how `NODE_ENV` is set. For production builds, which then also means minified CSS and JS you've to set the value to `production`. I mention this explicitly as this is for some vendors not the default.
 
-If you want to speed up your build times a bit you can add the generated images to your git repo. The `.gitignore` already contains a commented section for that.
-
 ## Local Development
 
 ### Before you install dependencies

@@ -14,10 +14,9 @@ Um meine Form zu dokumentieren und den Fortschritt durch den Trainingsplan (mehr
 
 ## Wettkampf
 
-Den Weg zu meinem nächsten Marathon im Jahr 2025 wollte ich über die Unterdistanzen gehen und da bietet es sich an mit einem 5k-Lauf zu starten. Die Erfahrung hat gezeigt, dass ich, aus dem Wintertraining kommend, Wärme bei einem Wettkampf nicht so gut vertrage. Daher habe ich nach einem 5k Wettkampf möglichst noch im April gesucht. Und tatsächlich gibt es in Straubing am 30.4. dieses Jahr den [Herzogstadtlauf](https://www.laufen.de/dlv-laufkalender/details/23V02000222100000) mit einer 5 Kilometer Strecke. Solltest du zufällig auch vor Ort sein, lass es mich gerne wissen 😁.
+Den Weg zu meinem nächsten Marathon im Jahr 2025 wollte ich über die Unterdistanzen gehen und da bietet es sich an mit einem 5k-Lauf zu starten. Die Erfahrung hat gezeigt, dass ich, aus dem Wintertraining kommend, Wärme bei einem Wettkampf nicht so gut vertrage. Daher habe ich nach einem 5k Wettkampf möglichst noch im April gesucht. Und tatsächlich gibt es in Straubing am 30.4. dieses Jahr den [Herzogstadtlauf](https://www.herzogstadtlauf.de) mit einer 5 Kilometer Strecke. Solltest du zufällig auch vor Ort sein, lass es mich gerne wissen 😁.
 
 ## Training
 
 Normalerweise trainiere ich mich selbst, die Prinzipien habe ich hier im Blog schon öfter beschrieben [[1](https://raincastle.blog/posts/2019-03-03-road-to-regensburg/), [2](https://raincastle.blog/posts/2020-02-05-laengere-mikrozyklen-introducing-nanozyklen/)]. Zum einen habe ich aber das Gefühl, dass dieses Training schön langsam zu monoton wird und mir ein anderer Reiz gut tun würde, zum anderen fehlt mir aus den oben genannten Gründen aktuell die Zeit und die Muße mich selbst um mein Training zu kümmern. Daher probiere ich für den 5k Wettkampf einmal einen Trainingsplan von Stryd aus. Auf den ersten Blick sieht mir das Training etwa ungewöhnlich aus (viele kurze Läufe über 3km oder 20min...), aber wie ich immer sage:"Trust the Process". Also werde ich mich einfach auf den Plan einlassen und euch dann bald von meinen Erfahrungen berichten.
-
-<br /><br />
+<br><br>

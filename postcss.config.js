@@ -1,3 +1,5 @@
+const autoprefixer = require("autoprefixer");
+
 const isProduction = process.env.NODE_ENV === "production";
 
 let cssnano = undefined;
@@ -18,5 +20,9 @@ const plugins = {
 };
 
 module.exports = {
-    plugins
+    plugins: {
+        tailwindcss: {}
+        autoprefixer: {}
+        cssnano: {}
+    }
 };

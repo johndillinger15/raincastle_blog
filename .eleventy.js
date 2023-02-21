@@ -39,7 +39,9 @@ module.exports = function (eleventyConfig) {
         "svg",
         "jpg",
         "css",
-        "png"
+        "png",
+        "11ty.js",
+        "activity.js"
     ]);
 
     // Generate excerpt from first paragraph
@@ -161,4 +163,3 @@ function extractExcerpt(article) {
 
     return excerpt;
 }
-
