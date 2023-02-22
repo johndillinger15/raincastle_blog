@@ -1,14 +1,20 @@
-const isProduction = process.env.NODE_ENV === "production";
+// const isProduction = process.env.NODE_ENV === "production";
 
-let purge = false;
+// let purge = false;
 
 // We want optimization only in production
-if (isProduction) {
-    purge = ["./content/**/*.njk", "./src/*.js", '_site/**/*.html'];
-}
+// if (isProduction) {
+//    purge = ["./content/**/*.njk", "./src/*.js"];
+// }
 
 module.exports = {
-    purge,
+    mode: 'jit',
+    content: [
+        './content/**/*.{html,js,njk,md}',
+        './assets/**/*.{html,js,njk,md}',
+        './src/**/*.{html,js,njk,md}',
+        'scripts/**.{html,js,njk,md}'
+      ],
     darkMode: "class",
     plugins: [
         function ({ addUtilities }) {
@@ -22,15 +28,6 @@ module.exports = {
             addUtilities(extendUnderline);
         }
     ],
-    variants: {
-        extend: {
-            backgroundImage: ["dark"],
-            fill: ["dark"],
-            fontWeight: ["dark"],
-            gradientColorStops: ["dark"],
-            stroke: ["dark"]
-        }
-    },
     theme: {
         extend: {
             backgroundColor: (theme) => ({
