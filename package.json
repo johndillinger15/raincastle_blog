@@ -6,20 +6,12 @@
     "scripts": {
         "build": "npm run build:eleventy && npm run build:css && npm run build:js",
         "build:css": "npx tailwindcss -i assets/css/site.css -o assets/css/site-build.css && npx tailwindcss -i assets/css/prism.css -o assets/css/prism-build.css",
+        "watch:css": "npx tailwindcss --watch -i assets/css/site.css -o assets/css/site-build.css && npx tailwindcss --watch -i assets/css/prism.css -o assets/css/prism-build.css",
         "build:eleventy": "eleventy",
         "build:js": "rollup -c scripts/rollup.config.js",
-        "dev": "concurrently \"npm:dev:*\"",
-        "dev:css:prism": "postcss assets/css/prism.css -o assets/css/prism-build.css --watch",
-        "dev:css:site": "postcss assets/css/site.css -o assets/css/site-build.css --watch",
-        "dev:eleventy": "rm -rf _site && eleventy --serve",
+        "dev": "npm-run-all build:css --parallel watch:eleventy watch:css",
         "dev:js": "rollup -c scripts/rollup.config.js -w",
-        "lint": "npm run lint:markdown && npm run lint:js",
-        "lint:markdown": "npx markdownlint-cli2 \"./content/**/*.md\"",
-        "lint:js": "eslint '**/*.js'",
-        "postinstall:": "husky install",
-        "precommit": "npm run prettier && npm run lint",
-        "prettier": "prettier --write \"**/*.{css,html,js,json,md,yaml,yml}\"",
-        "prettier:verify": "prettier --list-different \"**/*.{css,html,js,json,md,yaml,yml}\""
+        "watch:eleventy": "eleventy --serve"
     },
     "dependencies": {
         "@11ty/eleventy-activity-feed": "^1.0.9",
@@ -50,13 +42,16 @@
     "devDependencies": {
         "@11ty/eleventy": "^2.0.0",
         "concurrently": "^6.2.0",
+        "eleventy-plugin-webmentions": "^0.0.1",
         "eslint": "^7.28.0",
         "eslint-config-prettier": "^8.3.0",
         "eslint-plugin-inclusive-language": "^2.1.1",
         "husky": "^6.0.0",
         "markdownlint": "^0.26.2",
         "markdownlint-cli2": "^0.5.1",
-        "prettier": "^2.3.1"
+        "npm-run-all": "^4.1.5",
+        "prettier": "^2.8.4",
+        "prettier-plugin-tailwindcss": "^0.2.3"
     },
     "volta": {
         "node": "18.13.0",

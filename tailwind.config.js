@@ -1,12 +1,3 @@
-// const isProduction = process.env.NODE_ENV === "production";
-
-// let purge = false;
-
-// We want optimization only in production
-// if (isProduction) {
-//    purge = ["./content/**/*.njk", "./src/*.js"];
-// }
-
 module.exports = {
     mode: 'jit',
     content: [
