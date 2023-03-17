@@ -27,7 +27,7 @@ const convert = async (rawContent, outputPath) => {
             content = dom.serialize();
         }
     }
-
+    
     return content;
 };
 

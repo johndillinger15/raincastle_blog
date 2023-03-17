@@ -3,13 +3,13 @@
 @tailwind utilities;
 
 img {
-    @apply rounded-lg shadow-lg block mx-auto h-auto;
+    @apply mx-auto block h-auto rounded-lg shadow-lg;
 }
 
 /* Left sidebar */
 
 .sidebar .navitem {
-    @apply text-gray-400 hover:text-white px-1;
+    @apply px-1 text-gray-400 hover:text-white;
 }
 
 .sidebar .navitem.active {
@@ -133,11 +133,11 @@ html:not(.dark) svg.lighttoggle {
 
 .content,
 .postlist {
-    @apply mt-8 mx-8 lg:mr-32 lg:ml-32 leading-relaxed tracking-wider;
+    @apply mx-8 mt-8 leading-relaxed tracking-wider lg:mr-32 lg:ml-32;
 }
 
 .content a {
-    @apply text-indigo-900 dark:text-indigo-300 underline;
+    @apply text-indigo-900 underline dark:text-indigo-300;
 }
 
 .content p {
@@ -145,7 +145,7 @@ html:not(.dark) svg.lighttoggle {
 }
 
 .content blockquote {
-    @apply border-l-2 border-gray-300 dark:border-gray-600 my-4;
+    @apply my-4 border-l-2 border-gray-300 dark:border-gray-600;
 }
 
 .content blockquote > p {
@@ -153,15 +153,15 @@ html:not(.dark) svg.lighttoggle {
 }
 
 .content h1 {
-    @apply text-2xl dark:font-light py-6 mt-4;
+    @apply mt-4 py-6 text-2xl dark:font-light;
 }
 
 .content h2 {
-    @apply text-xl mt-6;
+    @apply mt-6 text-xl;
 }
 
 .content h3 {
-    @apply text-lg mt-6;
+    @apply mt-6 text-lg;
 }
 
 .content ol {
@@ -173,7 +173,7 @@ html:not(.dark) svg.lighttoggle {
 }
 
 .content table {
-    @apply table-auto w-full;
+    @apply w-full table-auto;
 }
 
 .content table thead tr {
@@ -193,7 +193,7 @@ html:not(.dark) svg.lighttoggle {
 }
 
 .social svg {
-    @apply h-5 ml-2 mr-3;
+    @apply ml-2 mr-3 h-5;
 }
 
 .social a {
@@ -310,7 +310,7 @@ nav.toc li {
 }
 
 nav.toc a {
-    @apply no-underline block;
+    @apply block no-underline;
     padding-left: 18px;
     margin-left: -9px;
 }
@@ -323,7 +323,7 @@ nav.toc a:hover {
 }
 
 nav.toc a.active {
-    @apply text-indigo-900 dark:text-indigo-300 font-bold;
+    @apply font-bold text-indigo-900 dark:text-indigo-300;
     border-left: 2px solid;
     padding-left: 16px;
 }
@@ -347,11 +347,11 @@ nav.toc ol ol a.active {
 /* Collection pagination */
 
 ul.pagination div {
-    @apply h-8 w-8 border-1 dark:text-gray-400 bg-white dark:bg-gray-700 hover:bg-indigo-800 dark:hover:bg-gray-600 border-gray-600 hover:text-white rounded-full text-center;
+    @apply h-8 w-8 rounded-full border-1 border-gray-600 bg-white text-center hover:bg-indigo-800 hover:text-white dark:bg-gray-700 dark:text-gray-400 dark:hover:bg-gray-600;
 }
 
 html:not(.dark) ul.pagination div.active {
-    @apply text-white bg-indigo-800;
+    @apply bg-indigo-800 text-white;
     box-shadow: 0 0 8px 0 rgba(55, 48, 163);
 }
 
@@ -368,7 +368,7 @@ html[class="dark"] ul.pagination div.active {
 }
 
 #top-bar.hide {
-    @apply transform -translate-y-12;
+    @apply -translate-y-12 transform;
 }
 
 .additions a {
@@ -376,7 +376,7 @@ html[class="dark"] ul.pagination div.active {
 }
 
 .additions div {
-    @apply text-gray-700 dark:text-gray-400 bg-white dark:bg-dark-body border-gray-600 no-underline;
+    @apply border-gray-600 bg-white text-gray-700 no-underline dark:bg-dark-body dark:text-gray-400;
 }
 
 .additions div:hover {
@@ -384,7 +384,7 @@ html[class="dark"] ul.pagination div.active {
 }
 
 .scroll {
-    @apply bg-white dark:bg-gray-700 w-12 h-12 border-indigo-900 border-solid border-1;
+    @apply h-12 w-12 border-1 border-solid border-indigo-900 bg-white dark:bg-gray-700;
     position: fixed;
     display: none;
     justify-content: center;
@@ -409,7 +409,7 @@ html[class="dark"] ul.pagination div.active {
 }
 
 .scroll svg {
-    @apply stroke-current fill-current;
+    @apply fill-current stroke-current;
 }
 
 @keyframes fadeup-content {
@@ -507,4 +507,13 @@ div.code-toolbar > .toolbar span {
     main .content .additions {
         display: none;
     }
+}
+
+a.external::after {
+    content: "↗";
+    font-style: normal;
+    font-weight: 900;
+    color: #00bcd4;
+    padding-left: 2px;
+    line-height: 0.75;
 }

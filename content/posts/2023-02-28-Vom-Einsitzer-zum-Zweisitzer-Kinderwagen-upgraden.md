@@ -22,7 +22,7 @@ Sonst hat uns dieser Thule gute Dienste geleistet. Ich bin zusammen mit meinem S
 
 ## Unser künftiger Laufkinderwagen
 
-Unser künftiger Laufkinderwagen ist der [Thule Chariot Sport 2](https://www.thule.com/de-de/bike-trailers/bike-trailers-for-multiple-activities/thule-chariot-sport-2-_-10201024). Er sieht zwar nicht ganz so schnittig aus wie der CX1, es wurden aber alle Punkte die mich am CX1 nur leicht gestört haben verbessert. Man kann die "Spazierräder" und die Deichsel zum Radfahren an den Seiten des Wagens befestigen. Die Sitzlehnen lassen sich unabhängig voneinander verstellen.<br><br>
+Unser künftiger Laufkinderwagen ist der <a href="https://www.thule.com/de-de/bike-trailers/bike-trailers-for-multiple-activities/thule-chariot-sport-2-_-10201024" class="external">Thule Chariot Sport 2</a>. Er sieht zwar nicht ganz so schnittig aus wie der CX1, es wurden aber alle Punkte die mich am CX1 nur leicht gestört haben verbessert. Man kann die "Spazierräder" und die Deichsel zum Radfahren an den Seiten des Wagens befestigen. Die Sitzlehnen lassen sich unabhängig voneinander verstellen.<br><br>
 
 [<img src="/assets/images/2023/Chariot_Sport_2.jpg" class="w-3/5 align=center">](/assets/images/2023/Chariot_Sport_2.jpg)<br><br>
 

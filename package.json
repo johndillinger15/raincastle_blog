@@ -9,9 +9,9 @@
         "watch:css": "npx tailwindcss --watch -i assets/css/site.css -o assets/css/site-build.css && npx tailwindcss --watch -i assets/css/prism.css -o assets/css/prism-build.css",
         "build:eleventy": "eleventy",
         "build:js": "rollup -c scripts/rollup.config.js",
-        "dev": "npm-run-all build:css --parallel watch:eleventy watch:css",
+        "dev": "npm-run-all --parallel watch:eleventy watch:css",
         "dev:js": "rollup -c scripts/rollup.config.js -w",
-        "watch:eleventy": "eleventy --serve"
+        "watch:eleventy": "eleventy --serve --incremental"
     },
     "dependencies": {
         "@11ty/eleventy-activity-feed": "^1.0.9",
@@ -29,6 +29,7 @@
         "liquidjs": "^10.4.0",
         "markdown-it": "^12.3.2",
         "markdown-it-anchor": "^7.1.0",
+        "npm": "^9.6.1",
         "postcss": "^8.3.2",
         "postcss-cli": "^8.3.1",
         "rollup": "^2.51.2",
