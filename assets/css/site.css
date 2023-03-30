@@ -133,7 +133,7 @@ html:not(.dark) svg.lighttoggle {
 
 .content,
 .postlist {
-    @apply mx-8 mt-8 leading-relaxed tracking-wider lg:mr-32 lg:ml-32;
+    @apply mx-8 mt-8 leading-relaxed tracking-wider lg:ml-32 lg:mr-32;
 }
 
 .content a {
@@ -509,10 +509,12 @@ div.code-toolbar > .toolbar span {
     }
 }
 
+/* External Link */
+
 a.external::after {
     content: "↗";
     font-style: normal;
-    font-weight: 900;
+    font-weight: 600;
     color: #00bcd4;
     padding-left: 2px;
     line-height: 0.75;

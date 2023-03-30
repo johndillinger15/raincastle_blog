@@ -13,7 +13,7 @@ Für den Frühjahrshalbmarathon habe ich einen Plan von Hubert Beck genommen. Er
 
 Ein Prinzip des Trainingsplanes war es, 80% der Zeit im Grundlagenausdauer-Bereich zu trainieren. In der Folgenden Tabelle habe ich mal die Verteilung der Trainingsbereiche in den einzelnen Phasen aufgelistet.
 
-![](/assets/images/Screen-Shot-2018-09-23-at-19.13.34-300x83.png)<br /><br />
+[<img src='/assets/images/Screen-Shot-2018-09-23-at-19.13.34.png' class='w-4/5' align='center'/>](/assets/images/Screen-Shot-2018-09-23-at-19.13.34.png)<br><br>
 
 Man sieht ganz gut, dass ich die meiste Zeit über 80% in der GA1/GA2 Zone lag. In Phase 1 hätte ich sogar noch Reserven und könnte in der nächsten Vorbereitung noch etwas mehr Gas geben. Die jeweils letzte Phase (Phase 3, OWC21) ist durch den enthaltenen Wettkampf etwas verfälscht.
 
@@ -21,11 +21,11 @@ Man sieht ganz gut, dass ich die meiste Zeit über 80% in der GA1/GA2 Zone lag. 
 
 Ob ich mich in meiner Leistung verbessert habe, sollte man ja an meiner _Power Duration Curve_ ablesen können. Diese Kurve zeigt die maximale Power über einen gewissen Zeitraum an. In der Grafik habe ich die beiden Kurven für die beiden Vorbereitungsphasen übereinander gelegt. Man sieht zum einen, dass die maximale Power angestiegen ist, von 400 auf 424W. Allerdings ist die modulierte FTP von 275 auf 272 gefallen.
 
-![](/assets/images/Picture4-300x242.png)<br /><br />
+[<img src='/assets/images/Picture4.png' class='w-4/5' align='center'/>](/assets/images/Picture4.png)<br><br>
 
 Um zu sehen, ob das alles nur ein Modellierungseffekt ist, habe ich mir noch die Rohdaten dazu angesehen.
 
-![](/assets/images/raw_PDC-300x242.png)<br /><br />
+[<img src='/assets/images/raw_PDC.png' class='w-4/5' align='center'/>](/assets/images/raw_PDC.png)<br><br>
 
 Hier ist in grün die Vorbereitung im Frühjahr und in gelb die im Sommer dargestellt. Man sieht schon, dass die Werte im Frühjahr höher waren (vor allem im mittleren Bereich), allerdings war ich da auch noch um 1-2 Kilo schwerer... Es scheint, als wäre die Vorbereitung im Frühjahr effektiver gewesen. Mal sehen wie oder ob sich der Trend nächstes Jahr fortsetzt.
 
@@ -33,7 +33,7 @@ Hier ist in grün die Vorbereitung im Frühjahr und in gelb die im Sommer darges
 
 Als letztes habe ich mir noch die Laufeffizienz angesehen. Die Vorbereitung im Frühjahr ist hier in dunkelblau und die auf Stockholm in hellblau dargestellt. Man sieht hier, dass ich wohl in der 2. Jahreshälfte effizienter gelaufen bin als in der ersten. Man muss dazu auch sagen, dass die Laufeffizienz höher ist, je schneller man läuft, daher wird es spannend sein, einen zweiten Durchlauf des gleichen Trainingsplans zu sehen.
 
-![](/assets/images/Picture3-300x136.png)<br /><br />
+[<img src='/assets/images/Picture3.png' class='w-4/5' align='center'/>](/assets/images/Picture3.png)<br><br>
 
 ## Stryd Powersensor
 
@@ -43,4 +43,4 @@ Ich habe ja im Januar angefangen, den Stryd Powersensor für mein Training einzu
 
 Ich empfand den selbst erstellten Plan etwas ausgewogener, da ich ja nach je 3 Wochen eine Regenerationswoche eingelegt habe, das gibt es so beim Plan von Beck nicht. Auch finde ich den Aufbau und allmähliche Konzentration auf das Wettkampftempo sehr sinnvoll und angenehm. Allerdings ist es schon anstrengend und herausfordernd 5 Trainingseinheiten in einer Woche unterzubringen. Dabei helfen auf jeden Fall Morgen- und Mittagsläufe um auch die Belastungen für die Familie nicht zu groß werden zu lassen.
 
-Am Ende hat es mit der Zeit zwischen 1:30 und 1:25 nicht geklappt und meine FTP scheint auch geringer geworden zu sein. Ob das nun an geringerer Leistung, weniger Gewicht oder einfach nur anderen (Test-) Läufen lag werde ich noch herausfinden müssen. Ich werde die Trainingseinheiten etwas anpassen und dann nächstes Jahr wieder angreifen, stay tuned!<br /><br />
+Am Ende hat es mit der Zeit zwischen 1:30 und 1:25 nicht geklappt und meine FTP scheint auch geringer geworden zu sein. Ob das nun an geringerer Leistung, weniger Gewicht oder einfach nur anderen (Test-) Läufen lag werde ich noch herausfinden müssen. Ich werde die Trainingseinheiten etwas anpassen und dann nächstes Jahr wieder angreifen, stay tuned!<br><br>

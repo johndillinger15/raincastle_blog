@@ -4,7 +4,7 @@
             <img alt="{{ siteconfig.imageAlt }}" src="{{ siteconfig.image }}" class="w-36 border dark:border-gray-100 border-indigo-600"/>
         </a>
         <div class="text-center font-semibold pt-6 text-gray-400">
-            <a href="/" class="mx-auto">{{ siteconfig.title }}</a>
+            <a href="/" class="mx-auto hover:text-white">{{ siteconfig.author }}</a>
         </div>
         <div class="text-center text-sm px-2 pt-3 text-gray-400">
             {{ siteconfig.description }}
@@ -19,7 +19,7 @@
                 <a href="/about/" class="block no-underline">About</a>
             </li>
             <li class="navitem text-center uppercase {{ page.url | isActiveLink('https://www.strava.com/athletes/stefan_dillinger') }}">
-                <a href="https://www.strava.com/athletes/stefan_dillinger" class="block no-underline">Strava</a>
+                <a href="https://www.strava.com/athletes/stefan_dillinger" class="block no-underline external" target='_blank' rel='noopener'>Strava</a>
             </li>
             <li class="navitem text-center uppercase {{ page.url | isActiveLink('/activities/') }}">
                 <a href="/activities/" class="block no-underline">Activity Feed</a>
@@ -103,7 +103,7 @@
             </svg>
         </a>
         {% endif %}
-        <a href="{{ '/blog.rss' | absoluteUrl }}" aria-label="Open RSS feed" target="_blank" class="w-5 h-5 pt-3 pb-0" rel="noopener">
+        <a href="{{ '/blog.rss' | absoluteUrl }}" aria-label="Open RSS feed" target='_blank' class="w-5 h-5 pt-3 pb-0" rel="noopener">
             <svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 -256 1792 1792">
                 <title>RSS Feed</title>
                 <g transform="matrix(1,0,0,-1,212.61017,1346.1695)" id="g2991">
@@ -111,8 +111,8 @@
                 </g>
             </svg>
         </a>
-    <div class="text-xs col-span-3 xl:col-span-6 mx-auto center">
-     <a href="/impressum/" class="no-underline">Impressum</a> | <a href="/datenschutz/" class="no-underline">Datenschutz</a>
+    <div class="text-xs col-span-3 xl:col-span-6 mx-auto center text-gray-400">
+     <a href="/impressum/" class="no-underline hover:text-white">Impressum</a> | <a href="/datenschutz/" class="no-underline hover:text-white">Datenschutz</a>
     </div>
     </div>
 </div>  

@@ -2,6 +2,7 @@
 title: Längere Mikrozyklen - Introducing Nanozyklen
 date: 2020-02-05
 ---
+
 Wie ich in meinem letzten Blogeintrag resümierte, lief das letzte Jahr nach anfänglichen Erfolgen eher suboptimal. Zugegeben, mein Plan war ambitioniert, ich wollte 3 Qualitätseinheiten und 2 Recoveryeinheiten in eine Woche quetschen, leider war das am Ende wohl zu viel Belastung und zu wenig Regeneration. Das Alles hat mich zum Nachdenken gebracht und ich habe mein Training nochmal evaluiert. Außerdem hat es mich dazu motiviert die Ausbildung zum Lauftrainer zu machen, denn die Arbeit mit den Schweinehunden hat mir wirklich viel Spaß gemacht.
 
 ## Zyklisches Planen der Laufsaison
@@ -12,9 +13,7 @@ In den letzten Jahren habe ich mich in meinem Halbmarathontraining an zwei Prinz
 
 Ich baute das Training dann immer im 3:1 Rhythmus auf, das heißt auf 3 Belastungswochen folgte dann immer eine Erholungswoche, hierbei ist der Umfang bzw die Belastung in der Erholungswoche ca. 30% gegenüber der Belastungswoche reduziert. Das passte auch sehr gut zum Plan von Jack Daniels, da mit der Erholungswoche der Übergang zur nächsten Phase stattfinden konnte.
 
-Da ich immer noch die 90 Minuten Marke im Halbmarathon im Auge habe, habe ich versucht, 3 Qualitätseinheiten pro Woche unterzubringen. Das bedeutet 1x Intervall, 1x Intervall/Tempo und ein Longrun. Nach den Intervallen plante ich immer noch einen Recoverylauf, um auf die 80/20 Verteilung zu kommen. Das funktionierte auch für 1 Halbmarathon ganz gut und ich konnte mich der 90 Minutenmarke annähern, leider musste ich im Frühjahr 2019 feststellen, dass das mit gesteigerter Reisetätigkeit im Job und dem Faktor "L" (Leben) nicht immer optimal ist und ich konnte den Regensburg Halbmarathon letztes Jahr nicht finischen. Davor, im Winter 2019 nahm ich an einer Winterlaufserie teil, dazu trainierte ich 4x die Woche mit einer Intervalleinheit und das schien sehr gut zu klappen. In meinen Überlegungen nach dem DNF wollte ich dann auf 4 Läufe pro Woche zurück gehen, stieß aber dann auf folgenden Artikel:
-
-https://runningscience.co.za/2019/01/15/the-myth-of-the-weekly-training-cycle/
+Da ich immer noch die 90 Minuten Marke im Halbmarathon im Auge habe, habe ich versucht, 3 Qualitätseinheiten pro Woche unterzubringen. Das bedeutet 1x Intervall, 1x Intervall/Tempo und ein Longrun. Nach den Intervallen plante ich immer noch einen Recoverylauf, um auf die 80/20 Verteilung zu kommen. Das funktionierte auch für 1 Halbmarathon ganz gut und ich konnte mich der 90 Minutenmarke annähern, leider musste ich im Frühjahr 2019 feststellen, dass das mit gesteigerter Reisetätigkeit im Job und dem Faktor "L" (Leben) nicht immer optimal ist und ich konnte den Regensburg Halbmarathon letztes Jahr nicht finischen. Davor, im Winter 2019 nahm ich an einer Winterlaufserie teil, dazu trainierte ich 4x die Woche mit einer Intervalleinheit und das schien sehr gut zu klappen. In meinen Überlegungen nach dem DNF wollte ich dann auf 4 Läufe pro Woche zurück gehen, stieß aber dann auf folgenden <a href='https://runningscience.co.za/2019/01/15/the-myth-of-the-weekly-training-cycle/' class='external' target='_blank' rel='noopener'>Artikel</a>.
 
 In diesem Artikel wird vorgeschlagen, den Mikrozyklus von 7 auf 9 Tage auszudehnen, um mehr Zeit für die Regeneration zu haben. Standardmäßig wird in einer Woche ja vorgeschlagen, folgende Läufe zu machen: 1x Intervalle, 1x Regeneration, 1x Tempo und 1x Longrun. Das Konzept des 9-Tage-Mikrozyklus fand ich sehr sexy, und ich habe mir ein paar mehr Gedanken dazu gemacht und folgende Veränderungen in meinen Trainingsplan eingebaut.
 
@@ -26,12 +25,12 @@ Das Schöne an einem Mikrozyklus der 9 Tage dauert ist, dass man ihn nochmal in 
 
 Diese Struktur bietet mir nun folgende Vorteile der Belastungsteuerung:
 
-- Durch die Modularisierung kann man die Nanozyklen so schieben, dass die Longruns immer an Wochenende stattfinden
-- Durch den Off-Day in jedem Nanozyklus lassen sich die Trainingseinheiten so flexibel an den Faktor L anpassen, dass die Belastung nie zu hoch wird
-- Vor und nach einem/r Intervall/Tempoeinheit sollte entweder ein Recovery-Run oder Off-Day liegen, nie 2 Q Einheiten auf aufeinanderfolgenden Tagen
-- Vor und nach einem Longrun kann immer ein Off-Day liegen
+-   Durch die Modularisierung kann man die Nanozyklen so schieben, dass die Longruns immer an Wochenende stattfinden
+-   Durch den Off-Day in jedem Nanozyklus lassen sich die Trainingseinheiten so flexibel an den Faktor L anpassen, dass die Belastung nie zu hoch wird
+-   Vor und nach einem/r Intervall/Tempoeinheit sollte entweder ein Recovery-Run oder Off-Day liegen, nie 2 Q Einheiten auf aufeinanderfolgenden Tagen
+-   Vor und nach einem Longrun kann immer ein Off-Day liegen<br><br>
 
-![](/assets/images/Nanozyklen-242x300.jpg)<br /><br />
+[<img src='/assets/images/Nanozyklen.jpg' class='w-3/5' align='center'/>](/assets/images/Nanozyklen.jpg)<br><br>
 
 ## Der konkrete Plan
 
@@ -43,4 +42,4 @@ Mir ist bewusst, dass sich die direkte Vorbereitung auf einen Halbmarathon von v
 
 Auch ist der Plan genau auf meine Bedürfnisse, Vorlieben und meine Fitness geplant und muss auch bei mir nicht klappen. Falls ihr ihn übernehmt, bedenkt das bitte.
 
-Wer gerne meine Excel-Datei haben möchte kann mich gerne Kontaktieren.<br /><br />
+Wer gerne meine Excel-Datei haben möchte kann mich gerne Kontaktieren.<br><br>

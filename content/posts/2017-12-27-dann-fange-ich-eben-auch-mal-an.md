@@ -17,6 +17,4 @@ Seit diesem Tag bin ich wieder voll motiviert mehr zu Laufen und mich auch wiede
 
 Ich hoffe euch gefällt das und ihr lest gerne mit 😊
 
-In diesem Sinne bis zum nächsten mal.
-
-Euer Stefan<br /><br />
+In diesem Sinne bis zum nächsten mal.<br><br>

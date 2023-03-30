@@ -47,5 +47,3 @@ assets/js/min.*
 deploy
 
 .vscode
-
-old_uploads/*

@@ -2,6 +2,7 @@
 title: Mein erstes DNF...
 date: 2019-06-06
 ---
+
 Nun ist es also passiert, ich habe statt einer Medaille oder einer Bestzeit ein DNF (did not Finish) gesammelt, mein erstes...
 
 Aber von Vorne. Die Vorbereitung auf den Regensburg Halbmarathon verlief eigentlich sehr gut und ich fühlte mich fit und Race ready.
@@ -16,4 +17,4 @@ Heute ist Donnerstag und meine Beine fühlen sich noch immer nicht wieder richti
 
 Erstaunlicherweise bin ich jetzt weder niedergeschlagen noch traurig. Eher irritiert, dass der Plan nicht geklappt hat... Jetzt werde ich erstmal noch bis Montag eine Pause machen und mich dann wieder an einen Lauf wagen und sehen wie sich die Beine anfühlen. Akute Schmerzen habe ich aktuell nicht mehr, sodass ich nicht glaube, dass was größeres kaputt gegangen ist.
 
-Das Main Event der Schweinehunde steht dann im Herbst an und ich werde dort auf jeden Fall wieder an der Startlinie stehen um die 90 Minuten anzugreifen. Denn eines ist sicher: I'm never not running :)<br /><br />
+Das Main Event der Schweinehunde steht dann im Herbst an und ich werde dort auf jeden Fall wieder an der Startlinie stehen um die 90 Minuten anzugreifen. Denn eines ist sicher: I'm never not running :)<br><br>

@@ -2,7 +2,8 @@
 title: Anforderungen an eine selbst gebaute Trainingsdokumentations und -analyse Software
 date: 2019-03-25
 ---
-Ich komme gerade von der _Subscribe10_, DER deutschen Podcasterkonferenz. Dort traf ich unter anderem die 3 Schweinehunde, darunter auch [Stefan](https://www.informatom.com/), seineszeichens Podcaster und Softwareentwickler. Als wir Sonntags gegen Ende der Konferenz zusammensaßen (diesmal ohne Bier) und uns über die Fortschritte des Lauftrainings unterhielten kamen wir auch auf die Analyse der Trainingsdaten und welchen Aufwand jeder dafür so betreibt. Ich erzählte im dann von meiner Exceltabelle (Ausschnitt siehe Coverbild), die ich seit 10 Jahren pflege und die nun beachtliche Ausmaße angenommen hat. Allerdings erntete ich bei Stefan nur Kopfschütteln, warum ich denn das alles manuell machen würde und diese Berechnungen und Analysen keinem Computer überlasse - fair point!
+
+Ich komme gerade von der _Subscribe10_, DER deutschen Podcasterkonferenz. Dort traf ich unter anderem die 3 Schweinehunde, darunter auch <a href='https://www.informatom.com/' class='external' target='_blank' rel='noopener'>Stefan</a>, seineszeichens Podcaster und Softwareentwickler. Als wir Sonntags gegen Ende der Konferenz zusammensaßen (diesmal ohne Bier) und uns über die Fortschritte des Lauftrainings unterhielten kamen wir auch auf die Analyse der Trainingsdaten und welchen Aufwand jeder dafür so betreibt. Ich erzählte im dann von meiner Exceltabelle (Ausschnitt siehe Coverbild), die ich seit 10 Jahren pflege und die nun beachtliche Ausmaße angenommen hat. Allerdings erntete ich bei Stefan nur Kopfschütteln, warum ich denn das alles manuell machen würde und diese Berechnungen und Analysen keinem Computer überlasse - fair point!
 
 Nun ja - die Exceldatei ist unkompliziert und zur Not kann man sich alles ausdrucken :) (beste Datensicherung). Man ist sicher vor plattformwechseln oder -sterben und braucht keine Programmierkenntnisse, nur ein bisschen Mathe. Als Stefan dann meinte, dass er sowas ja als Web-App bauen könnte, versprach ich ihm, dass ich diesen Blogpost schreiben werde um einfach mal alles aufzulisten, was ich mir für so eine Trainingsauswertung vorstelle bzw benötige.
 
@@ -36,8 +37,6 @@ Ein weiteres Feld, welches im letzen Jahr noch Einzug in meine Exceldatei genomm
 
 Das sieht jetzt alles sehr kompliziert aus. Ist es vermutlich auch. Allerdings ist dieser Workflow über die letzten Jahre gewachsen und ich habe mir immer wieder Tools gesucht, die das machen oder darstellen was mich gerade interessiert. Ja, ich kenne auch Runalyze, aber irgendwie bin ich damit nie so wirklich warm geworden und ich wollte meine Excel Tabelle immer als Datensicherung behalten Mittlerweile geht sie bis 2007 zurück und ich habe so noch keine Daten verloren.
 
- 
-
 ## Was eine selbstgebaute Lösung zur Trainingsanalyse für mich können müsste
 
 Wenn man jetzt also eine selbstgebaute, kostenlose OpenSource-Software bauen wollen würde (looking at you Stefan) müssten natürlich alle oben genannten Punkte darin vorkommen, sonst würde ich einfach immer wieder auf andere Tools zurückgreifen. Wenn man sie priorisieren wollte dann wäre es die folgende Reihenfolge:
@@ -51,7 +50,5 @@ Wenn man jetzt also eine selbstgebaute, kostenlose OpenSource-Software bauen wol
 7. Analyse und Vergleich des Intervalltrainings (Vergleich gleicher Intervalle über die Zeit), evtl angelehnt an die von Strava Premium.
 8. Trainingsplanung incl. einer Bibliothek der zu absolvierenden Einheiten (Interval builder), evtl sogar modularisiert und auswählbar zur einfachen Planung.
 9. Wettkampfprognosen basierend auf historischen Wettkämpfen und aktueller FTP, RE und Gewicht.
-
- 
 
 Gerne kann ich dir, Stefan, zu den einzelnen Punkten dann noch weitere Infos zukommen lassen :)<br /><br />

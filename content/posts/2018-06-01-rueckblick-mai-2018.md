@@ -9,14 +9,13 @@ Der Mai stand ganz im Zeichen der Hochzeit, des Urlaubs und der Erholung. Deshal
 
 Forscher der Universität Maastricht und der Royal Netherlands Academy of Arts and Sciences (KNAW) haben in ihrer im Fachmagazin Nature publizierten Studie einen künstlichen Embryo (Blastocyste) allein aus Stammzellen erschaffen welcher sich auch in die Gebärmutter einnistet.
 
-Dieser Fortschritt macht es nun möglich die Entwicklung eines Embryos *in utero* noch genauer zu untersuchen und mögliche Therapien für Fehlentwicklungen zu finden.
+Dieser Fortschritt macht es nun möglich die Entwicklung eines Embryos _in utero_ noch genauer zu untersuchen und mögliche Therapien für Fehlentwicklungen zu finden.
 
-- Nicolas C. Rivron, Javier Frias-Aldeguer, … Niels Geijsen (2018) [Blastocyst-like structures generated solely from stem cells](https://www.nature.com/articles/s41586-018-0051-0) (Nature) DOI: [10.1038/s41586-018-0051-0](http://dx.doi.org/10.1038/s41586-018-0051-0)
-
+-   Nicolas C. Rivron, Javier Frias-Aldeguer, … Niels Geijsen (2018) Blastocyst-like structures generated solely from stem cells (Nature) DOI: <a href='http://dx.doi.org/10.1038/s41586-018-0051-0' class='external' target='_blank' rel='noopener'>10.1038/s41586-018-0051-0</a>
 
 ## Podcast
 
-Aus den oben genannten Gründen war es auch an der Podcastfront leise. Am 1.5. kam die obligatorische 'The Random Scientist'-Folge. Thema war diesmal Diabetes. Außerdem sprachen wir über die Funktion der so genannten *Junk DNA* und darüber wie die altersbedingte Makuladegeneration mit der Hilfe von Stammzellen behandelt werden kann. Auch die 3-Schweinehunde nahmen eine neue Folge auf, da war ich allerdings nicht dabei.
+Aus den oben genannten Gründen war es auch an der Podcastfront leise. Am 1.5. kam die obligatorische 'The Random Scientist'-Folge. Thema war diesmal Diabetes. Außerdem sprachen wir über die Funktion der so genannten _Junk DNA_ und darüber wie die altersbedingte Makuladegeneration mit der Hilfe von Stammzellen behandelt werden kann. Auch die 3-Schweinehunde nahmen eine neue Folge auf, da war ich allerdings nicht dabei.
 
-- [TRS034 – Diabetes](http://therandomscientist.de/2018/05/01/trs034-diabetes/)
-- [Episode 10 - Der überhitzte Schweinehund](https://3-schweinehun.de/2018/05/23/episode10.html#527d8e52)<br /><br />
+-   <a href='http://therandomscientist.de/2018/05/01/trs034-diabetes/' class='external' target='_blank' rel='noopener'>TRS034 – Diabetes</a>[]()
+-   <a href='https://3-schweinehun.de/2018/05/23/episode10.html#527d8e52' class='external' target='_blank' rel='noopener'>Episode 10 - Der überhitzte Schweinehund</a><br><br>
