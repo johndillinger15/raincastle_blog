@@ -7,7 +7,7 @@ Nachdem ich jetzt 3 Monate Off-Season hinter mir habe und seit dem Silvesterlauf
 
 Im Vergleich zum letzten Jahr waren es fast perfekte Bedingungen. Die Temperatur war knapp unter 0 Grad und die Strecke war hart und gefroren, nicht matschig wie letztes Jahr.
 
-[<img src='/assets/images/2019-01-20-13.16.00-1024x1024.jpg' class='w-4/5' align='center'/>](/assets/images/2019-01-20-13.16.00-1024x1024.jpg)<br><br>
+[<img src='/assets/images/2019-01-20-13.16.00.jpg' class='w-4/5' align='center'/>](/assets/images/2019-01-20-13.16.00.jpg)<br><br>
 
 Ich hab' versucht halb nach Gefühl und halb nach Watt zu laufen, es sollte ja eine Standortbestimmung werden. Die FTP war zum Lauf 263 Watt und ich habe versucht auch in diesem Bereich (+/- 5 Watt) zu laufen. Wie man unten sehen kann ist mir das auch ganz gut gelungen.
 

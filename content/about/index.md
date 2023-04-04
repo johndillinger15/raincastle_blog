@@ -29,8 +29,8 @@ Durch den Laufpodcast „<a href='https://3-schweinehun.de' class='external' tar
         10 km
     </h5>
         Ulmer Stadtlauf 2007: 44:08<br>
-        OWC 2018 10km: 44:40<br>
-        OWC 2019 10km: 42:13<br>
+        <a href='https://www.strava.com/activities/1367617434/overview' class='external' target='_blank' rel='noopener'>OWC 2018 10km: 44:40</a><br>
+        <a href='https://www.strava.com/activities/2091228565' class='external' target='_blank' rel='noopener'>OWC 2019 10km: 42:13</a><br>
   </div>
 </div>
 
