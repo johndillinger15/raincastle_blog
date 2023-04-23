@@ -8,11 +8,11 @@ title: Datenschutz
 
 Der Schutz Ihrer persönlichen Daten ist mir wichtig. Ich verarbeite Ihre Daten daher ausschließlich auf Grundlage der gesetzlichen Bestimmungen (DSGVO, TKG 2003). In diesen Datenschutzinformationen informiere ich Sie über die wichtigsten Aspekte der Datenverarbeitung im Rahmen meiner Website.
 
-**tl;dr:** Das hier ist ein privater Blog um meine Gedanken aufzuschreiben. Daher interessieren mich eure Daten nicht. Ich benutze weder Google Analytics noch binde ich Google oder Adobe Schriftarten ein. Diese Webseite verwendet weder Cookies noch einen Webanalysedienst oder ein Content Delivery Network.
+**tl;dr:** Das hier ist ein privater Blog um meine Gedanken aufzuschreiben. Daher interessieren mich eure Daten nicht. Ich benutze weder Google Analytics noch binde ich Google oder Adobe Schriftarten ein. Diese Webseite verwendet keine Cookies oder ein Content Delivery Network. Zur Analyse der Zugriffszahlen verwende ich <a href="https://umami.is" class="external" target='_blank' rel='noopener'>Umami</a>. Umami sammelt keine personenbezogenen Daten und anonymisiert alle gesammelten Daten. Benutzer können nicht identifiziert werden und werden niemals über Websites hinweg verfolgt.
 
 ## Hosting
 
-Die von uns in Anspruch genommenen Hosting-Leistungen dienen der Zurverfügungstellung der folgenden Leistungen: Infrastruktur- und Plattformdienstleistungen, Rechenkapazität, Speicherplatz und Datenbankdienste, Sicherheitsleistungen sowie technische Wartungsleistungen, die wir zum Zwecke des Betriebs dieses Onlineangebotes einsetzen.
+Die von mir in Anspruch genommenen Hosting-Leistungen dienen der Zurverfügungstellung der folgenden Leistungen: Infrastruktur- und Plattformdienstleistungen, Rechenkapazität, Speicherplatz und Datenbankdienste, Sicherheitsleistungen sowie technische Wartungsleistungen, die wir zum Zwecke des Betriebs dieses Onlineangebotes einsetzen.
 
 Hierbei verarbeiten wir, bzw. unser Hostinganbieter Bestandsdaten, Kontaktdaten, Inhaltsdaten, Vertragsdaten, Nutzungsdaten, Meta- und Kommunikationsdaten von Kunden, Interessenten und Besuchern dieses Onlineangebotes auf Grundlage unserer berechtigten Interessen an einer effizienten und sicheren Zurverfügungstellung dieses Onlineangebotes gem. Art. 6 Abs. 1 lit. f DSGVO i.V.m. Art. 28 DSGVO (Abschluss Auftragsverarbeitungsvertrag).
 
