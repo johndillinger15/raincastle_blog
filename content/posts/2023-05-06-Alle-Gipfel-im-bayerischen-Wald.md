@@ -69,8 +69,8 @@ Diese Liste ist sicher kein Ziel, welches ich in den nächsten 3-5 Jahren schaff
 
 Hier werde ich versuchen eine Liste der absolvierten Gifpel zu pflegen und auf die jeweiligen Belege verlinken:
 
-1. Bogenberg (432m) - [Blog](/posts/2022-03-09-trailrunning-am-bogenberg.md), <a href='https://www.youtube.com/watch?v=Jads8edKb_8&t=3s' class='external' target='_blank' rel='noopener'>Youtube</a>, <a href='https://www.strava.com/activities/6771492971' class='external' target='_blank' rel='noopener'>Strava</a>
-2. Großer Arber (**1456m**) - [Blog](/posts/2020-07-09-corona-aerob-fokus-und-ersatzwettkaempfe.md), <a href='https://youtu.be/W4YSJA2AR10' class='external' target='_blank' rel='noopener'>Youtube</a>, <a href='https://www.strava.com/activities/3726015438' class='external' target='_blank' rel='noopener'>Strava</a>
+1. Bogenberg (432m) - [Blog](/posts/2022-03-09-trailrunning-am-bogenberg), <a href='https://www.youtube.com/watch?v=Jads8edKb_8&t=3s' class='external' target='_blank' rel='noopener'>Youtube</a>, <a href='https://www.strava.com/activities/6771492971' class='external' target='_blank' rel='noopener'>Strava</a>
+2. Großer Arber (**1456m**) - [Blog](/posts/2020-07-09-corona-aerob-fokus-und-ersatzwettkaempfe), <a href='https://youtu.be/W4YSJA2AR10' class='external' target='_blank' rel='noopener'>Youtube</a>, <a href='https://www.strava.com/activities/3726015438' class='external' target='_blank' rel='noopener'>Strava</a>
 3. Schopf (928m) - <a href='https://youtu.be/6_o4I1SRyh8' class='external' target='_blank' rel='noopener'>Youtube</a>, <a href='https://www.strava.com/activities/3759672769' class='external' target='_blank' rel='noopener'>Strava</a>
 4. Hirschenstein (**1095m**) - <a href='https://youtu.be/6_o4I1SRyh8' class='external' target='_blank' rel='noopener'>Youtube</a>, <a href='https://www.strava.com/activities/3759672769' class='external' target='_blank' rel='noopener'>Strava</a>
 5. Klausenstein (**1048m**) - <a href='https://youtu.be/6_o4I1SRyh8' class='external' target='_blank' rel='noopener'>Youtube</a>, <a href='https://www.strava.com/activities/3759672769' class='external' target='_blank' rel='noopener'>Strava</a>
@@ -79,5 +79,6 @@ Hier werde ich versuchen eine Liste der absolvierten Gifpel zu pflegen und auf d
 8. Geißkopf (**1097m**) - <a href='https://www.strava.com/activities/4052539067' class='external' target='_blank' rel='noopener'>Strava</a>
 9. Breitenauer Riegel (**1118m**) - <a href='https://www.strava.com/activities/4052539067' class='external' target='_blank' rel='noopener'>Strava</a>
 10. Buchaberg (593m) - <a href='https://www.strava.com/activities/7289236773' class='external' target='_blank' rel='noopener'>Strava</a>
+11. Garbuckel (323m) - <a href='https://www.strava.com/activities/9186441198' class='external' target='_blank' rel='noopener'>Strava</a>, [Blog](/posts/2023-06-02-Gipfel-11-Garbuckel)
 
 <br><br>
