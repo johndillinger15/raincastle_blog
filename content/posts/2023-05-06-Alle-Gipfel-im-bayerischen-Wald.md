@@ -80,5 +80,6 @@ Hier werde ich versuchen eine Liste der absolvierten Gifpel zu pflegen und auf d
 9. Breitenauer Riegel (**1118m**) - <a href='https://www.strava.com/activities/4052539067' class='external' target='_blank' rel='noopener'>Strava</a>
 10. Buchaberg (593m) - <a href='https://www.strava.com/activities/7289236773' class='external' target='_blank' rel='noopener'>Strava</a>
 11. Garbuckel (323m) - <a href='https://www.strava.com/activities/9186441198' class='external' target='_blank' rel='noopener'>Strava</a>, [Blog](/posts/2023-06-02-Gipfel-11-Garbuckel)
+12. Urberberg (621m) - <a href='https://www.strava.com/activities/9243414805' class='external' target='_blank' rel='noopener'>Strava</a>, [Blog](/posts/2023-06-11-Gipfel-12-Urberberg.md)
 
 <br><br>

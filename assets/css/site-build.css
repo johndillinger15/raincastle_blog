@@ -1,5 +1,5 @@
 /*
-! tailwindcss v3.3.1 | MIT License | https://tailwindcss.com
+! tailwindcss v3.3.2 | MIT License | https://tailwindcss.com
 */
 
 /*
@@ -436,6 +436,9 @@ video {
   --tw-pan-y:  ;
   --tw-pinch-zoom:  ;
   --tw-scroll-snap-strictness: proximity;
+  --tw-gradient-from-position:  ;
+  --tw-gradient-via-position:  ;
+  --tw-gradient-to-position:  ;
   --tw-ordinal:  ;
   --tw-slashed-zero:  ;
   --tw-numeric-figure:  ;
@@ -483,6 +486,9 @@ video {
   --tw-pan-y:  ;
   --tw-pinch-zoom:  ;
   --tw-scroll-snap-strictness: proximity;
+  --tw-gradient-from-position:  ;
+  --tw-gradient-via-position:  ;
+  --tw-gradient-to-position:  ;
   --tw-ordinal:  ;
   --tw-slashed-zero:  ;
   --tw-numeric-figure:  ;
@@ -995,22 +1001,17 @@ video {
 
 .from-white {
   --tw-gradient-from: #fff var(--tw-gradient-from-position);
-  --tw-gradient-from-position:  ;
-  --tw-gradient-to: rgb(255 255 255 / 0)  var(--tw-gradient-from-position);
-  --tw-gradient-to-position:  ;
+  --tw-gradient-to: rgb(255 255 255 / 0) var(--tw-gradient-to-position);
   --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);
 }
 
 .via-gray-100 {
-  --tw-gradient-via-position:  ;
   --tw-gradient-to: rgb(243 244 246 / 0)  var(--tw-gradient-to-position);
-  --tw-gradient-to-position:  ;
   --tw-gradient-stops: var(--tw-gradient-from), #f3f4f6 var(--tw-gradient-via-position), var(--tw-gradient-to);
 }
 
 .to-white {
   --tw-gradient-to: #fff var(--tw-gradient-to-position);
-  --tw-gradient-to-position:  ;
 }
 
 .p-0 {
@@ -2089,22 +2090,17 @@ a.external::after {
 
 :is(.dark .dark\:from-dark-outer) {
   --tw-gradient-from: #1B1B1E var(--tw-gradient-from-position);
-  --tw-gradient-from-position:  ;
-  --tw-gradient-to: rgb(27 27 30 / 0)  var(--tw-gradient-from-position);
-  --tw-gradient-to-position:  ;
+  --tw-gradient-to: rgb(27 27 30 / 0) var(--tw-gradient-to-position);
   --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);
 }
 
 :is(.dark .dark\:via-dark-middle) {
-  --tw-gradient-via-position:  ;
   --tw-gradient-to: rgb(36 36 36 / 0)  var(--tw-gradient-to-position);
-  --tw-gradient-to-position:  ;
   --tw-gradient-stops: var(--tw-gradient-from), #242424 var(--tw-gradient-via-position), var(--tw-gradient-to);
 }
 
 :is(.dark .dark\:to-dark-outer) {
   --tw-gradient-to: #1B1B1E var(--tw-gradient-to-position);
-  --tw-gradient-to-position:  ;
 }
 
 :is(.dark .dark\:font-extralight) {
