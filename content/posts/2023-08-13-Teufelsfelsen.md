@@ -3,7 +3,7 @@ title: "Gipfel 13-15: Teufelsfelsen, Kirnhöhe und Schwarzer Dachsberg"
 date: 2023-08-13
 ---
 
-Der nächste nächstgelegene Gipfel der "Alle Gipfel des Bayerwalds laufen"-Challenge ist der [Teufelsfelsen](<https://de.wikipedia.org/wiki/Teufelsfelsen_(Mitterfels)>) im Perlbachtal bei Mitterfels. Entlang der Route liegen mit der Kirnhöhe und dem Schwarzen Dachsberg noch 2 weitere Gipfel, sodass ich mit diesem lauf 3 Berge abhaken werden kann.
+Der nächste nächstgelegene Gipfel der "Alle Gipfel des Bayerwalds laufen"-Challenge ist der <a href='https://de.wikipedia.org/wiki/Teufelsfelsen_(Mitterfels)' class='external' target='_blank' rel='noopener'>Teufelsfelsen</a> im Perlbachtal bei Mitterfels. Entlang der Route liegen mit der Kirnhöhe und dem Schwarzen Dachsberg noch 2 weitere Gipfel, sodass ich mit diesem lauf 3 Berge abhaken werden kann.
 
 ### Planung
 

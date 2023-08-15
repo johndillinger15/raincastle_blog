@@ -67,7 +67,7 @@ Diese Liste ist sicher kein Ziel, welches ich in den nächsten 3-5 Jahren schaff
 
 ## Liste der bisher absolvierten Gipfel
 
-Hier werde ich versuchen eine Liste der absolvierten Gifpel zu pflegen und auf die jeweiligen Belege verlinken:
+<br>
 
 1. Bogenberg (432m) - [Blog](/posts/2022-03-09-trailrunning-am-bogenberg), <a href='https://www.youtube.com/watch?v=Jads8edKb_8&t=3s' class='external' target='_blank' rel='noopener'>Youtube</a>, <a href='https://www.strava.com/activities/6771492971' class='external' target='_blank' rel='noopener'>Strava</a>
 2. Großer Arber (**1456m**) - [Blog](/posts/2020-07-09-corona-aerob-fokus-und-ersatzwettkaempfe), <a href='https://youtu.be/W4YSJA2AR10' class='external' target='_blank' rel='noopener'>Youtube</a>, <a href='https://www.strava.com/activities/3726015438' class='external' target='_blank' rel='noopener'>Strava</a>
@@ -80,6 +80,13 @@ Hier werde ich versuchen eine Liste der absolvierten Gifpel zu pflegen und auf d
 9. Breitenauer Riegel (**1118m**) - <a href='https://www.strava.com/activities/4052539067' class='external' target='_blank' rel='noopener'>Strava</a>
 10. Buchaberg (593m) - <a href='https://www.strava.com/activities/7289236773' class='external' target='_blank' rel='noopener'>Strava</a>
 11. Garbuckel (323m) - <a href='https://www.strava.com/activities/9186441198' class='external' target='_blank' rel='noopener'>Strava</a>, [Blog](/posts/2023-06-02-Gipfel-11-Garbuckel)
-12. Urberberg (621m) - <a href='https://www.strava.com/activities/9243414805' class='external' target='_blank' rel='noopener'>Strava</a>, [Blog](/posts/2023-06-11-Gipfel-12-Urberberg.md)
+12. Urberberg (621m) - <a href='https://www.strava.com/activities/9243414805' class='external' target='_blank' rel='noopener'>Strava</a>, [Blog](/posts/2023-06-11-Gipfel-12-Urberberg)
+13. Teufelsfelsen (410m) - <a href='https://www.strava.com/activities/9637744036' class='external' target='_blank' rel='noopener'>Strava</a>, [Blog](content/posts/2023-08-13-Teufelsfelsen)
+14. Kirnhöhe (468m) - <a href='https://www.strava.com/activities/9637744036' class='external' target='_blank' rel='noopener'>Strava</a>, [Blog](content/posts/2023-08-13-Teufelsfelsen)
+15. Schwarzer Dachsberg (481m) - <a href='https://www.strava.com/activities/9637744036' class='external' target='_blank' rel='noopener'>Strava</a>, [Blog](content/posts/2023-08-13-Teufelsfelsen)
 
-<br><br>
+<br>
+
+Und das Ganze noch in Kartenform:
+
+[<img src='/assets/images/2023/peak_progress_230815.png' class='w-5/5' align='center'/>](/assets/images/2023/peak_progress_230815.png)<br><br>
