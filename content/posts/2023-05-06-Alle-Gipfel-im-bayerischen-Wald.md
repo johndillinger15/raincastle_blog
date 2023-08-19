@@ -81,12 +81,12 @@ Diese Liste ist sicher kein Ziel, welches ich in den nächsten 3-5 Jahren schaff
 10. Buchaberg (593m) - <a href='https://www.strava.com/activities/7289236773' class='external' target='_blank' rel='noopener'>Strava</a>
 11. Garbuckel (323m) - <a href='https://www.strava.com/activities/9186441198' class='external' target='_blank' rel='noopener'>Strava</a>, [Blog](/posts/2023-06-02-Gipfel-11-Garbuckel)
 12. Urberberg (621m) - <a href='https://www.strava.com/activities/9243414805' class='external' target='_blank' rel='noopener'>Strava</a>, [Blog](/posts/2023-06-11-Gipfel-12-Urberberg)
-13. Teufelsfelsen (410m) - <a href='https://www.strava.com/activities/9637744036' class='external' target='_blank' rel='noopener'>Strava</a>, [Blog](content/posts/2023-08-13-Teufelsfelsen)
-14. Kirnhöhe (468m) - <a href='https://www.strava.com/activities/9637744036' class='external' target='_blank' rel='noopener'>Strava</a>, [Blog](content/posts/2023-08-13-Teufelsfelsen)
-15. Schwarzer Dachsberg (481m) - <a href='https://www.strava.com/activities/9637744036' class='external' target='_blank' rel='noopener'>Strava</a>, [Blog](content/posts/2023-08-13-Teufelsfelsen)
+13. Teufelsfelsen (410m) - <a href='https://www.strava.com/activities/9637744036' class='external' target='_blank' rel='noopener'>Strava</a>, [Blog](/posts/2023-08-13-Teufelsfelsen)
+14. Kirnhöhe (468m) - <a href='https://www.strava.com/activities/9637744036' class='external' target='_blank' rel='noopener'>Strava</a>, [Blog](/posts/2023-08-13-Teufelsfelsen)
+15. Schwarzer Dachsberg (481m) - <a href='https://www.strava.com/activities/9637744036' class='external' target='_blank' rel='noopener'>Strava</a>, [Blog](/posts/2023-08-13-Teufelsfelsen)
 
 <br>
 
-Und das Ganze noch in Kartenform:
+Und das Ganze noch in Kartenform [hier](/assets/peaks_progress.html).
 
-[<img src='/assets/images/2023/peak_progress_230815.png' class='w-5/5' align='center'/>](/assets/images/2023/peak_progress_230815.png)<br><br>
+<br><br>

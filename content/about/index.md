@@ -17,7 +17,7 @@ Durch den Laufpodcast „<a href='https://3-schweinehun.de' class='external' tar
    <h5 class="mb-2 text-xl text-justify font-medium leading-tight text-slate-950 dark:text-slate-100">
         5 km
     </h5>
-        <a href='https://www.strava.com/activities/8982316385' class='external' target='_blank' rel='noopener'>Herzogstadtlauf 2023: 22:09</a>
+        Herzogstadtlauf 2023: 22:09 (<a href='https://www.strava.com/activities/8982316385' class='external' target='_blank' rel='noopener'>Strava</a> | <a href='/posts/2023-05-01-Herzogstadtlauf'>Blog</a>)
   </div>
 </div>
 
