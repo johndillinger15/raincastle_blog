@@ -31,7 +31,7 @@ Whenever I feel sad, angry, or stressed, a run picks me up. Once you put one foo
 
 ### Running takes you to beautiful places
 
-You will pass beautiful places on a run. Whether it's because you took a turn where you've never been before, or because there's a little lake in your town that's just beautiful, or because you planned a trail running route to a viewpoint. Every run will have that one place that's just beautiful, you just have to embrace it.
+You will pass beautiful places on a run. Whether it's because you took a turn where you've never been before, or because there's a little lake in your town that's just beautiful, or because you planned a [trail-running route](/peaks_project) to a viewpoint. Every run will have that one place that's just beautiful, you just have to embrace it.
 
 ### Running is good for you
 

@@ -41,4 +41,6 @@ Weiter ging es dann auf Teerstraßen Richtung Dachsberg. Auch hier war es nicht 
 
 Die Route entlang des Perlbaches im Perlbachtal war sehr schön und sehr entspannend. Es war nicht viel los (obwohl heute Sonntag war) und die Wege waren sehr schön zu laufen. Insgesamt waren es dann nicht 422 HM wie vorher berechnet sondern nur 290. Aber am Ende muss ich sagen, dass die Suche nach den Gipfeln doch relativ mühsam war und am Ende konnte ich den GPS-Punkt des "Gipfels" garnicht erreichen. Hoffentlich wird das bei den nächsten Gipfeln nicht auch so.
 
-Auch waren die 3 heutigen Gipfel kein Teil der summitbag.com Datenbank, also werden sie nur in meiner Exeldatei verzeichnet werden. Mit den heutigen 3 Gipfeln bin ich also jetzt bei 2,8% der Gipfel des Bayerischen Waldes.
+Auch waren die 3 heutigen Gipfel kein Teil der summitbag.com Datenbank, also habe ich mir nun mittels "R" selbst eine Karte gebastelt, die ich dann immer händisch Pflegen werde (siehe unten). Mit den heutigen 3 Gipfeln bin ich also jetzt bei 2,8% der Gipfel des Bayerischen Waldes.
+
+[<img src='/assets/images/2023/peaks_progress_230814.png' data-umami-event="peaks_map" class='w-5/5' align='center'/>](https://raincastle.blog/assets/peaks_progress.html)<br><br>
