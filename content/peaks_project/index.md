@@ -23,10 +23,9 @@ die ihr
 <a href='https://raincastle.blog/assets/peaks_progress.html' data-umami-event="peaks_map">hier</a>
 finden könnt.
 
-[<img src='/assets/images/2023/peaks_progress_230814.png' class='w-4/5' data-umami-event="peaks_map" align='center'/>](/assets/images/2023/peaks_progress_230814.png)
+[<img src='/assets/images/2023/progress_230925.png' class='w-4/5' data-umami-event="peaks_map" align='center'/>](/assets/images/2023/progress_230925.png)
 
-Die in rot markierten Gipfel sind die, die ich als letztes gelaufen bin.
-Die blauen sind die “alten” Gipfel.
+Die in rot markierten Gipfel sind die, die ich in 2023 gelaufen bin. Die blauen sind die “alten” Gipfel.
 
 ## Unten das Ganze auch nochmal als Liste mit allen relevanten Infos und Links.
 
@@ -75,3 +74,7 @@ Die blauen sind die “alten” Gipfel.
 15. Schwarzer Dachsberg (481m) -
     <a href='https://www.strava.com/activities/9637744036' class='external' target='_blank' rel='noopener'>Strava</a>,
     [Blog](/posts/2023-08-13-Teufelsfelsen)
+16. Riedberg (999m) - <a href='https://www.strava.com/activities/9909896815' class='external' target='_blank' rel='noopener'>Strava</a>,
+    [Blog](/posts/2023-09-25-riedberg-burgstein)
+17. Burgstein (830m) - <a href='https://www.strava.com/activities/9909896815' class='external' target='_blank' rel='noopener'>Strava</a>,
+    [Blog](/posts/2023-09-25-riedberg-burgstein)

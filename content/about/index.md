@@ -21,7 +21,7 @@ Durch den Laufpodcast „<a href='https://3-schweinehun.de' class='external' tar
   </div>
 </div>
 
-<br><br>
+<br>
 
 <div class="flex">
   <div class="block max-w-m rounded-lg p-6 shadow-lg bg-slate-200 dark:bg-slate-900">
@@ -29,12 +29,12 @@ Durch den Laufpodcast „<a href='https://3-schweinehun.de' class='external' tar
         10 km
     </h5>
         Ulmer Stadtlauf 2007: 44:08<br>
-        <a href='https://www.strava.com/activities/1367617434/overview' class='external' target='_blank' rel='noopener'>OWC 2018 10km: 44:40</a><br>
-        <a href='https://www.strava.com/activities/2091228565' class='external' target='_blank' rel='noopener'>OWC 2019 10km: 42:13</a><br>
+        OWC 2018 10km: 44:40 (<a href='https://www.strava.com/activities/1367617434' class='external' target='_blank' rel='noopener'>Strava</a> | <a href='/posts/2018-01-21-owc-2018-10km-lauf-am-steinberger-see'>Blog</a>)<br>
+        OWC 2019 10km: 42:13 (<a href='https://www.strava.com/activities/2091228565' class='external' target='_blank' rel='noopener'>Strava</a> | <a href='/posts/2019-01-23-oberpfaelzer-winterlaufchallenge-10km'>Blog</a>)<br>
   </div>
 </div>
 
-<br><br>
+<br>
 
 <div class="flex">
   <div class="block max-w-m rounded-lg p-6 shadow-lg bg-slate-300 dark:bg-slate-800">
@@ -44,15 +44,15 @@ Durch den Laufpodcast „<a href='https://3-schweinehun.de' class='external' tar
         Einstein Marathon Ulm 2008: 01:42:02<br>
         Regensburg Halbmarathon 2009: 01:36:13<br>
         Regensburg Halbmarathon 2011: 01:40:00<br>
-        <a href="https://www.strava.com/activities/1146374387" class='external' target='_blank' rel='noopener'>Halbmarathon Wien 2012: 01:33:17</a><br>
-        <a href="https://www.strava.com/activities/1146009523" class='external' target='_blank' rel='noopener'>Halbmarathon Freiburg 2014: 01:29:40</a><br>
-        <a href="https://www.strava.com/activities/306091541" class='external' target='_blank' rel='noopener'>Regensburg Halbmarathon 2015: 01:26:21</a><br>
-        <a href="https://www.strava.com/activities/1009176790" class='external' target='_blank' rel='noopener'>Regensburg Halbmarathon 2017: 01:31:42</a><br>
-        <a href="https://www.strava.com/activities/1843183697" class='external' target='_blank' rel='noopener'>Stockholm Halbmarathon 2018: 01:32:28</a><br>
+        Halbmarathon Wien 2012: 01:33:17 (<a href="https://www.strava.com/activities/1146374387" class='external' target='_blank' rel='noopener'>Strava</a>)<br>
+        Halbmarathon Freiburg 2014: 01:29:40 (<a href="https://www.strava.com/activities/1146009523" class='external' target='_blank' rel='noopener'>Strava</a>)<br>
+        Regensburg Halbmarathon 2015: 01:26:21 (<a href="https://www.strava.com/activities/306091541" class='external' target='_blank' rel='noopener'>Strava</a>)<br>
+        Regensburg Halbmarathon 2017: 01:31:42 (<a href="https://www.strava.com/activities/1009176790" class='external' target='_blank' rel='noopener'>Strava</a>)<br>
+        Stockholm Halbmarathon 2018: 01:32:28 (<a href="https://www.strava.com/activities/1843183697" class='external' target='_blank' rel='noopener'>Strava</a> | <a href='/posts/2018-09-20-road-to-stockholm-race-review'>Blog</a>)<br>
   </div>
 </div>
 
-<br><br>
+<br>
 
 <div class="flex">
   <div class="block max-w-m rounded-lg p-6 shadow-lg bg-slate-400 dark:bg-slate-700">
@@ -61,10 +61,10 @@ Durch den Laufpodcast „<a href='https://3-schweinehun.de' class='external' tar
     </h5>
         Einstein Marathon Ulm 2007: 03:52:21<br />
         München Marathon 2009: 03:44:07<br />
-        <a href="https://www.strava.com/activities/1146456928" class='external' target='_blank' rel='noopener'>Berlin Marathon 2011: 03:39:23</a><br>
-        <a href="https://www.strava.com/activities/1145988865" class='external' target='_blank' rel='noopener'>Hamburg Marathon 2014: 03:28:43</a><br>
-        <a href="https://www.strava.com/activities/215435004" class='external' target='_blank' rel='noopener'>New York Marathon 2014: 03:21:22</a><br>
+        Berlin Marathon 2011: 03:39:23 (<a href="https://www.strava.com/activities/1146456928" class='external' target='_blank' rel='noopener'>Strava</a>)<br>
+        Hamburg Marathon 2014: 03:28:43 (<a href="https://www.strava.com/activities/1145988865" class='external' target='_blank' rel='noopener'>Strava</a>)<br>
+        New York Marathon 2014: 03:21:22 (<a href="https://www.strava.com/activities/215435004" class='external' target='_blank' rel='noopener'>Strava</a>)<br>
         London Marathon 2015: 03:22:03<br>
-        <a href="https://www.strava.com/activities/402142431" class='external' target='_blank' rel='noopener'>Berlin Marathon 2015: 03:33:41</a><br><br>
+        Berlin Marathon 2015: 03:33:41 (<a href="https://www.strava.com/activities/402142431" class='external' target='_blank' rel='noopener'>Strava</a>)<br>
   </div>
 </div>
