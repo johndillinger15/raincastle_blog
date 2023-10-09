@@ -17,7 +17,8 @@ Durch den Laufpodcast „<a href='https://3-schweinehun.de' class='external' tar
    <h5 class="mb-2 text-xl text-justify font-medium leading-tight text-slate-950 dark:text-slate-100">
         5 km
     </h5>
-        Herzogstadtlauf 2023: 22:09 (<a href='https://www.strava.com/activities/8982316385' class='external' target='_blank' rel='noopener'>Strava</a> | <a href='/posts/2023-05-01-Herzogstadtlauf'>Blog</a>)
+        Herzogstadtlauf 2023: 22:09 (<a href='https://www.strava.com/activities/8982316385' class='external' target='_blank' rel='noopener'>Strava</a> | <a href='/posts/2023-05-01-Herzogstadtlauf'>Blog</a>)<br>
+        13. Labertallauf 2023: 21:29 (<a href='https://www.strava.com/activities/9991591540' class='external' target='_blank' rel='noopener'>Strava</a> | <a href='/posts/2023-10-09-13-Labertallauf'>Blog</a>)<br>
   </div>
 </div>
 
