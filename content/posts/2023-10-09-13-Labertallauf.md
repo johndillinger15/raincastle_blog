@@ -3,7 +3,7 @@ title: 13. Labertallauf
 date: 2023-10-09
 ---
 
-Den 5 km im Ramen des <a href='https://www.lv-geiselhoering.de/archive/8011' class='external' target='_blank' rel='noopener'>13. Labertallauf</a> wollte ich als tune-up Race für meinen Herbst-Hauptwettkampf am 1.11. am Hockenheimring nutzen. Im Ramen des Laufes fanden auch die Niederbayerischen Meisterschaften im 10 km Straßenlauf statt, wodurch das Feld ziemlich schnell war und die Stecke offiziell vermessen wurde.
+Den 5 km im Rahmen des <a href='https://www.lv-geiselhoering.de/archive/8011' class='external' target='_blank' rel='noopener'>13. Labertallauf</a> wollte ich als tune-up Race für meinen Herbst-Hauptwettkampf am 1.11. am Hockenheimring nutzen. Im Ramen des Laufes fanden auch die Niederbayerischen Meisterschaften im 10 km Straßenlauf statt, wodurch das Feld ziemlich schnell war und die Stecke offiziell vermessen wurde.
 
 ## Vorbereitung
 
@@ -25,4 +25,4 @@ Die Bedingungen für das Rennen konnten besser nicht sein. Nach einem nebligen M
 
 Der letzte Wettkampf der Saison steigt am 1.11. und ich habe noch den Oktober Zeit mich dafür in Form zu bringen. Mit einer 21:30 über 5k sollte ich die 10k unter 45min laufen können. Stryd sagt derzeit 43:57. Es stehen noch ein paar longruns und Intervallsessions an. Hoffentlich ereilt mich bis dahin kein Kindergartenkeim und ich bleibe gesund. Aber das Vorbereitungsrennen stimmt mich schonmal sehr positiv.
 
-<br><br>
+<br>

@@ -3,6 +3,7 @@ eleventyExcludeFromCollections: true
 layout: page.njk
 title: Impressum
 ---
+
 # Impressum<br/><br/>
 
 Dr. Stefan Dillinger<br/>
@@ -12,7 +13,7 @@ Baderstr. 8<br/>
 ## Kontakt
 
 Telefon: 0941/942845<br/>
-E-Mail: [dillinger.stefan@googlemail.com](mailto:dillinger.stefan@googlemail.com)<br/>
+E-Mail: [stefan@raincastle.blog](mailto:stefan@raincastle.blog)<br/>
 
 ## Haftung
 
