@@ -31,9 +31,9 @@ Die Leistungsfähigkeit des Läufers liese sich auch einigermaßen gut an der CP
 
 Ein wenig mehr "intelligenz" würde ich mir da schon wünschen. Vielleicht erwarte ich mir hier auch zu viel und ich muss mir andere AI-coaches wie zB Enduco oder Twaiv anschauen, oder einfach wieder selber nachdenken...
 
-### UPDATE Nov 2023
-
-Die Stryd Trainingspläne werden ständing weiterentwickelt und mittlerweile sind die Stryd Trainingspläne anders und vorallem etwas adaptiver gestaltet. Sie orientieren sich auch an der aktuellen FTP, was ich sehr gut finde.
+> **UPDATE Nov 2023**
+>
+> Die Stryd Trainingspläne werden ständing weiterentwickelt und mittlerweile sind die Stryd Trainingspläne anders und vorallem etwas adaptiver gestaltet. Sie orientieren sich auch an der aktuellen FTP, was ich sehr gut finde.
 
 ## Prognose für den Wettkampf
 

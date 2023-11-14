@@ -17,7 +17,7 @@ Durch den Laufpodcast „<a href='https://3-schweinehun.de' class='external' tar
    <h5 class="mb-2 text-xl text-justify font-medium leading-tight text-slate-950 dark:text-slate-100">
         5 km
     </h5>
-        Herzogstadtlauf 2023: 22:09 (<a href='https://www.strava.com/activities/8982316385' class='external' target='_blank' rel='noopener'>Strava</a> | <a href='/posts/2023-05-01-Herzogstadtlauf'>Blog</a>)<br>
+        12. Herzogstadtlauf 2023: 22:09 (<a href='https://www.strava.com/activities/8982316385' class='external' target='_blank' rel='noopener'>Strava</a> | <a href='/posts/2023-05-01-Herzogstadtlauf'>Blog</a>)<br>
         13. Labertallauf 2023: 21:29 (<a href='https://www.strava.com/activities/9991591540' class='external' target='_blank' rel='noopener'>Strava</a> | <a href='/posts/2023-10-09-13-Labertallauf'>Blog</a>)<br>
   </div>
 </div>
@@ -29,7 +29,7 @@ Durch den Laufpodcast „<a href='https://3-schweinehun.de' class='external' tar
    <h5 class="mb-2 text-xl text-justify font-medium leading-tight text-slate-950 dark:text-slate-100">
         10 km
     </h5>
-        Ulmer Stadtlauf 2007: 44:08<br>
+        1. Ulmer Stadtlauf 2007: 44:08<br>
         OWC 2018 10km: 44:40 (<a href='https://www.strava.com/activities/1367617434' class='external' target='_blank' rel='noopener'>Strava</a> | <a href='/posts/2018-01-21-owc-2018-10km-lauf-am-steinberger-see'>Blog</a>)<br>
         OWC 2019 10km: 42:13 (<a href='https://www.strava.com/activities/2091228565' class='external' target='_blank' rel='noopener'>Strava</a> | <a href='/posts/2019-01-23-oberpfaelzer-winterlaufchallenge-10km'>Blog</a>)<br>
   </div>
@@ -42,13 +42,13 @@ Durch den Laufpodcast „<a href='https://3-schweinehun.de' class='external' tar
    <h5 class="mb-2 text-xl text-justify font-medium leading-tight text-slate-950 dark:text-slate-100">
         Halbmarathon
     </h5>
-        Einstein Marathon Ulm 2008: 01:42:02<br>
-        Regensburg Halbmarathon 2009: 01:36:13<br>
-        Regensburg Halbmarathon 2011: 01:40:00 (<a href='/posts/2011-06-05-halbmarathon-review'>Blog</a>)<br>
-        Halbmarathon Wien 2012: 01:33:17 (<a href="https://www.strava.com/activities/1146374387" class='external' target='_blank' rel='noopener'>Strava</a> | <a href='/posts/2012-04-16-neue-bestzeit-wien'>Blog</a>)<br>
-        Halbmarathon Freiburg 2014: 01:29:40 (<a href="https://www.strava.com/activities/1146009523" class='external' target='_blank' rel='noopener'>Strava</a>)<br>
-        Regensburg Halbmarathon 2015: 01:26:21 (<a href="https://www.strava.com/activities/306091541" class='external' target='_blank' rel='noopener'>Strava</a>)<br>
-        Regensburg Halbmarathon 2017: 01:31:42 (<a href="https://www.strava.com/activities/1009176790" class='external' target='_blank' rel='noopener'>Strava</a>)<br>
+        4. Ulmer Einstein-Marathon 2008: 01:42:02<br>
+        19. Regensburg Halbmarathon 2009: 01:36:13<br>
+        21. Regensburg Halbmarathon 2011: 01:40:00 (<a href='/posts/2011-06-05-halbmarathon-review'>Blog</a>)<br>
+        29. Halbmarathon Wien 2012: 01:33:17 (<a href="https://www.strava.com/activities/1146374387" class='external' target='_blank' rel='noopener'>Strava</a> | <a href='/posts/2012-04-16-neue-bestzeit-wien'>Blog</a>)<br>
+        11. Halbmarathon Freiburg 2014: 01:29:40 (<a href="https://www.strava.com/activities/1146009523" class='external' target='_blank' rel='noopener'>Strava</a>)<br>
+        24. Regensburg Halbmarathon 2015: 01:26:21 (<a href="https://www.strava.com/activities/306091541" class='external' target='_blank' rel='noopener'>Strava</a>)<br>
+        26. Regensburg Halbmarathon 2017: 01:31:42 (<a href="https://www.strava.com/activities/1009176790" class='external' target='_blank' rel='noopener'>Strava</a>)<br>
         Stockholm Halbmarathon 2018: 01:32:28 (<a href="https://www.strava.com/activities/1843183697" class='external' target='_blank' rel='noopener'>Strava</a> | <a href='/posts/2018-09-20-road-to-stockholm-race-review'>Blog</a>)<br>
   </div>
 </div>
