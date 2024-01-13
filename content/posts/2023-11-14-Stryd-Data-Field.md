@@ -21,7 +21,7 @@ Wenn man das Stryd Feld als einziges Feld auf einer "Seite" benutzt kann man 3 d
 
 [<img src='/assets/images/2023/Stryd_Layout.jpg' class='w-4/5' align='center' />](/assets/images/2023/Stryd_Layout.jpg)<br><br>
 
-Leider ist das Datenfeld nach der Hälfte des Laufen abgestürzt und die Aufzeichnung der Wattwerte dadurch gestoppt. 
+Leider ist das Datenfeld nach der Hälfte des Laufen abgestürzt und die Aufzeichnung der Wattwerte dadurch gestoppt.
 
 [<img src='/assets/images/2023/Stryd_crash.jpg' class='w-4/5' align='center' />](/assets/images/2023/Stryd_crash.jpg)<br><br>
 
@@ -29,7 +29,6 @@ Mal schauen wie oft und wie reproduzierbar dieser Absturz ist, hoffentlich war d
 
 ### Fazit
 
-Beim ersten Testlauf hat mich das neue Datenfeld überzeugt. Je nach Zielsetzung meines Laufes kann ich nun zwischen Herzfrequenz oder Watt als primäre Anzeige mit Zonen- bzw. Farbunterstützung wählen. Meine Grundlagenläufe steuere ich nach Puls und die Intervalltrainings mittlerweile immer nach Watt, daher bietet mir das neue Datenfeld mehr Flexibilität. Auch ist der neue Weg die Workouts auf die Uhr zu kriegen einfacher und angenehmer als vorher. 
+Beim ersten Testlauf hat mich das neue Datenfeld überzeugt. Je nach Zielsetzung meines Laufes kann ich nun zwischen Herzfrequenz oder Watt als primäre Anzeige mit Zonen- bzw. Farbunterstützung wählen. Meine Grundlagenläufe steuere ich nach Puls und die Intervalltrainings mittlerweile immer nach Watt, daher bietet mir das neue Datenfeld mehr Flexibilität. Auch ist der neue Weg die Workouts auf die Uhr zu kriegen einfacher und angenehmer als vorher.
 
 <br>
-

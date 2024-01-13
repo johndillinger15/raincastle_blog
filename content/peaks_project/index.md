@@ -23,9 +23,9 @@ die ihr
 <a href='https://raincastle.blog/assets/peaks_progress.html' data-umami-event="peaks_map">hier</a>
 finden könnt.
 
-[<img src='/assets/images/2023/progress_230925.png' class='w-4/5' data-umami-event="peaks_map" align='center'/>](/assets/images/2023/progress_230925.png)
+[<img src='/assets/images/2024/progress_240112.png' class='w-4/5' data-umami-event="peaks_map" align='center'/>](/assets/images/2024/progress_240112.png)
 
-Die in rot markierten Gipfel sind die, die ich in 2023 gelaufen bin. Die blauen sind die “alten” Gipfel.
+Die in rot markierten Gipfel sind die, die ich in 2024 gelaufen bin. Die blauen sind die Gipfel, die ich vor 2024 gelaufen bin und die Lila markierten sind die, die als nächstes geplant sind.
 
 ## Unten das Ganze auch nochmal als Liste mit allen relevanten Infos und Links.
 
