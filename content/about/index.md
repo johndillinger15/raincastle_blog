@@ -4,11 +4,9 @@ layout: page.njk
 title: About
 ---
 
-## Introduction
+Mein Name ist Stefan und ich Laufe seit 2007. Seitdem bin ich 7 Marathons und ein paar andere Wettkämpfe gerannt (siehe unten). Mein Trainingsansatz ist sehr datenbasiert und ich sammle während eines Laufen relativ viele Daten und versuche die dann im nachhinein so sinnvol wie möglich auszuwerten. Darüber schreibe ich in diesem Blog. Um die gesammelten Daten und Berechnungen anschaulich darzustellen versuche ich mir mittels Python ein Dashboard zu basteln. Die Fortschritte könnt ihr auf <a href='https://github.com/johndillinger15/Traininganalysis_with_Python' class='external' target='_blank' rel='noopener' data-umami-event="github">GitHub</a> nachverfolgen.
 
-Mein Name ist Stefan und ich Laufe seit 2007. Damals, nach dem Abitur, fing ich an zu studieren und ich konnte nicht mehr weiter Fußballspielen. Seitdem ist das Laufen als Ausgleich und nicht mehr aus meinem Leben wegzudenken. Zuerst startete ich mit einem Komilitonen aus einer Laune heraus die Challenge den ersten Marathon in Ulm 2007 zu laufen. Seitdem kamen einige weitere dazu. Der bisher großartigste Lauf war der New York Marathon 2014. Ich wollte diesen Marathon schon 2012 laufen, leider viel er einem Hurrikan zum Opfer. Irgendwann will ich nochmal in New York laufen.
-
-Durch den Laufpodcast „<a href='https://3-schweinehun.de' class='external' target='_blank' rel='noopener'>Die 3 Schweinehunde</a>“ entdeckte ich Ende 2017 das Laufen nochmal neu. Ich beschäftige mich wieder intensiver mit dem Training und habe auch meine Frau zum Laufen motivieren können. Dieser Podcast und das viele positive Feedback dazu haben mich letztendlich dazu motiviert diesen Blog zu starten und meine Erfahrungen hier zu teilen. Wer mag kann mich gerne auf <a href='https://www.strava.com/athletes/6023237' class='external' target='_blank' rel='noopener'>Strava</a> verfolgen.<br><br>
+<br><br>
 
 ## Wettkämpfe <br><br>
 

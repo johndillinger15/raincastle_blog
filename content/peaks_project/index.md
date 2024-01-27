@@ -4,24 +4,9 @@ title: Gipfel Projekt
 eleventyExcludeFromCollections: true
 ---
 
-## Alle Gipfel im Bayerischen Wald laufen
+Im Mai 2023 startete ich das Projekt jeden Gipfel im Bayerischen Wald hoch zu laufen oder hoch zu wandern. Ein Gipfel wird durch sein Vorhandensein in den OpenStreetMap Daten definiert. Zusätzlich muss der Gipfel einen Namen haben. Die genaue Geschichte und das Erstellen des Datensatz kann hier nachvollzogen werden: [Alle Gipfel im Bayerischen Wald Laufen](/posts/2023-05-06-Alle-Gipfel-im-bayerischen-Wald)
 
-Im Mai 2023 startete ich das Projekt, dass ich jeden Gipfel im
-Bayerischen Wald hoch laufen oder hoch wandern will. Ein Gipfel wird
-durch sein Vorhandensein in den OpenStreetMap Daten definiert.
-Zusätzlich muss der Gipfel einen Namen haben. Die genaue Geschichte und
-das Erstellen des Datensatz kann hier nachvollzogen werden: [Alle Gipfel
-im Bayerischen Wald
-Laufen](/posts/2023-05-06-Alle-Gipfel-im-bayerischen-Wald)
-
-Initial wollte ich meinen Fortschritt mittels
-[summitbag.com](summitbag.com) verfolgen, leider stellte sich heraus,
-dass es erstens manchmal unmöglich ist die GPS-Markierung tatsächlich zu
-erreichen, und zweitens summitbag nicht alle OpenStreetMap-Gipfel in der
-Datenbank hat. Daher erstelle ich mir nun selbst eine Fortschrittskarte,
-die ihr
-<a href='https://raincastle.blog/assets/peaks_progress.html' data-umami-event="peaks_map">hier</a>
-finden könnt.
+Initial wollte ich meinen Fortschritt mittels [summitbag.com](summitbag.com) verfolgen, leider stellte sich heraus, dass es erstens manchmal unmöglich ist die GPS-Markierung tatsächlich zu erreichen und so den Gipfel gezählt zu bekommen, und zweitens summitbag nicht alle OpenStreetMap-Gipfel in der Datenbank hat. Daher erstelle ich mir nun selbst eine Fortschrittskarte, die ihr <a href='https://raincastle.blog/assets/peaks_progress.html' data-umami-event="peaks_map">hier</a> finden könnt. Den Quellcode zum python-script könnt ihr auf <a href='https://github.com/johndillinger15/Peaks_Project_Map' class='external' target='_blank' rel='noopener' data-umami-event="github">Github</a> finden.
 
 [<img src='/assets/images/2024/progress_240112.png' class='w-4/5' data-umami-event="peaks_map" align='center'/>](/assets/images/2024/progress_240112.png)
 
