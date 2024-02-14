@@ -18,7 +18,7 @@
                                 <rect y="30" width="60" height="7"></rect>
                                 <rect y="60" width="60" height="7"></rect>
                             </svg>
-                            <p class="flex-grow inline align-middle leading-12 text-xl text-center font-medium">{{ siteconfig.title }}</p>
+                            <p class="flex-grow inline align-middle leading-12 text-xl text-center font-medium">{{ title }}</p>
                             {% if siteconfig.algoliaSearch and siteconfig.algoliaSearch.enabled %}
                             <svg viewBox="0 0 32 32" class="block align-middle h-12 leading-12 mr-3 py-3 pt-3" onclick="toggleSearch()">
                                 <path d="M27.414,24.586l-5.077-5.077C23.386,17.928,24,16.035,24,14c0-5.514-4.486-10-10-10S4,8.486,4,14  s4.486,10,10,10c2.035,0,3.928-0.614,5.509-1.663l5.077,5.077c0.78,0.781,2.048,0.781,2.828,0  C28.195,26.633,28.195,25.367,27.414,24.586z M7,14c0-3.86,3.14-7,7-7s7,3.14,7,7s-3.14,7-7,7S7,17.86,7,14z" id="XMLID_223_" />
@@ -28,7 +28,7 @@
                             {% endif %}
                         </div>
                         <div id="topbar-desktop-title" class="hidden sm:inline-block leading-12 align-middle ml-8 lg:ml-32 text-base text-gray-500 dark:text-gray-400 pr-8 truncate">
-                            {% if date %}<a href="/" class="text-indigo-900 dark:text-indigo-300 font-normal dark:font-light">{{ siteconfig.title }}</a> › {% endif %}{{ siteconfig.title }}</div>
+                            {% if date %}<a href="/" class="text-indigo-900 dark:text-indigo-300 font-normal dark:font-light">{{ title }}</a> › {% endif %}{{ title }}</div>
                         <div id="search-desktop-title" class="hidden sm:hidden leading-12 align-middle ml-8 lg:ml-32 text-base text-gray-500 dark:text-gray-400">
                         </div>
                     </div>

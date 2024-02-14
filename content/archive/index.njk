@@ -1,18 +1,18 @@
 ---
 eleventyExcludeFromCollections: true
-layout: base.njk
-title: Archive
+layout: page.njk
+title: Blog Archiv
 ---
 
-<div class="postlist pb-8 mt-8 font-light dark:font-extralight pt-4">
+<div class="pb-8 mt-2 font-light dark:font-extralight">
     {% for post in collections.posts | reverse %}
         {% set currentYear = post | year %}
         {% set previousYear = collections.posts | getPreviousCollectionItem(post) | year %}
         {% if loop.first %}
-        <span class="text-2xl">{{ currentYear }}</span>
-        <ul class="mt-3">
+        <h4 class="mt-8 mb-1 text-xl text-justify font-medium leading-tight text-neutral-800 dark:text-neutral-50">{{ currentYear }}<h4>
+        <ul class="mt-2">
         {% endif %}
-            <li class="bg-gradient-to-r from-white via-gray-100 to-white dark:via-dark-middle dark:from-dark-outer dark:to-dark-outer mb-4 px-6 py-2 truncate">
+            <li class="mb-1 px-2 py-1 truncate">
                 <span class="text-lg tabular-nums">{{ post.date | day }}</span>
                 <span class="text-sm font-extralight">{{ post.date | month }}</span>
                 <a href="{{ post.url }}" class="ml-6">{{ post.data.title }}</a>
@@ -21,8 +21,8 @@ title: Archive
         </ul>
         {% elif currentYear != previousYear %}
         </ul>
-        <span class="text-2xl">{{ previousYear }}</span>
-        <ul class="mt-3">
+        <h4 class="mt-8 mb-1 text-xl text-justify font-medium leading-tight text-neutral-800 dark:text-neutral-50">{{ previousYear }}<h4>
+        <ul class="mt-2">
         {% endif %}
     {% endfor %}
 </div>

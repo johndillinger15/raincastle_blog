@@ -25,7 +25,7 @@ module.exports = function (eleventyConfig) {
 
     // Add watch target for JS files (needed for JS bundling in dev mode)
     eleventyConfig.addWatchTarget("./assets/js/");
-    
+
     // And to make this work we've to disable the .gitignore usage of eleventy.
     eleventyConfig.setUseGitIgnore(false);
 
@@ -41,7 +41,7 @@ module.exports = function (eleventyConfig) {
         "jpg",
         "css",
         "png",
-        "11ty.js",
+        "11ty.js"
     ]);
 
     // Generate excerpt from first paragraph

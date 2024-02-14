@@ -3,37 +3,31 @@
 <script>
 // Toggle dark/light mode, inline JS to avoid any theme flicker
 function toggleDarkLightMode (isInit) {
-    // First time visitors
-    if (!("theme" in localStorage)) {
-        if (window.matchMedia("(prefers-color-scheme: dark)").matches) {
-            document.querySelector("html").classList.remove("dark");
-            document.querySelector("html").classList.add("light");
-            localStorage.theme = "light";
-        } else {
+    // First time visitors or when theme is not set
+    if (!("theme" in localStorage) || localStorage.theme === undefined) {
+        localStorage.theme = "dark"; // Set default theme to dark
+    }
+
+    if (!isInit) {
+        if (localStorage.theme === "light") {
+            document.querySelector("html").classList.add("dark");
+            document.querySelector("html").classList.remove("light");
             localStorage.theme = "dark";
+        } else if (localStorage.theme === "dark") {
+            document.querySelector("html").classList.add("light");
+            document.querySelector("html").classList.remove("dark");
+            localStorage.theme = "light";
         }
     } else {
-        if (!isInit) {
-            if (localStorage.theme === "light") {
-                document.querySelector("html").classList.add("dark");
-                document.querySelector("html").classList.remove("light");
-                localStorage.theme = "dark";
-            } else if (localStorage.theme === "dark") {
-                document.querySelector("html").classList.add("light");
-                document.querySelector("html").classList.remove("dark");
-                localStorage.theme = "light";
-            }
-        } else {
-            if (localStorage.theme === "light") {
-                document.querySelector("html").classList.remove("dark");
-                document.querySelector("html").classList.add("light");
-            } else if (localStorage.theme === "dark") {
-                document.querySelector("html").classList.remove("light");
-                document.querySelector("html").classList.add("dark");
-            }
+        if (localStorage.theme === "light") {
+            document.querySelector("html").classList.remove("dark");
+            document.querySelector("html").classList.add("light");
+        } else if (localStorage.theme === "dark") {
+            document.querySelector("html").classList.remove("light");
+            document.querySelector("html").classList.add("dark");
         }
     }
-};
+}
 toggleDarkLightMode(true);
 </script>
 <link rel="apple-touch-icon" sizes="180x180" href="{{ '/assets/favicons/apple-touch-icon.png' | addHash }}">
@@ -65,4 +59,5 @@ toggleDarkLightMode(true);
 <script src="{{ '/assets/js/prism.js' | addHash }}"></script>
 <link rel="stylesheet" href="{{ '/assets/css/prism-build.css' | addHash }}">
 <link rel="alternate" href="/follow.rss" title="Stefans Activity Feed" type="application/rss+xml">
+<link rel="alternate" href="/blog.rss" title="Stefan Dillinger" type="application/rss+xml">
 <script async src="https://analytics.umami.is/script.js" data-website-id="470862a7-561f-4601-9f7b-9e8225646fcf" data-domains="raincastle.blog"></script>

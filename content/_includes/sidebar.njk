@@ -16,13 +16,16 @@
                 <a href="/" class="block no-underline">Blog</a>
             </li>
             <li class="navitem text-center uppercase {{ page.url | isActiveLink('/about/') }}">
-                <a href="/about/" class="block no-underline">About</a>
+                <a href="/about/" class="block no-underline">Über mich</a>
             </li>
             <li class="navitem text-center uppercase {{ page.url | isActiveLink('/peaks_project/') }}">
                 <a href="/peaks_project/" class="block no-underline">Gipfel Projekt</a>
             </li>
-            <li class="navitem text-center uppercase {{ page.url | isActiveLink('/activities/') }}">
-                <a href="/activities/" class="block no-underline">Activities / Archive</a>
+            <li class="navitem text-center uppercase {{ page.url | isActiveLink('/blogroll/') }}">
+                <a href="/blogroll/" class="block no-underline">Blogroll</a>
+            </li>
+            <li class="navitem text-center uppercase {{ page.url | isActiveLink('/archive/') }}">
+                <a href="/archive/" class="block no-underline">Blog Archiv</a>
             </li>
         </ul>
     </div>
@@ -74,6 +77,7 @@
         {% if siteconfig.socialLinkedIn %}
         <a href="https://www.strava.com/athletes/6023237" data-umami-event="strava" aria-label="Open Strava profile" target="_blank" class="w-5 h-5 pt-3 pb-0" rel="noopener">
             <svg role="img" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+                <title>Strava</title>
                 <path d="M6.731 0 2 9.125h2.788L6.73 5.497l1.93 3.628h2.766L6.731 0zm4.694 9.125-1.372 2.756L8.66 9.125H6.547L10.053 16l3.484-6.875h-2.112z"/>
             </svg> 
         </a>
