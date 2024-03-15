@@ -6,11 +6,12 @@ eleventyExcludeFromCollections: true
 <opml version="1.0">
     <head>
         <title>RSS Feeds für Stefan's Blogroll</title>
-        <dateCreated>{{ page.date | dateToRfc822 }}</dateCreated>
     </head>
     <body>
+
         {%- for site in blogroll -%}
             <outline text="{{ site.name }}" title="{{ site.name }}" type="rss" xmlUrl="{{ site.rss_url }}" htmlUrl="{{ site.website_url }}"/>
         {% endfor %}
+        
     </body>
 </opml>

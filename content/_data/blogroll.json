@@ -2,13 +2,50 @@
     {
         "name": "Jens Peters",
         "website_url": "https://jenspeters.substack.com",
-        "rss_url": "https://jenspeters.substack.com/feed/",
-        "description": "never not [thinking about] running! Das ist das Motto des Blogs. Jens befindet sich gerade auf dem Weg sein erstes UTMB-Event zu laufen und berichtet, sehr persöhnlich, über diese Reise."
+        "rss_url": "https://jenspeters.substack.com/feed",
+        "description": "never not [thinking about] running!, das ist das Motto des Blogs von Jens Peters. Jens befindet sich gerade auf dem Weg sein erstes UTMB-Event zu laufen und berichtet, sehr persöhnlich, über diese Reise.",
+        "tag": "Laufen"
     },
     {
         "name": "Harlerunner",
         "website_url": "https://harlerunner.de",
         "rss_url": "https://harlerunner.de/feed/",
-        "description": "Auf Harlerunner.de schreibt Thomas Pier über das Laufen und (deutlich mehr als nur die notwendige) Ausrüstung. Tests neuer Laufuhren sind dort genauso zufinden wie der Test neuer Sensoren oder Schuhe."
+        "description": "Auf Harlerunner.de schreibt Thomas Pier über das Laufen und (deutlich mehr als nur die notwendige) Ausrüstung. Tests neuer Laufuhren sind dort genauso zufinden wie der Test neuer Sensoren oder Schuhe.",
+        "tag": "Laufen"
+    },
+    {
+        "name": "Flopp // Running",
+        "website_url": "https://running.flopp.net/",
+        "rss_url": "https://running.flopp.net/feed/",
+        "description": "Florian Pigorsch schreibt über das Laufen und Trailrunning in Freiburg und im Südschwarzwald. Also ein ähnlicher Ansatz wie auf meiner Seite. Außerdem ist Florian am Dietenbacher Parkrun beteiligt.",
+        "tag": "Laufen"
+    },
+    {
+        "name": "Panda rennt",
+        "website_url": "https://pandarennt.wordpress.com",
+        "rss_url": "https://pandarennt.wordpress.com/feed/",
+        "description": "Vom Stubenhocker zum Laufenthusiasten ist das Motto des Blogs von Andreas Fritsche. Andreas läuft auch in Freiburg und im Schwarzwald.",
+        "tag": "Laufen"
+    },
+    {
+        "name": "Das Z Letter",
+        "website_url": "https://dasz.substack.com/",
+        "rss_url": "https://dasz.substack.com/feed",
+        "description": "Chris Z ist CEO Willpower, einer Firma für Laufbekleidung, und schreibt auf seinem Blog für und über die Außenseiter des Laufsports. Das Z Letter ist ein persönlicher Laufblog für die hungrigen Herzen und einzigartigen Seelen, die anders denken, fühlen und aussehen als die Masse.",
+        "tag": "Laufen"
+    },
+    {
+        "name": "Marco Altinis Substack",
+        "website_url": "https://marcoaltini.substack.com",
+        "rss_url": "https://marcoaltini.substack.com/feed",
+        "description": "Marco Altini ist wohl der Experte auf dem Gebiet der Herzfrequenzvariabiliät, er ist Gründer von HRV4Training und hat einen Dr. in Data Science. Auf seinem Blog schreibt er über sein Training, über Trainingsstress und Herzfrequenzvariabilität.",
+        "tag": "Laufen"
+    },
+    {
+        "name": "Zach Leatherman",
+        "website_url": "https://www.zachleat.com",
+        "rss_url": "https://www.zachleat.com/web/feed/",
+        "description": "Zach ist der Entwickler von eleventy, dem Open-Source-Site-Generator meines Blogs.",
+        "tag": "WebDev"
     }
 ]

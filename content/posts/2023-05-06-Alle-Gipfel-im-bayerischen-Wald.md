@@ -3,6 +3,10 @@ title: Alle Gipfel im Bayerischen Wald laufen
 date: 2023-05-06
 ---
 
+_Mittlerweile gibt es eine Version 2.0 zu meinem Script das nicht mehr auf R sondern Python basiert und die Gipfel-Liste automatisch generiert. Es ist hier zu finden: [Peaks Map v2.0](/content/posts/2024/2024-03-15-Peak_Map_Script_v2.md)_
+
+<br><br>
+
 Seit wir nach Straubing gezogen sind üben die Trails und Gipfel des <a href='https://de.wikipedia.org/wiki/Bayerischer_Wald' class='external' target='_blank' rel='noopener'>Bayerischen Waldes</a> eine starke Faszination und Anziehung auf mich aus. Da kam bei mir in den letzten Tagen der Gedanke auf, wie viele Berge gäbe es denn, die man im Bayerischen Wald hoch laufen könnte?
 
 ## Ausgangslage
@@ -65,4 +69,4 @@ Diese Liste ist sicher kein Ziel, welches ich in den nächsten 3-5 Jahren schaff
 
 [<img src='/assets/images/2023/Garbuckel.png' class='w-4/5' align='center'/>](/assets/images/2023/Garbuckel.png)<br><br>
 
-<br><br>
+<br>
