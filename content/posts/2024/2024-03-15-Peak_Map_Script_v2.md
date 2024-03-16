@@ -115,6 +115,6 @@ peaks_data.to_csv(file_name, index=False)
 ```
 
 Am Ende habe ich also jetzt eine aktuelle [Liste aller Gipfel](/assets/peaks_list.csv) im Bayerischen Wald, sortiert nach der Entfernung zu Straubing und eine [Karte aller Gipfel](/assets/peaks_progress.html) die ich schon gelaufen bin, bzw die geplant sind.
-Den Code zum Script könnt ihr auf <a href='https://github.com/johndillinger15/Peaks_Project_Map' class='external' target='_blank' rel='noopener'>GitHub</a> finden.
+Den Code zum Script könnt ihr auf <a href='https://github.com/johndillinger15/Peaks_Project_Map' class='external' data-umami-event="github" target='_blank' rel='noopener'>GitHub</a> finden.
 
 <br>
