@@ -9,7 +9,7 @@ Ihr könnt alle diese großartigen Blogs auf einmal abonnieren, indem Ihr die <a
 {% for website in blogroll %}
 <div class="border pl-5 pr-5">
     <h2 class="text-indigo-500 font-extrabold font-mono tracking-widest">{{ website.name }}</h2>
-    <p><a href="{{ website.website_url }}" class="text-fuchsia-300">Website</a> • <a href="{{ website.rss_url }}">RSS</a> • #{{ website.tag }}</p>
+    <p><a href="{{ website.website_url }}" data-umami-event="blogroll-website" class="text-fuchsia-300">Website</a> • <a href="{{ website.rss_url }}" data-umami-event="blogroll-rss">RSS</a> • #{{ website.tag }}</p>
     <p>{{ website.description }}</p>
 </div>
 <br>

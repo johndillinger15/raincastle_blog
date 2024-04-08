@@ -47,5 +47,12 @@
         "rss_url": "https://www.zachleat.com/web/feed/",
         "description": "Zach ist der Entwickler von eleventy, dem Open-Source-Site-Generator meines Blogs.",
         "tag": "WebDev"
+    },
+    {
+        "name": "Maik Bischoff - 100 Meilen",
+        "website_url": "https://running.maik-bischoff.de/",
+        "rss_url": "https://running.maik-bischoff.de/feed/",
+        "description": "Maiks Weg vom Nichtläufer zum Berliner Mauerweglauf.",
+        "tag": "Laufen"
     }
 ]
