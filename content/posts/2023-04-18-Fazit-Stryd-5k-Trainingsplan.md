@@ -33,7 +33,7 @@ Ein wenig mehr "intelligenz" würde ich mir da schon wünschen. Vielleicht erwar
 
 > **UPDATE Nov 2023**
 >
-> Die Stryd Trainingspläne werden ständing weiterentwickelt und mittlerweile sind die Stryd Trainingspläne anders und vorallem etwas adaptiver gestaltet. Sie orientieren sich auch an der aktuellen FTP, was ich sehr gut finde.
+> Die Stryd Trainingspläne werden ständing weiterentwickelt und mittlerweile sind die Stryd Trainingspläne anders und vorallem etwas adaptiver gestaltet. Sie orientieren sich auch an der aktuellen FTP, was ich sehr gut finde. Einen aktuellen Erfahrungsbericht könnt ihr hier finden: [Review Stryd 10k Trainingsplan](/posts/2024/2024-04-08-Stryd-10k-review/)
 
 ## Prognose für den Wettkampf
 

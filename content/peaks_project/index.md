@@ -10,7 +10,7 @@ Initial wollte ich meinen Fortschritt mittels [summitbag.com](summitbag.com) ver
 
 <h3 class="font-bold">Aktuell habe ich {{ counts_data.gelaufen_entries }} von {{ counts_data.raw_data_entries }} Gipfel absolviert.</h3><br><br>
 
-[<img src='/assets/images/2024/progress_240112.png' class='w-4/5' data-umami-event="peaks_map" align='center'/>](/assets/images/2024/progress_240112.png)<br><br>
+[<img src='/assets/images/2024/progress_240422.png' class='w-4/5' data-umami-event="peaks_map" align='center'/>](/assets/images/2024/progress_240422.png)<br><br>
 
 Die in rot markierten Gipfel sind die, die ich in 2024 gelaufen bin. Die blauen sind die Gipfel, die ich vor 2024 gelaufen bin.
 
