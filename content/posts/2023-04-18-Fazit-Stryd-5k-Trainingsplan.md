@@ -3,7 +3,7 @@ title: Fazit Stryd 5k Trainingsplan
 date: 2023-04-18
 ---
 
-Seit Mitte Januar trainiere ich nach dem Stryd 5k (Low Volume) Trainingsplan. Jetzt, wo es langsam ins Tapering geht ist es Zeit eine kurze Bilanz zu ziehen.
+Seit Mitte Januar trainiere ich nach dem <a href='https://www.stryd.com/store?referrer_id=cfc151e0-d7dc-5b9b-5145-62e11fe1c3c1' class='external' target='_blank' rel='noopener'>Stryd</a> 5k (Low Volume) Trainingsplan. Jetzt, wo es langsam ins Tapering geht ist es Zeit eine kurze Bilanz zu ziehen.
 
 ## Ausgangslage
 
@@ -21,7 +21,7 @@ Hierbei waren die easy runs meist nur 20-30 Minuten lang und der längste "Longr
 
 Zum Start des Plans gab es direkt einen Benchmark-Run, um die Critical Power zu aktualisieren und möglichst genaue Trainingsbereiche zu haben. Leider ereilte mich dann in der Mitte des Trainingsplans eine fiese Kindergartenerkältung, die mich etwas mehr als eine Woche außer Gefecht setzte, so konnte ich den Plan nicht ganz durchziehen.
 
-Was mir wirklich gut gefiel bzw gefällt an der App von Stryd bzw. am Stryd Trainingsplan ist die Bibliothek von Workouts in der App. Wenn es um Intervalltraining geht kann es schnell langweilig werden. Klar, für die verschiedenen Distanzen gibt es einen Satz von Standardintervalltrainings (800m Intervalle, 3' Intervalle, etc.) aber die können auch schnell fad werden. Hier gibt es in der Stryd Bibliothek mittlerweile einen ganzen Satz an Alternativen die man einfach in seinen Trainingsplan ziehen kann und dann auf die Uhr Synchronisieren.
+Was mir wirklich gut gefiel bzw gefällt an der App von Stryd bzw. am <a href='https://www.stryd.com/store?referrer_id=cfc151e0-d7dc-5b9b-5145-62e11fe1c3c1' class='external' target='_blank' rel='noopener'>Stryd</a> Trainingsplan ist die Bibliothek von Workouts in der App. Wenn es um Intervalltraining geht kann es schnell langweilig werden. Klar, für die verschiedenen Distanzen gibt es einen Satz von Standardintervalltrainings (800m Intervalle, 3' Intervalle, etc.) aber die können auch schnell fad werden. Hier gibt es in der <a href='https://www.stryd.com/store?referrer_id=cfc151e0-d7dc-5b9b-5145-62e11fe1c3c1' class='external' target='_blank' rel='noopener'>Stryd</a> Bibliothek mittlerweile einen ganzen Satz an Alternativen die man einfach in seinen Trainingsplan ziehen kann und dann auf die Uhr Synchronisieren.
 
 ## Kritik
 

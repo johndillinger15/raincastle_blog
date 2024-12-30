@@ -3,7 +3,7 @@ title: Review Stryd 10k Trainingsplan
 date: 2024-04-08T21:00:00.000Z
 ---
 
-Für die Vorbereitung auf den diesjährigen Herzogstadtlauf habe ich mich wieder für einen vorgeplanten Stryd Trainingsplan entschieden. Ich mag es zwar mich selbst zu coachen und so das beste aus mir heraus zu holen, allerdings probiere ich auch gerne Dinge aus. Da bot es sich an, nochmal auf die verbesserten Trainingspläne von Stryd zu setzen.
+Für die Vorbereitung auf den diesjährigen Herzogstadtlauf habe ich mich wieder für einen vorgeplanten <a href='https://www.stryd.com/store?referrer_id=cfc151e0-d7dc-5b9b-5145-62e11fe1c3c1' class='external' target='_blank' rel='noopener'>Stryd</a> Trainingsplan entschieden. Ich mag es zwar mich selbst zu coachen und so das beste aus mir heraus zu holen, allerdings probiere ich auch gerne Dinge aus. Da bot es sich an, nochmal auf die verbesserten Trainingspläne von <a href='https://www.stryd.com/store?referrer_id=cfc151e0-d7dc-5b9b-5145-62e11fe1c3c1' class='external' target='_blank' rel='noopener'>Stryd</a> zu setzen.
 
 Da mein Beitrag für den 5k-Stryd-Trainingsplan noch immer gut geklickt wird, dachte ich mir es wäre von Interesse wenn ich hier nochmal über meine Erfahrungen mit dem neuen verbesserten 10k-Stryd Trainingsplan schreibe.
 
@@ -33,7 +33,7 @@ Woche zwei startete mit 2 "easy runs", die von [VO2max Intervallen](https://www.
 Diese Woche sollte wieder 2 Intervalleinheiten beinhalten. Die erste gleich am Montag und die zweite am Mittwoch.
 Am Montag sollten es "Supra-Threshold Intervals" sein, 4x4min bei 98-104% der CP. Am Mittwoch sollten es dann "Near-Threshold Intervals" sein, 3x7:30min bei 96-102% der CP. Um erhlich zu sein, erschließt sich der minimale Unterschied in den Bereichen nicht ganz, denn die 2% Unterschied im Training einzuhalten, halte ich für etwas unrealistisch, immerhin sind das bei meiner CP nur ca. 5 Watt. Besser fände ich da wohl eine Einteilung von 95-100% CP für die "Near Threshold Intervalle" und 100-105% CP für die "Supra Threshold Intervalle".
 
-Da die Kinder allerdings mit Fieber im Bett lagen, musste ich die Trainingswoche allerdings etwas umstrukturieren und die Woche erstmal Laufrei machen. Den ersten Lauf konnte ich dann erst wieder am Sonntag machen. Da die Infektion im Haus ist und ich mir über meinen Zustand auch nicht so 100% im Klaren war, habe ich es erstmal locker angehen lassen und den für das WE geplanten Longrun (90') auf [70' verkürzt](https://www.strava.com/activities/10785856610).
+Da die Kinder mit Fieber im Bett lagen, musste ich die Trainingswoche allerdings etwas umstrukturieren und die Woche erstmal Laufrei machen. Den ersten Lauf konnte ich dann erst wieder am Sonntag machen. Da die Infektion im Haus ist und ich mir über meinen Zustand auch nicht so 100% im Klaren war, habe ich es erstmal locker angehen lassen und den für das WE geplanten Longrun (90') auf [70' verkürzt](https://www.strava.com/activities/10785856610).
 
 ### Woche 4 (28 km, 161 RSS)
 
@@ -97,7 +97,7 @@ Die Pläne werden von Steve Palladino geschrieben und detalliert ausgearbeietet,
 
 Für den Herzogstadtlauf habe ich nun den Sprung von 5km auf 10km geplant und wollte so richtig Gas geben. Leider verlief das letzte halbe Jahr extrem holprig und war vor allem von Krankheit und unregelmäßigen Training geprägt. Daher sind meine Ziele für den Herzogstadtlauf auch eher bescheiden und zum ersten Mal habe ich tatsächlich etwas "respekt" vor 45min voller Belastung.
 
-Die Stryd-App-Prognose sagt aktuell eine Zeit von 46:06 voraus, meine eigene Prognose sagt 45:25.
+Die <a href='https://www.stryd.com/store?referrer_id=cfc151e0-d7dc-5b9b-5145-62e11fe1c3c1' class='external' target='_blank' rel='noopener'>Stryd</a>-App-Prognose sagt aktuell eine Zeit von 46:06 voraus, meine eigene Prognose sagt 45:25.
 
 [<img src='/assets/images/2024/Prognose_April_24.png' class='w-5/5' align='center' />](/assets/images/2024/Prognose_April_24.png)<br><br>
 
