@@ -34,3 +34,5 @@ Von den 1180km bin ich wieder 582km mit einem oder beiden Kindern im Thule gelau
 Der Herzogstadtlauf 2025 findet diesmal nicht Ende April, sondern Ende Mai statt. Das Problem wird also wohl nicht Kälte und Regen sein, sondern eher Sonne und Hitze. Ich verstehe nicht, warum dieser Lauf jedes Jahr zu so unterschiedlichen Zeitpunkten stattfindet. Dieser Zeitpunkt ermöglicht es mir allerdings einen vernünftigen Trainingsblock inklusive einer 2-wöchigen CP-Testphase für den 10km Lauf zu absolvieren. Mal sehen ob ich die Zeit vom letzten Jahr unterbieten kann.
 
 Für die zweite Jahreshälfte habe ich noch keine Pläne. Mal sehen wie die erste Hälfte des Jahres so verläuft dann were ich Pläne für die zweite machen.
+
+<br>

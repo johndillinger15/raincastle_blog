@@ -1,0 +1,16 @@
+---
+title: Der Silvesterlauf
+date: 2025-01-01T21:30:00
+---
+
+Heute mehren sich die Posts auf Social Media wieder über die absolvierten <a href='https://www.running-culture.de/die-besten-silvesterlaeufe-2024-termine-und-infos-auf-einen-blick/' class='external' target='_blank' rel='noopener'>Silvesterläufe</a>. Viele Läufer verwenden diese um das Jahr ausklingen zu lassen oder am Ende des Jahres nocheinmal einer PB hinterher zu jagen. Nach den ruhigeren Monaten nach dem Herbsmarathon oder -wettkampf war für mich der Silvesterlauf traditionell eher der Auftakt in die Frühjahrssaison und das Signal das Trainigsvolumen wieder langsam zu steigern um dann ab Ende Januar oder Anfang Februar in einen neuen Trainigsblock einzusteigen. Auch dieses Jahr wird das nicht anders sein, denn dann startet für mich die Vorbereitung auf den Herzogstadtlauf 2025.
+
+Für mich hat der Silvesterlauf tatsächlich eine sehr lange Tradition. Zwar nicht als Teilnahme an einem Wettkampf und dem Nachjagen von PBs, sondern immer als geselliger, lockerer Lauf mit anschließendem Zusammensein in einer Garage bei ein paar Kalt- oder Warmgetränken ;). Die erste verbriefte Teilnahme war im Jahr 2000. Leider hatte ich damals noch keine Garmin Uhr o.ä., auf Garmin Connect und somit auch Strava sind die Silvesterläufe seit 2010 dokumentiert ([Silvesterlauf 2024](https://www.strava.com/activities/13231253888), [Silvesterlauf 2023](https://www.strava.com/activities/10467809411), [Silvesterlauf 2022](https://www.strava.com/activities/8316346413), [Silvesterlauf 2021](https://www.strava.com/activities/6451064166), [Silvesterlauf 2020](https://www.strava.com/activities/4543863751), [Silvesterlauf 2019](https://www.strava.com/activities/2970363372/overview), [Silvesterlauf 2018](https://www.strava.com/activities/2046627387), [Silvesterlauf 2017](https://www.strava.com/activities/1334713797), [Silvesterlauf 2016](https://www.strava.com/activities/816721941), [Silvesterlauf 2015](https://www.strava.com/activities/460014464), [Silvesterlauf 2014](https://www.strava.com/activities/234904879), [Silvesterlauf 2013](https://www.strava.com/activities/1146063887), [Silvesterlauf 2012](https://www.strava.com/activities/1146192557), [Silvesterlauf 2011](https://www.strava.com/activities/1146421168), [Silvesterlauf 2010](https://www.strava.com/activities/1146693006)).
+
+Seit wir nun selbst genug Platz haben um in der Garage ein paar Kaltgetränke zu konsumieren, versuche ich den Silvesterlauf nun auch in Straubing zu etablieren.
+
+[<img src='/assets/images/2025/Silvesterlauf.jpeg' class='w-4/5' align='center' />](/assets/images/2025/Silvesterlauf.jpeg)<br><br>
+
+Erzwingen kann man sowas zwar nicht, aber eventuell finden sich ja ein paar Leute, die hier mitmachen möchten und Lust auf einen geselligen Abschluss des Jahres haben. Der Gedanke dahinter ist simpel: Sport verbindet, und was könnte schöner sein, als das Jahr mit einem lockeren Lauf in der Gemeinschaft zu verabschieden? Es geht dabei nicht nur um die sportliche Aktivität, sondern vor allem um den sozialen Aspekt. Nach einem oft stressigen Dezember, in dem viele von uns mit Weihnachtsvorbereitungen, Jahresabschlüssen und anderen Verpflichtungen beschäftigt sind, bietet der Silvesterlauf eine Möglichkeit, sich bewusst Zeit für sich selbst und für andere zu nehmen.
+
+<br>
