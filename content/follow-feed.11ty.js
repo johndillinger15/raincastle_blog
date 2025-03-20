@@ -25,11 +25,11 @@ module.exports = class {
             "3 Schweinehunde Podcast",
             "https://3-schweinehun.de/episodes.mp3.rss"
         );
-        feed.addSource(
-            "rss",
-            "Epigenetics Podcast",
-            "https://activemotif.podbean.com/feed.xml"
-        );
+        //        feed.addSource(
+        //            "rss",
+        //            "Epigenetics Podcast",
+        //            "https://activemotif.podbean.com/feed.xml"
+        //        );
         feed.addSource(
             "rss",
             "Mastodon",

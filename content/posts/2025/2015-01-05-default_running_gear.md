@@ -11,6 +11,8 @@ Wahnsinn, nachdem ich in der zweiten Hälfte 2024 nichts geschrieben habe, ist d
 -   **Herzfrequenzmessung**: <a href='https://amzn.to/3W8hlK1' class='external' target='_blank' rel='noopener'>Polar Verity Sense</a>
 -   **GPS Laufuhr**: <a href='https://amzn.to/3DRBXQh' class='external' target='_blank' rel='noopener'>Garmin fenix 6X PRO</a>
 -   **Laufsocken**: <a href='https://incylence.com' class='external' target='_blank' rel='noopener'>Incylence</a>
+-   **Energy Gel**: <a href='https://www.maurten.com/products/gel-100-caf-100-box' class='external' target='_blank' rel='noopener'>Maurten Gel 100 Caf 100</a>
+-   **Sportsdrink**: <a href='https://www.foodspring.de/endurance-drink' class='external' target='_blank' rel='noopener'>Endurance Drink </a>
 -   **Social Media**: <a href='https://www.strava.com/athletes/6023237' class='external' target='_blank' rel='noopener'>Strava</a>, Instagram, Bluesky
 -   **Kinderwagen**: <a href='https://www.thule.com/de-de/bike-trailers/bike-trailers-for-kids/thule-chariot-sport-2-double-_-10201033' class='external' target='_blank' rel='noopener'>Thule Chariot Sport double</a> plus <a href='https://www.thule.com/de-de/bike-trailers/bike-trailer-accessories/thule-chariot-jogging-kit-double-_-20201302' class='external' target='_blank' rel='noopener'>jogging Kit</a>
 -   **Kopfhörer**: <a href='https://amzn.to/403hJdV' class='external' target='_blank' rel='noopener'>Sennheiser Momentum Sport</a> mit <a href='https://amzn.to/4ac1dx2' class='external' target='_blank' rel='noopener'>Comply TrueGrip Pro Tips</a>
