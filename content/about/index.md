@@ -40,6 +40,7 @@ Mein Name ist Stefan und ich Laufe seit 2007. Seitdem bin ich 7 Marathons und ei
         1. Ulmer Stadtlauf 2007: 44:08<br>
         OWC 2018 10km: 44:40 (<a href='https://www.strava.com/activities/1367617434' class='external' target='_blank' rel='noopener'>Strava</a> | <a href='/posts/2018-01-21-owc-2018-10km-lauf-am-steinberger-see'>Blog</a>)<br>
         OWC 2019 10km: 42:13 (<a href='https://www.strava.com/activities/2091228565' class='external' target='_blank' rel='noopener'>Strava</a> | <a href='/posts/2019-01-23-oberpfaelzer-winterlaufchallenge-10km'>Blog</a>)<br>
+        Herzogstadtlauf 2024 10km: 45:21 (<a href='https://www.strava.com/activities/11229534538' class='external' target='_blank' rel='noopener'>Strava</a> | <a href='/posts/2024/2024-04-22-Herzogstadtlauf-2024'>Blog</a>)<br>
   </div>
 </div>
 
