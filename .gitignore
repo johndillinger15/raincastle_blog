@@ -30,6 +30,7 @@ $RECYCLE.BIN/
 
 # Static content
 _site/
+dist/
 
 
 # Temporary file for changed pages
