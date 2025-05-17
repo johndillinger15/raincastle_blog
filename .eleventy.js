@@ -32,6 +32,30 @@ module.exports = function (eleventyConfig) {
     // Filters
     eleventyConfig.addFilter("groupBy", require("./content/utils/groupBy"));
 
+    // Filter to extract usernames or fallback to hostname
+    eleventyConfig.addFilter("extractUsername", function (urlString) {
+        try {
+            const url = new URL(urlString); // no need to re-declare URL
+            const path = url.pathname
+                .replace(/^\/+|\/+$/g, "")
+                .split("/")
+                .filter(Boolean);
+
+            if (url.hostname.includes("mastodon") && path.length >= 1) {
+                return "@" + path[path.length - 1];
+            }
+
+            if (url.hostname.includes("bsky") && path.includes("profile")) {
+                const idx = path.indexOf("profile");
+                return "@" + path[idx + 1];
+            }
+
+            return url.hostname;
+        } catch (e) {
+            return "Anonymous";
+        }
+    });
+
     // Define passthrough for assets
     eleventyConfig.addPassthroughCopy("assets");
 

@@ -67,7 +67,6 @@ layout: base.njk
 			</div>	
 		</a>	
 	</div><br>
-	<center>
 <!-- Comment Invitation -->
 <div class="my-12 mx-auto max-w-xl w-11/12 text-center border bg-indigo-900 border-gray-700 p-6 rounded-2xl">
   <h2 class="text-xl font-bold text-fuchsia-400 mb-4">Hast du einen Kommentar zu diesem Post?</h2>
@@ -82,8 +81,8 @@ layout: base.njk
 {% set mentions = webmention.children | groupBy("wm-target") %}
 {% set pageMentions = mentions[pageUrl] %}
 {% if syndication or pageMentions %}
-<section class="mt-16 max-w-3xl mx-auto px-4">
-  <h2 class="text-lg font-bold text-red-800 mb-6">Social Interactions</h2>
+<section class="mt-16 max-w-3xl mx-auto px-4 bg-white dark:bg-gray-900 rounded-xl p-6">
+  <h2 class="text-lg font-bold text-red-800 dark:text-red-400 mb-6">Social Interactions</h2>
   {% if pageMentions %}
   {% set likes = 0 %}
   {% set reposts = 0 %}
@@ -97,15 +96,15 @@ layout: base.njk
       {% set replies = replies + 1 %}
     {% endif %}
   {% endfor %}
-  <div class="mb-4 text-sm font-bold text-slate-700">
+  <div class="mb-4 text-sm font-bold text-slate-700 dark:text-slate-300">
     ❤️ Likes: {{ likes }} | 🔁 Shares: {{ reposts }} | 💬 Kommentare: {{ replies }}
   </div>
   {% endif %}
   {% if syndication %}
-  <div class="mb-6 text-sm text-slate-600">
+  <div class="mb-6 text-sm text-slate-600 dark:text-slate-400">
     Also posted on:
     {% for link in syndication %}
-      <a class="u-syndication text-cyan-700 font-medium hover:underline" href="{{ link }}" target="_blank" rel="noopener">{{ link | urlHostname }}</a>{% if not loop.last %}, {% endif %}
+      <a class="u-syndication text-cyan-700 dark:text-cyan-300 font-medium hover:underline" href="{{ link }}" target="_blank" rel="noopener">{{ link | urlHostname }}</a>{% if not loop.last %}, {% endif %}
     {% endfor %}
   </div>
   {% endif %}
@@ -113,17 +112,18 @@ layout: base.njk
   <ul class="space-y-6">
     {% for wm in pageMentions %}
     {% if wm["wm-property"] == "in-reply-to" %}
-    <li class="flex items-start space-x-4 border-b border-gray-300 pb-4">
+    <li class="flex items-start space-x-4 border-b border-gray-300 dark:border-gray-700 pb-4">
       <img src="{{ wm.author.photo or '/assets/images/avatar-default.jpg' | url }}" alt="{{ wm.author.name or 'Avatar' }}" class="w-12 h-12 rounded-full object-cover mt-1" loading="lazy">
       <div class="flex-1">
-        <div class="text-sm text-slate-600">
-          <a href="{{ wm.url }}" target="_blank" rel="nofollow ugc" class="font-semibold text-blue-700 hover:underline">{{ wm.author.name or 'Anonymous' }}</a>
-          <span class="ml-1">💬 replied</span>
+        <div class="text-sm text-slate-600 dark:text-slate-400">
+			{% set authorName = wm.author.name or (wm.author.url | extractUsername) or 'Anonymous' %}
+			<a href="{{ wm.url }}" target="_blank" rel="nofollow ugc" class="font-semibold text-blue-700 dark:text-blue-300 hover:underline">{{ authorName }}</a>
+        <span class="ml-1">💬 replied</span>
         </div>
         {% if wm.content and wm.content.text %}
-        <p class="mt-2 text-slate-800">{{ wm.content.text }}</p>
+        <p class="mt-2 text-slate-800 dark:text-slate-200">{{ wm.content.text }}</p>
         {% else %}
-        <a href="{{ wm.url }}" target="_blank" rel="nofollow ugc" class="inline-block mt-2 text-blue-600 hover:underline">View on source</a>
+        <a href="{{ wm.url }}" target="_blank" rel="nofollow ugc" class="inline-block mt-2 text-blue-600 dark:text-blue-400 hover:underline">View on source</a>
         {% endif %}
       </div>
     </li>

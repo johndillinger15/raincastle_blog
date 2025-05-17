@@ -1,4 +1,27 @@
 {
-  "lastFetched": "2025-05-17T19:29:11.857Z",
-  "children": []
+  "lastFetched": "2025-05-17T20:30:25.576Z",
+  "children": [
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "https://avatars.webmention.io/cdn.bsky.app/56ea28ffe96e51ade2900e41156bb52b1506cf85280a455e64b4011d68e7b222.jpg",
+        "url": "https://bsky.app/profile/jot--pe.bsky.social"
+      },
+      "url": "https://bsky.app/profile/jot--pe.bsky.social/post/3lpfdcsabh22f",
+      "published": "2025-05-17T19:58:11+00:00",
+      "wm-received": "2025-05-17T20:22:56Z",
+      "wm-id": 1911929,
+      "wm-source": "https://brid.gy/comment/bluesky/did:plc:3yams5zbv7palph6kw6i5uh4/at%253A%252F%252Fdid%253Aplc%253A3yams5zbv7palph6kw6i5uh4%252Fapp.bsky.feed.post%252F3lpcrxbtmat27/at%253A%252F%252Fdid%253Aplc%253Ayhywggiw46ywz4coihvczbkj%252Fapp.bsky.feed.post%252F3lpfdcsabh22f",
+      "wm-target": "https://raincastle.blog/posts/2025/2025-05-16-Vorbereitung-Herzogstadtlauf/",
+      "wm-protocol": "webmention",
+      "content": {
+        "text": "Drücke dir auf jeden Fall die Daumen. Bei mir sind tatsächlich Strava und Stryd absolut identisch bei der Kalkulation meiner 5K-Zeit (Stryd natürlich mit dem +/- Rahmen). Die haben sich doch abgesprochen. ????"
+      },
+      "in-reply-to": "https://raincastle.blog/posts/2025/2025-05-16-Vorbereitung-Herzogstadtlauf/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    }
+  ]
 }
