@@ -7,6 +7,7 @@ const { readFileSync } = require("fs");
 const siteconfig = require("./content/_data/siteconfig.js");
 const markdownIt = require("markdown-it");
 const markdownItAnchor = require("markdown-it-anchor");
+const pluginWebmentions = require("eleventy-plugin-webmentions");
 
 module.exports = function (eleventyConfig) {
     // Set Markdown library
@@ -21,6 +22,15 @@ module.exports = function (eleventyConfig) {
     );
 
     eleventyConfig.addPassthroughCopy("_data");
+
+    // Webmentions
+    eleventyConfig.addPlugin(pluginWebmentions, {
+        domain: "raincastle.blog",
+        token: process.env.WEBMENTION_IO_TOKEN
+    });
+
+    // Filters
+    eleventyConfig.addFilter("groupBy", require("./content/utils/groupBy"));
 
     // Define passthrough for assets
     eleventyConfig.addPassthroughCopy("assets");

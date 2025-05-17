@@ -25,13 +25,9 @@ ehthumbs.db
 [Dd]esktop.ini
 $RECYCLE.BIN/
 
-# Local .env file
-.env
-
 # Static content
 _site/
 dist/
-
 
 # Temporary file for changed pages
 scripts/temp-output/*

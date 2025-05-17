@@ -48,7 +48,9 @@ layout: base.njk
 		</div>
 	</div>
   	{{ content | safe }}
-	<div class="block w-full h-1 border-solid border-b-1 border-gray-700"></div>
+<!-- Divider -->
+	<div class="w-full border-b border-gray-700 my-8"></div>
+<!-- Pagination -->
 	<div class="additions flex flex-col sm:flex-row gap-3 mt-6 px-4 w-full">	
 		{% set previousPost = collections.posts | getPreviousCollectionItem(page) %}	
 		{% set nextPost = collections.posts | getNextCollectionItem(page) %}	
@@ -66,9 +68,68 @@ layout: base.njk
 		</a>	
 	</div><br>
 	<center>
-	<div class="block text-s my-5 p-3 block max-w-m text-center w-4/5 border bg-indigo-900 border-gray-700">
-		<span class="text-xl font-bold text-fuchsia-400">Hast du einen Kommentar zu diesem Post?</span><br><br>
-		<span>Falls Du einen Kommentar zum Artikel hast oder Dich darüber austauschen willst schicke mir gerne eine <a href="mailto:stefan@raincastle.blog">eMail</a>. Ich freue mich darauf von Dir zu hören.<br></span>
-	</div>
-	</center>
+<!-- Comment Invitation -->
+<div class="my-12 mx-auto max-w-xl w-11/12 text-center border bg-indigo-900 border-gray-700 p-6 rounded-2xl">
+  <h2 class="text-xl font-bold text-fuchsia-400 mb-4">Hast du einen Kommentar zu diesem Post?</h2>
+  <p class="text-sm text-gray-200">
+    Falls Du einen Kommentar zum Artikel hast oder Dich darüber austauschen willst, schicke mir gerne eine 
+    <a href="mailto:stefan@raincastle.blog" class="underline text-cyan-300 hover:text-cyan-200">eMail</a> oder kommentiere auf Bluesky oder Mastodon, die Kommentare erscheinen dann unter dem Blog. 
+    Ich freue mich darauf, von Dir zu hören.
+  </p>
 </div>
+<!-- Social Interactions -->
+{% set pageUrl = 'https://raincastle.blog' + page.url %}
+{% set mentions = webmention.children | groupBy("wm-target") %}
+{% set pageMentions = mentions[pageUrl] %}
+{% if syndication or pageMentions %}
+<section class="mt-16 max-w-3xl mx-auto px-4">
+  <h2 class="text-lg font-bold text-red-800 mb-6">Social Interactions</h2>
+  {% if pageMentions %}
+  {% set likes = 0 %}
+  {% set reposts = 0 %}
+  {% set replies = 0 %}
+  {% for wm in pageMentions %}
+    {% if wm["wm-property"] == "like-of" %}
+      {% set likes = likes + 1 %}
+    {% elif wm["wm-property"] == "repost-of" %}
+      {% set reposts = reposts + 1 %}
+    {% elif wm["wm-property"] == "in-reply-to" %}
+      {% set replies = replies + 1 %}
+    {% endif %}
+  {% endfor %}
+  <div class="mb-4 text-sm font-bold text-slate-700">
+    ❤️ Likes: {{ likes }} | 🔁 Shares: {{ reposts }} | 💬 Kommentare: {{ replies }}
+  </div>
+  {% endif %}
+  {% if syndication %}
+  <div class="mb-6 text-sm text-slate-600">
+    Also posted on:
+    {% for link in syndication %}
+      <a class="u-syndication text-cyan-700 font-medium hover:underline" href="{{ link }}" target="_blank" rel="noopener">{{ link | urlHostname }}</a>{% if not loop.last %}, {% endif %}
+    {% endfor %}
+  </div>
+  {% endif %}
+  {% if pageMentions %}
+  <ul class="space-y-6">
+    {% for wm in pageMentions %}
+    {% if wm["wm-property"] == "in-reply-to" %}
+    <li class="flex items-start space-x-4 border-b border-gray-300 pb-4">
+      <img src="{{ wm.author.photo or '/assets/images/avatar-default.jpg' | url }}" alt="{{ wm.author.name or 'Avatar' }}" class="w-12 h-12 rounded-full object-cover mt-1" loading="lazy">
+      <div class="flex-1">
+        <div class="text-sm text-slate-600">
+          <a href="{{ wm.url }}" target="_blank" rel="nofollow ugc" class="font-semibold text-blue-700 hover:underline">{{ wm.author.name or 'Anonymous' }}</a>
+          <span class="ml-1">💬 replied</span>
+        </div>
+        {% if wm.content and wm.content.text %}
+        <p class="mt-2 text-slate-800">{{ wm.content.text }}</p>
+        {% else %}
+        <a href="{{ wm.url }}" target="_blank" rel="nofollow ugc" class="inline-block mt-2 text-blue-600 hover:underline">View on source</a>
+        {% endif %}
+      </div>
+    </li>
+    {% endif %}
+    {% endfor %}
+  </ul>
+  {% endif %}
+</section>
+{% endif %}
