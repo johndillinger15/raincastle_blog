@@ -4,7 +4,7 @@ layout: page.njk
 title: Über mich
 ---
 
-Mein Name ist Stefan und ich Laufe seit 2007. Seitdem bin ich 7 Marathons und ein paar andere Wettkämpfe gerannt (siehe unten). Mein Trainingsansatz ist sehr datenbasiert und ich sammle während eines Laufen relativ viele Daten und versuche die dann im nachhinein so sinnvol wie möglich auszuwerten. Darüber schreibe ich in diesem Blog. Um die gesammelten Daten und Berechnungen anschaulich darzustellen versuche ich mir mittels Python ein Dashboard zu basteln. Die Fortschritte könnt ihr auf <a href='https://github.com/johndillinger15/Traininganalysis_with_Python' class='external' target='_blank' rel='noopener' data-umami-event="github">GitHub</a> nachverfolgen. Meine anderen Projekte könnt ihr <a href='https://stefandillinger.de' class='external' target='_blank' rel='noopener' data-umami-event="stefandillinger">hier</a> sehen.<br><br>
+<p>Mein Name ist Stefan und ich Laufe seit 2007. Seitdem bin ich 7 Marathons und ein paar andere Wettkämpfe gerannt (siehe unten). Mein Trainingsansatz ist sehr datenbasiert und ich sammle während eines Laufen relativ viele Daten und versuche die dann im nachhinein so sinnvol wie möglich auszuwerten. Darüber schreibe ich in diesem Blog. Um die gesammelten Daten und Berechnungen anschaulich darzustellen versuche ich mir mittels Python ein Dashboard zu basteln. Die Fortschritte könnt ihr auf <a href='https://github.com/johndillinger15/Traininganalysis_with_Python' class='external' target='_blank' rel='noopener' data-umami-event="github">GitHub</a> nachverfolgen. Meine anderen Projekte könnt ihr <a href='http://stefandillinger.de' class='external' target='_blank' rel='noopener' data-umami-event="stefandillinger">hier</a> sehen.</p><br><br>
 
 ## Wettkämpfe <br><br>
 
@@ -29,6 +29,7 @@ Mein Name ist Stefan und ich Laufe seit 2007. Seitdem bin ich 7 Marathons und ei
         OWC 2018 10km: 44:40 (<a href='https://www.strava.com/activities/1367617434' class='external' target='_blank' rel='noopener'>Strava</a> | <a href='/posts/2018-01-21-owc-2018-10km-lauf-am-steinberger-see'>Blog</a>)<br>
         OWC 2019 10km: 42:13 (<a href='https://www.strava.com/activities/2091228565' class='external' target='_blank' rel='noopener'>Strava</a> | <a href='/posts/2019-01-23-oberpfaelzer-winterlaufchallenge-10km'>Blog</a>)<br>
         Herzogstadtlauf 2024 10km: 45:21 (<a href='https://www.strava.com/activities/11229534538' class='external' target='_blank' rel='noopener'>Strava</a> | <a href='/posts/2024/2024-04-22-Herzogstadtlauf-2024'>Blog</a>)<br>
+        Herzogstadtlauf 2025 10km: 43:44 (<a href='https://www.strava.com/activities/14587649115' class='external' target='_blank' rel='noopener'>Strava</a> | <a href='/posts/2025/2025-05-25-Rennbericht-Herzogstadtlauf'>Blog</a>)<br>
   </div>
 </div>
 
