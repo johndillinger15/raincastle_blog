@@ -3,7 +3,7 @@ title: Der Herzogstadtlauf 2025
 date: 2025-05-25T20:00:00Z
 ---
 
-**_tl;dr:_** Der Herzogstadtlauf 2025 verlief besser als erwartet. Für mich optimale Bedinungen führten zu einer Zeit von 43:45 (60. Platz, 7. M40).
+Der Herzogstadtlauf 2025 verlief besser als erwartet. Für mich optimale Bedinungen führten zu einer Zeit von 43:45 (60. Platz, 7. M40).
 
 ---
 
