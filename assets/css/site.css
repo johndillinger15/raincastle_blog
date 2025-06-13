@@ -17,7 +17,7 @@ img {
 }
 
 div.menu li {
-    @apply leading-12;
+    @apply leading-[3rem]; /* Use arbitrary value if leading-12 is missing */
 }
 
 div.menu ul > li:last-child > a {
@@ -41,34 +41,6 @@ div.menu ul > li:last-child::after {
     div.menu ul > li:last-child::after {
         right: -6.8rem;
     }
-}
-
-div.menu ul > li.active:nth-child(1) ~ li:last-child::after,
-div.menu ul > li.navitem:nth-child(1):hover ~ li:last-child::after {
-    top: -15rem;
-    visibility: visible;
-}
-div.menu ul > li.active:nth-child(2) ~ li:last-child::after,
-div.menu ul > li.navitem:nth-child(2):hover ~ li:last-child::after {
-    top: -12rem;
-    visibility: visible;
-}
-div.menu ul > li.active:nth-child(3) ~ li:last-child::after,
-div.menu ul > li.navitem:nth-child(3):hover ~ li:last-child::after {
-    top: -9rem;
-    visibility: visible;
-}
-div.menu ul > li.active:nth-child(4) ~ li:last-child::after,
-div.menu ul > li.navitem:nth-child(4):hover ~ li:last-child::after {
-    top: -6rem;
-    visibility: visible;
-}
-
-/* Add styling for the new item */
-div.menu ul > li.active:nth-child(5):last-child::after,
-div.menu ul > li.navitem:nth-child(5):last-child:hover::after {
-    top: -3rem; /* Adjust as needed */
-    visibility: visible;
 }
 
 div.menu > * {

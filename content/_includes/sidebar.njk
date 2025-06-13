@@ -1,4 +1,4 @@
-<div id="sidebar-contents" class="dark:bg-sidebar-dark bg-sidebar-light grid-cols-1 gap-4 pt-8 h-screen grid w-56 xl:w-72">
+<div id="sidebar-contents" class="dark:bg-sidebar-dark bg-sidebar-light grid-cols-1 gap-3 pt-8 h-screen grid w-56 xl:w-72">
     <div>
         <a href="/">
             <img alt="{{ siteconfig.imageAlt }}" src="{{ siteconfig.image }}" class="w-36 border dark:border-gray-100 border-indigo-600"/>
@@ -11,7 +11,7 @@
         </div>
     </div>
     <div class="menu">
-        <ul class="list-none pl-0 pt-10">
+        <ul class="list-none pl-0 pt-4">
             <li class="navitem text-center uppercase {{ page.url | isHomeLink('/') }}">
                 <a href="/" class="block no-underline">Blog</a>
             </li>
@@ -21,6 +21,9 @@
             <li class="navitem text-center uppercase {{ page.url | isActiveLink('/peaks_project/') }}">
                 <a href="/peaks_project/" class="block no-underline">Gipfel Projekt</a>
             </li>
+            <li class="navitem text-center uppercase {{ page.url | isActiveLink('/runs/') }}">
+                <a href="/runs/" class="block no-underline">Letze Läufe</a>
+            </li>
             <li class="navitem text-center uppercase {{ page.url | isActiveLink('/blogroll/') }}">
                 <a href="/blogroll/" class="block no-underline">Blogroll</a>
             </li>
@@ -29,7 +32,7 @@
             </li>
         </ul>
     </div>
-    <div class="row-start-7 grid grid-cols-3 place-items-center xl:grid-cols-6 grid-rows-2 gap-6 mx-auto mb-5">
+    <div class="row-start-4 grid grid-cols-3 place-items-center xl:grid-cols-6 grid-rows-2 gap-5 mx-auto mb-5">
         <a onclick="toggleDarkLightMode(false)" href="#" class="w-5 h-5 pt-3 pb-0">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 612.001 612.001" class="lighttoggle">
 	            <title>Light mode</title>

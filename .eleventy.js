@@ -8,6 +8,7 @@ const siteconfig = require("./content/_data/siteconfig.js");
 const markdownIt = require("markdown-it");
 const markdownItAnchor = require("markdown-it-anchor");
 const pluginWebmentions = require("eleventy-plugin-webmentions");
+const { DateTime } = require("luxon");
 
 module.exports = function (eleventyConfig) {
     // Set Markdown library
@@ -22,6 +23,14 @@ module.exports = function (eleventyConfig) {
     );
 
     eleventyConfig.addPassthroughCopy("_data");
+
+    // für runs
+    eleventyConfig.addFilter("date", (value, format = "dd.MM.yyyy") => {
+        if (!value) return "";
+        let dt = DateTime.fromISO(value);
+        if (!dt.isValid) dt = DateTime.fromJSDate(new Date(value));
+        return dt.toFormat(format);
+    });
 
     // Webmentions
     eleventyConfig.addPlugin(pluginWebmentions, {

@@ -34,7 +34,8 @@ Ab diesem Punkt waren es dann noch ca. 1km ins Ziel, die meiste Zeit bergab, als
 
 Im Ziel stand dann eine Zeit von **43:44** auf der Anzeigetafel. Also fast 1:30 min schneller als prognostiziert. Meine Vermutung, dass die Daten, die meinen Prognosen zugrunde lagen, nicht ganz akkurat waren, schien also doch zutreffend. <br><br>
 
-<div class="strava-embed-placeholder w-3/4" data-embed-type="activity" data-embed-id="14587649115" data-style="standard" data-from-embed="false"></div><script src="https://strava-embeds.com/embed.js"></script><br><br>
+<div class="flex items-center justify-center">
+<div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="14587649115" data-style="standard" data-from-embed="false"></div><script src="https://strava-embeds.com/embed.js"></script></div><br><br>
 
 Am Ende bin ich mit dem Lauf und dieser Zeit sehr zufrieden. Ich dachte nicht, dass ich die 45 Minuten so deutlich unterbieten werden könne. Auf dieser Leistung lässt dich gut aufbauen und wenn ich gesund bleibe, kann ich die 40 Minuten vielleicht ja doch nochmal angreifen...
 

@@ -1,0 +1,33 @@
+---
+eleventyExcludeFromCollections: true
+layout: page.njk
+title: Letzte Läufe
+---
+
+<section class="mb-14">
+  <h3 class="font-header font-semibold text-xl uppercase mb-6">Recent Runs</h3>
+  <div class="space-y-8">
+    {% for run in runs %}
+      <article class="border-l-1 border-husky-400 pl-4 dark:border-husky-600">
+        <h4 class="font-bold text-lg">
+          <a href="{{ run.link }}" target="_blank" rel="noopener noreferrer" class="hover:underline">
+            {{ run.title }}
+          </a>
+        </h4>
+        <time class="text-sm text-gray-500 dark:text-gray-400 block mb-1">
+          {{ run.date | date("dd.MM.yyyy") }}
+        </time>
+        <p class="text-sm mb-2">{{ run.content }}</p>
+        {% if run.activityId %}
+          <div class="strava-embed-placeholder"
+               data-embed-type="activity"
+               data-embed-id="{{ run.activityId }}"
+               data-style="standard"
+               data-from-embed="false">
+          </div>
+        {% endif %}
+      </article>
+    {% endfor %}
+  </div>
+  <script src="https://strava-embeds.com/embed.js"></script>
+</section>

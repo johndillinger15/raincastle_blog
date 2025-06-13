@@ -57,13 +57,13 @@ layout: base.njk
   <a href="{{ previousPost.url }}" class="flex-1">	
     <div class="h-24 border-1 border-gray-700 leading-pagination text-center{% if previousPost.url %} hover:bg-indigo-900 dark:hover:bg-indigo-900 hover:text-gray-200 dark:hover:text-gray-200 cursor-pointer{% else %} cursor-not-allowed{% endif %}">	
       <span class="text-xs block mt-1 mb-3">Older</span>	
-      <span class="text-xl">{% if not previousPost.url %} - {% else %}{{ previousPost.data.title | truncate(40) }}{% endif %}</span>	
+      <span class="text-l">{% if not previousPost.url %} - {% else %}{{ previousPost.data.title | truncate(40) }}{% endif %}</span>	
     </div>	
   </a>	
   <a href="{{ nextPost.url }}" class="flex-1">	
     <div class="h-24 border-1 border-gray-700 leading-pagination text-center{% if nextPost.url %} hover:bg-indigo-900 dark:hover:bg-indigo-900 hover:text-gray-200 dark:hover:text-gray-200 cursor-pointer{% else %} cursor-not-allowed{% endif %} overflow-auto">	
       <span class="text-xs block mt-1 mb-3">Newer</span>	
-      <span class="text-xl">{% if not nextPost.url %} - {% else %}{{ nextPost.data.title | truncate(40) }}{% endif %}</span>	
+      <span class="text-l">{% if not nextPost.url %} - {% else %}{{ nextPost.data.title | truncate(40) }}{% endif %}</span>	
     </div>	
   </a>	
 </div><br>
@@ -96,7 +96,7 @@ layout: base.njk
         {% set replies = replies + 1 %}
       {% endif %}
     {% endfor %}
-    <div class="mb-4 text-sm font-bold text-slate-700 dark:text-slate-300">
+    <div class="mb-10 text-sm font-bold text-slate-700 dark:text-slate-300">
       ❤️ Likes: {{ likes }} | 🔁 Shares: {{ reposts }} | 💬 Kommentare: {{ replies }}
     </div>
   {% endif %}
