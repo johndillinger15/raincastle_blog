@@ -67,3 +67,9 @@ Initial wollte ich meinen Fortschritt mittels [summitbag.com](summitbag.com) ver
     [Blog](/posts/2023-09-25-riedberg-burgstein)
 18. Burgstein (830m) - <a href='https://www.strava.com/activities/9909896815' class='external' target='_blank' rel='noopener'>Strava</a>,
     [Blog](/posts/2023-09-25-riedberg-burgstein)
+19. Büscherl (740m) - <a href='https://www.strava.com/activities/14929964319' class='external' target='_blank' rel='noopener'>Strava</a>,
+    [Blog](/posts/2025/2025-07-01-Buescherl/)
+20. Steinberg (564m) - <a href='https://www.strava.com/activities/14929964319' class='external' target='_blank' rel='noopener'>Strava</a>,
+    [Blog](/posts/2025/2025-07-01-Buescherl/)
+21. Kühberg (525m) - <a href='https://www.strava.com/activities/14929964319' class='external' target='_blank' rel='noopener'>Strava</a>,
+    [Blog](/posts/2025/2025-07-01-Buescherl/)
