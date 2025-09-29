@@ -43,6 +43,11 @@ pagination:
         		</svg>
         		{{ post.date | readableDate }}
 			</div>
+			{% if post.data.updated %}
+			<div class="flex ml-12">
+				<span class="mr-2">↻</span>  {{ post.data.updated | readableDate }}
+			</div>
+			{% endif %}
 			<div class="readingtime flex" data-words="{{ post.templateContent | striptags | wordcount | formatWords }} words">
         		<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 472.615 472.615" class="h-5 w-8 mr-2 ml-12">
   	    			<path d="M472.615,205.774h-25.344c-12.797-37.99-48.686-65.462-90.935-65.462c-43.224,0-79.837,28.73-91.823,68.087

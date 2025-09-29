@@ -54,5 +54,12 @@
         "rss_url": "https://running.maik-bischoff.de/feed/",
         "description": "Maiks Weg vom Nichtläufer zum Berliner Mauerweglauf.",
         "tag": "Laufen"
+    },
+    {
+        "name": "Harder Better Faster Stronger",
+        "website_url": "https://harder-better-faster-stronger.de/",
+        "rss_url": "https://harder-better-faster-stronger.de/feed/",
+        "description": "Ein Blog über Sport zum fit bleiben im Allgemeinen und Rudern im Speziellen.",
+        "tag": "Rudern"
     }
 ]

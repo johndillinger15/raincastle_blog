@@ -1,34 +1,37 @@
 <meta charset="utf-8">
 <title>{% if title %} {{ title }} | {% endif %}{{ siteconfig.title }}</title>
 <script>
-// Toggle dark/light mode, inline JS to avoid any theme flicker
-function toggleDarkLightMode (isInit) {
-    // First time visitors or when theme is not set
-    if (!("theme" in localStorage) || localStorage.theme === undefined) {
-        localStorage.theme = "dark"; // Set default theme to dark
+  // Standard: Dark, außer der User hat "light" gespeichert.
+  (function initTheme() {
+    const root = document.documentElement;
+    let theme = localStorage.getItem('theme');
+
+    // Optional: System-Pref (nur nutzen, wenn du NICHT immer dark default willst)
+    // const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+
+    if (!theme) {
+      // Standard: dark
+      theme = 'dark';
+      localStorage.setItem('theme', theme);
     }
 
-    if (!isInit) {
-        if (localStorage.theme === "light") {
-            document.querySelector("html").classList.add("dark");
-            document.querySelector("html").classList.remove("light");
-            localStorage.theme = "dark";
-        } else if (localStorage.theme === "dark") {
-            document.querySelector("html").classList.add("light");
-            document.querySelector("html").classList.remove("dark");
-            localStorage.theme = "light";
-        }
-    } else {
-        if (localStorage.theme === "light") {
-            document.querySelector("html").classList.remove("dark");
-            document.querySelector("html").classList.add("light");
-        } else if (localStorage.theme === "dark") {
-            document.querySelector("html").classList.remove("light");
-            document.querySelector("html").classList.add("dark");
-        }
-    }
-}
-toggleDarkLightMode(true);
+    const isDark = theme === 'dark'; // || (!theme && prefersDark);
+    root.classList.toggle('dark', isDark);
+    // Hilft Browser-UI (Form Controls, Scrollbars) korrekt zu stylen
+    root.style.colorScheme = isDark ? 'dark' : 'light';
+  })();
+
+  // Toggle-Funktion: persistiert und setzt NUR 'dark'-Klasse
+  function toggleDarkLightMode(isInit) {
+    if (isInit) return; // Init passiert oben, hier nichts tun
+
+    const root = document.documentElement;
+    const current = localStorage.getItem('theme') || 'dark';
+    const next = current === 'dark' ? 'light' : 'dark';
+    localStorage.setItem('theme', next);
+    root.classList.toggle('dark', next === 'dark');
+    root.style.colorScheme = next === 'dark' ? 'dark' : 'light';
+  }
 </script>
 <link rel="apple-touch-icon" sizes="180x180" href="{{ '/assets/favicons/apple-touch-icon.png' | addHash }}">
 <link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/favicons/favicon-32x32.png' | addHash }}">

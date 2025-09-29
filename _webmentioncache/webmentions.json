@@ -1,6 +1,63 @@
 {
-  "lastFetched": "2025-07-20T11:23:35.359Z",
+  "lastFetched": "2025-09-29T10:59:38.383Z",
   "children": [
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "MPruns",
+        "photo": "https://avatars.webmention.io/cdn.bsky.app/8fc0cb3c281eb1a3dbdfc73abf3156b138f9fec9fbf13c980d82c985238c4370.jpg",
+        "url": "https://bsky.app/profile/mpruns.bsky.social"
+      },
+      "url": "https://bsky.app/profile/johndillinger15.bsky.social/post/3lufeky7i5l2q#liked_by_did:plc:w6ketnzpe7soczotsv7huojl",
+      "published": null,
+      "wm-received": "2025-07-20T13:24:39Z",
+      "wm-id": 1925485,
+      "wm-source": "https://brid.gy/like/bluesky/did:plc:3yams5zbv7palph6kw6i5uh4/at%253A%252F%252Fdid%253Aplc%253A3yams5zbv7palph6kw6i5uh4%252Fapp.bsky.feed.post%252F3lufeky7i5l2q/did%253Aplc%253Aw6ketnzpe7soczotsv7huojl",
+      "wm-target": "https://raincastle.blog/posts/2025/2025-07-19-Rudern-als-crosstraining-zum-laufen/",
+      "wm-protocol": "webmention",
+      "like-of": "https://raincastle.blog/posts/2025/2025-07-19-Rudern-als-crosstraining-zum-laufen/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "https://avatars.webmention.io/cdn.bsky.app/d0efd9ff779b764f46700d4901f2bbe7005f5c9b9a6b325adeacd0826e448ab6.jpg",
+        "url": "https://bsky.app/profile/punkbottest.bsky.social"
+      },
+      "url": "https://bsky.app/profile/johndillinger15.bsky.social/post/3lufeky7i5l2q#reposted_by_did:plc:j5mav43qzex6nasxdfajtp3o",
+      "published": null,
+      "wm-received": "2025-07-20T13:24:39Z",
+      "wm-id": 1925486,
+      "wm-source": "https://brid.gy/repost/bluesky/did:plc:3yams5zbv7palph6kw6i5uh4/at%253A%252F%252Fdid%253Aplc%253A3yams5zbv7palph6kw6i5uh4%252Fapp.bsky.feed.post%252F3lufeky7i5l2q/did%253Aplc%253Aj5mav43qzex6nasxdfajtp3o",
+      "wm-target": "https://raincastle.blog/posts/2025/2025-07-19-Rudern-als-crosstraining-zum-laufen/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://raincastle.blog/posts/2025/2025-07-19-Rudern-als-crosstraining-zum-laufen/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "",
+        "photo": "https://avatars.webmention.io/cdn.bsky.app/d0efd9ff779b764f46700d4901f2bbe7005f5c9b9a6b325adeacd0826e448ab6.jpg",
+        "url": "https://bsky.app/profile/punkbottest.bsky.social"
+      },
+      "url": "https://bsky.app/profile/johndillinger15.bsky.social/post/3lufeky7i5l2q#liked_by_did:plc:j5mav43qzex6nasxdfajtp3o",
+      "published": null,
+      "wm-received": "2025-07-20T13:24:38Z",
+      "wm-id": 1925484,
+      "wm-source": "https://brid.gy/like/bluesky/did:plc:3yams5zbv7palph6kw6i5uh4/at%253A%252F%252Fdid%253Aplc%253A3yams5zbv7palph6kw6i5uh4%252Fapp.bsky.feed.post%252F3lufeky7i5l2q/did%253Aplc%253Aj5mav43qzex6nasxdfajtp3o",
+      "wm-target": "https://raincastle.blog/posts/2025/2025-07-19-Rudern-als-crosstraining-zum-laufen/",
+      "wm-protocol": "webmention",
+      "like-of": "https://raincastle.blog/posts/2025/2025-07-19-Rudern-als-crosstraining-zum-laufen/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
     {
       "type": "entry",
       "author": {
