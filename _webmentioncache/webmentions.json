@@ -1,6 +1,63 @@
 {
-  "lastFetched": "2025-09-29T10:59:38.383Z",
+  "lastFetched": "2025-10-04T20:01:23.753Z",
   "children": [
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "running is life ????????????‍♂️????????",
+        "photo": "https://avatars.webmention.io/cdn.bsky.app/f3c54030758cef314666576c365bdf7db31ce7daefc827dc4d2d12353cc37336.jpg",
+        "url": "https://bsky.app/profile/visselrunner.bsky.social"
+      },
+      "url": "https://bsky.app/profile/johndillinger15.bsky.social/post/3lzxw6i3ogc2e#liked_by_did:plc:sykpr7da555qgrnhap3bbsz3",
+      "published": null,
+      "wm-received": "2025-09-30T00:45:44Z",
+      "wm-id": 1943011,
+      "wm-source": "https://brid.gy/like/bluesky/did:plc:3yams5zbv7palph6kw6i5uh4/at%253A%252F%252Fdid%253Aplc%253A3yams5zbv7palph6kw6i5uh4%252Fapp.bsky.feed.post%252F3lzxw6i3ogc2e/did%253Aplc%253Asykpr7da555qgrnhap3bbsz3",
+      "wm-target": "https://raincastle.blog/posts/2023-01-23-Die-etwas-anderen-Begleitapps-zum-Laufen/",
+      "wm-protocol": "webmention",
+      "like-of": "https://raincastle.blog/posts/2023-01-23-Die-etwas-anderen-Begleitapps-zum-Laufen/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Christopher",
+        "photo": "https://avatars.webmention.io/cdn.bsky.app/502850aed72aae726c9ef04f96d0b3a561cb84e8e88c3585ec74ddad784ca5f5.jpg",
+        "url": "https://bsky.app/profile/csdtx.bsky.social"
+      },
+      "url": "https://bsky.app/profile/johndillinger15.bsky.social/post/3lzxw6i3ogc2e#liked_by_did:plc:5ybswaavfohei2lezdae35k5",
+      "published": null,
+      "wm-received": "2025-09-30T00:45:44Z",
+      "wm-id": 1943012,
+      "wm-source": "https://brid.gy/like/bluesky/did:plc:3yams5zbv7palph6kw6i5uh4/at%253A%252F%252Fdid%253Aplc%253A3yams5zbv7palph6kw6i5uh4%252Fapp.bsky.feed.post%252F3lzxw6i3ogc2e/did%253Aplc%253A5ybswaavfohei2lezdae35k5",
+      "wm-target": "https://raincastle.blog/posts/2023-01-23-Die-etwas-anderen-Begleitapps-zum-Laufen/",
+      "wm-protocol": "webmention",
+      "like-of": "https://raincastle.blog/posts/2023-01-23-Die-etwas-anderen-Begleitapps-zum-Laufen/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Avery",
+        "photo": "https://avatars.webmention.io/cdn.bsky.app/92412fd3d184462e2251fb44792e8a5d556083e2186f5979f70f36695fb2a441.jpg",
+        "url": "https://bsky.app/profile/nicestarglow.bsky.social"
+      },
+      "url": "https://bsky.app/profile/johndillinger15.bsky.social/post/3lzxw6i3ogc2e#liked_by_did:plc:caxnaenrrkda7gbvabocohqn",
+      "published": null,
+      "wm-received": "2025-09-30T00:45:43Z",
+      "wm-id": 1943010,
+      "wm-source": "https://brid.gy/like/bluesky/did:plc:3yams5zbv7palph6kw6i5uh4/at%253A%252F%252Fdid%253Aplc%253A3yams5zbv7palph6kw6i5uh4%252Fapp.bsky.feed.post%252F3lzxw6i3ogc2e/did%253Aplc%253Acaxnaenrrkda7gbvabocohqn",
+      "wm-target": "https://raincastle.blog/posts/2023-01-23-Die-etwas-anderen-Begleitapps-zum-Laufen/",
+      "wm-protocol": "webmention",
+      "like-of": "https://raincastle.blog/posts/2023-01-23-Die-etwas-anderen-Begleitapps-zum-Laufen/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
     {
       "type": "entry",
       "author": {
