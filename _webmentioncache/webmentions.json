@@ -1,6 +1,63 @@
 {
-  "lastFetched": "2025-10-04T20:01:23.753Z",
+  "lastFetched": "2025-10-23T19:50:45.861Z",
   "children": [
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "James",
+        "photo": "https://avatars.webmention.io/cdn.bsky.app/96c4772dd3552f1c19876adaf036493a029c1fb4f625cf6b8831bb5996f1fab2.jpg",
+        "url": "https://bsky.app/profile/nonzerosumjames.bsky.social"
+      },
+      "url": "https://bsky.app/profile/johndillinger15.bsky.social/post/3m2ff2sxxvo2b#liked_by_did:plc:quozz3hcdgl7dmc3ovdg42ap",
+      "published": null,
+      "wm-received": "2025-10-04T23:43:19Z",
+      "wm-id": 1944773,
+      "wm-source": "https://brid.gy/like/bluesky/did:plc:3yams5zbv7palph6kw6i5uh4/at%253A%252F%252Fdid%253Aplc%253A3yams5zbv7palph6kw6i5uh4%252Fapp.bsky.feed.post%252F3m2ff2sxxvo2b/did%253Aplc%253Aquozz3hcdgl7dmc3ovdg42ap",
+      "wm-target": "https://raincastle.blog/posts/2025/2025-10-04-Labertallauf-DNS/",
+      "wm-protocol": "webmention",
+      "like-of": "https://raincastle.blog/posts/2025/2025-10-04-Labertallauf-DNS/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "punkbot test",
+        "photo": "https://avatars.webmention.io/cdn.bsky.app/d0efd9ff779b764f46700d4901f2bbe7005f5c9b9a6b325adeacd0826e448ab6.jpg",
+        "url": "https://bsky.app/profile/punkbottest.bsky.social"
+      },
+      "url": "https://bsky.app/profile/johndillinger15.bsky.social/post/3m2ff2sxxvo2b#reposted_by_did:plc:j5mav43qzex6nasxdfajtp3o",
+      "published": null,
+      "wm-received": "2025-10-04T20:14:24Z",
+      "wm-id": 1944740,
+      "wm-source": "https://brid.gy/repost/bluesky/did:plc:3yams5zbv7palph6kw6i5uh4/at%253A%252F%252Fdid%253Aplc%253A3yams5zbv7palph6kw6i5uh4%252Fapp.bsky.feed.post%252F3m2ff2sxxvo2b/did%253Aplc%253Aj5mav43qzex6nasxdfajtp3o",
+      "wm-target": "https://raincastle.blog/posts/2025/2025-10-04-Labertallauf-DNS/",
+      "wm-protocol": "webmention",
+      "repost-of": "https://raincastle.blog/posts/2025/2025-10-04-Labertallauf-DNS/",
+      "wm-property": "repost-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "punkbot test",
+        "photo": "https://avatars.webmention.io/cdn.bsky.app/d0efd9ff779b764f46700d4901f2bbe7005f5c9b9a6b325adeacd0826e448ab6.jpg",
+        "url": "https://bsky.app/profile/punkbottest.bsky.social"
+      },
+      "url": "https://bsky.app/profile/johndillinger15.bsky.social/post/3m2ff2sxxvo2b#liked_by_did:plc:j5mav43qzex6nasxdfajtp3o",
+      "published": null,
+      "wm-received": "2025-10-04T20:14:24Z",
+      "wm-id": 1944741,
+      "wm-source": "https://brid.gy/like/bluesky/did:plc:3yams5zbv7palph6kw6i5uh4/at%253A%252F%252Fdid%253Aplc%253A3yams5zbv7palph6kw6i5uh4%252Fapp.bsky.feed.post%252F3m2ff2sxxvo2b/did%253Aplc%253Aj5mav43qzex6nasxdfajtp3o",
+      "wm-target": "https://raincastle.blog/posts/2025/2025-10-04-Labertallauf-DNS/",
+      "wm-protocol": "webmention",
+      "like-of": "https://raincastle.blog/posts/2025/2025-10-04-Labertallauf-DNS/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
     {
       "type": "entry",
       "author": {
