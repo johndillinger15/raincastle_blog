@@ -1,6 +1,25 @@
 {
-  "lastFetched": "2025-12-03T21:54:08.160Z",
+  "lastFetched": "2026-01-10T22:43:01.903Z",
   "children": [
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Boring40s",
+        "photo": "https://avatars.webmention.io/cdn.bsky.app/221b4c1b6074563955200c2751c48fb68496c4e7de2201239b369b343371bd45.jpg",
+        "url": "https://bsky.app/profile/boring40s.bsky.social"
+      },
+      "url": "https://bsky.app/profile/johndillinger15.bsky.social/post/3m74hitij6t2p#liked_by_did:plc:wm2c42fjifo5wzxe3n3ng6zw",
+      "published": null,
+      "wm-received": "2025-12-04T09:54:14Z",
+      "wm-id": 1956862,
+      "wm-source": "https://brid.gy/like/bluesky/did:plc:3yams5zbv7palph6kw6i5uh4/at%253A%252F%252Fdid%253Aplc%253A3yams5zbv7palph6kw6i5uh4%252Fapp.bsky.feed.post%252F3m74hitij6t2p/did%253Aplc%253Awm2c42fjifo5wzxe3n3ng6zw",
+      "wm-target": "https://raincastle.blog/posts/2025/2025-12-03-lonely-dirt-road/",
+      "wm-protocol": "webmention",
+      "like-of": "https://raincastle.blog/posts/2025/2025-12-03-lonely-dirt-road/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
     {
       "type": "entry",
       "author": {
