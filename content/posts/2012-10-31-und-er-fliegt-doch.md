@@ -1,6 +1,6 @@
 ---
 title: "... und er fliegt doch !"
-date: 2012-10-31
+date: 2012-10-31T12:00:00Z
 redirect_from:
     - https://waytony.wordpress.com/2012/10/31/und-er-fliegt-doch/
 ---

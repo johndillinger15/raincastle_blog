@@ -13,14 +13,15 @@ permalink: /blog.rss
   <author>
     <name>{{ siteconfig.author }}</name>
   </author>
-  {%- for post in collections.posts | reverse %}
-  {% set absolutePostUrl %}{{ post.url | url | absoluteUrl(metadata.url) }}{% endset %}
-  <entry>
-    <title>{{ post.data.title }}</title>
-    <link href="{{ absolutePostUrl }}"/>
-    <updated>{{ post.date | rssDate }}</updated>
-    <id>https://raincastle.blog{{absolutePostUrl}}</id>
-    <content type="html">{{ post.templateContent | htmlToAbsoluteUrls(absolutePostUrl) | truncate(4000) }}</content>
-  </entry>
-  {%- endfor %}
+{%- for post in collections.posts | reverse %}
+{% set absolutePostUrl %}{{ post.url | absoluteUrl(siteconfig.url) }}{% endset %}
+<entry>
+  <title>{{ post.data.title | fixMojibake | escape }}</title>
+  <link href="{{ absolutePostUrl }}" rel="alternate" type="text/html"/>
+  <id>{{ absolutePostUrl }}</id>
+  <updated>{{ post.date | rssDate }}</updated>
+    <content type="html"><![CDATA[{{ post.templateContent | htmlToAbsoluteUrls(absolutePostUrl) | truncate(4000)}} ]]></content>
+</entry>
+{%- endfor %}
+
 </feed>

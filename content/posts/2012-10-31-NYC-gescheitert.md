@@ -1,6 +1,6 @@
 ---
 title: "Projekt 'New York Marathon 2012' ist gescheitert!"
-date: 2012-10-31
+date: 2012-10-31T10:00:00Z
 redirect_from:
     - https://waytony.wordpress.com/2012/10/31/projekt-new-york-marathon-2012-ist-gescheitert/
 ---

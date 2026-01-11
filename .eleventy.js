@@ -182,6 +182,15 @@ module.exports = function (eleventyConfig) {
     // Plugin for transforming images
     eleventyConfig.addPlugin(require("./_11ty/srcset.js"));
 
+    eleventyConfig.addNunjucksFilter("fixMojibake", function (value) {
+        if (!value) return value;
+        return value
+            .replace(/Ã¼/g, "ü")
+            .replace(/Ã¤/g, "ä")
+            .replace(/Ã¶/g, "ö")
+            .replace(/ÃŸ/g, "ß");
+    });
+
     // Plugin for minifying HTML
     eleventyConfig.addPlugin(require("./_11ty/html-minify.js"));
 

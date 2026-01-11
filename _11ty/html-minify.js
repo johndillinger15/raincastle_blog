@@ -3,18 +3,25 @@
 const htmlmin = require("html-minifier");
 
 const convert = async (rawContent, outputPath) => {
-    const content = rawContent;
+    if (!outputPath) {
+        return rawContent;
+    }
 
-    if (outputPath && outputPath.endsWith(".html")) {
-        const minified = htmlmin.minify(content, {
+    // ❌ Never touch RSS / XML feeds
+    if (outputPath.endsWith(".rss") || outputPath.endsWith(".xml")) {
+        return rawContent;
+    }
+
+    // ✅ Only minify real HTML
+    if (outputPath.endsWith(".html")) {
+        return htmlmin.minify(rawContent, {
             useShortDoctype: true,
             removeComments: true,
             collapseWhitespace: true
         });
-        return minified;
     }
 
-    return content;
+    return rawContent;
 };
 
 module.exports = {
