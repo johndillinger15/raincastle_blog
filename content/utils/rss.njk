@@ -6,22 +6,29 @@ permalink: /blog.rss
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>{{ siteconfig.title }}</title>
   <subtitle>{{ siteconfig.description }}</subtitle>
-  <link href="{{ 'https://raincastle.blog/blog.rss' | absoluteUrl }}" rel="self"/>
+
+  <link href="{{ '/blog.rss' | absoluteUrl(siteconfig.url) }}" rel="self"/>
   <link href="{{ siteconfig.url }}"/>
+
   <updated>{{ collections.posts | rssLastUpdatedDate }}</updated>
   <id>{{ siteconfig.url }}/</id>
+
   <author>
     <name>{{ siteconfig.author }}</name>
   </author>
-{%- for post in collections.posts | reverse %}
-{% set absolutePostUrl %}{{ post.url | absoluteUrl(siteconfig.url) }}{% endset %}
-<entry>
-  <title>{{ post.data.title | fixMojibake | escape }}</title>
-  <link href="{{ absolutePostUrl }}" rel="alternate" type="text/html"/>
-  <id>{{ absolutePostUrl }}</id>
-  <updated>{{ post.date | rssDate }}</updated>
-    <content type="html"><![CDATA[{{ post.templateContent | htmlToAbsoluteUrls(absolutePostUrl) | truncate(4000)}} ]]></content>
-</entry>
-{%- endfor %}
 
+  {%- for post in collections.posts | reverse %}
+    {% set absolutePostUrl = post.url | absoluteUrl(siteconfig.url) %}
+    <entry>
+      <title>{{ post.data.title | fixMojibake | escape }}</title>
+      <link href="{{ absolutePostUrl }}" rel="alternate" type="text/html"/>
+      <id>{{ absolutePostUrl }}</id>
+      <updated>{{ post.date | rssDate }}</updated>
+
+      <content type="html"><![CDATA[
+        {{ post.templateContent
+           | htmlToAbsoluteUrls(absolutePostUrl) }}
+      ]]></content>
+    </entry>
+  {%- endfor %}
 </feed>

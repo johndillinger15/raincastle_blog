@@ -1,6 +1,88 @@
 {
-  "lastFetched": "2026-01-11T18:58:36.432Z",
+  "lastFetched": "2026-01-12T09:55:25.510Z",
   "children": [
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "James",
+        "photo": "https://avatars.webmention.io/cdn.bsky.app/96c4772dd3552f1c19876adaf036493a029c1fb4f625cf6b8831bb5996f1fab2.jpg",
+        "url": "https://bsky.app/profile/nonzerosumjames.bsky.social"
+      },
+      "url": "https://bsky.app/profile/johndillinger15.bsky.social/post/3mc44o62nb42o#liked_by_did:plc:quozz3hcdgl7dmc3ovdg42ap",
+      "published": null,
+      "wm-received": "2026-01-11T22:10:59Z",
+      "wm-id": 1967290,
+      "wm-source": "https://brid.gy/like/bluesky/did:plc:3yams5zbv7palph6kw6i5uh4/at%253A%252F%252Fdid%253Aplc%253A3yams5zbv7palph6kw6i5uh4%252Fapp.bsky.feed.post%252F3mc44o62nb42o/did%253Aplc%253Aquozz3hcdgl7dmc3ovdg42ap",
+      "wm-target": "https://raincastle.blog/posts/2026/2026-01-10-2025-review/",
+      "wm-protocol": "webmention",
+      "like-of": "https://raincastle.blog/posts/2026/2026-01-10-2025-review/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Henrik Wist",
+        "photo": "https://avatars.webmention.io/cdn.bsky.app/7dc4f80eb47fae69c618e4f8da5902af87c246d6ed620cf8229190859d24e7aa.jpg",
+        "url": "https://bsky.app/profile/runbikeco.de"
+      },
+      "url": "https://bsky.app/profile/johndillinger15.bsky.social/post/3mc44o62nb42o#liked_by_did:plc:qxyx3got4doboiek7jzg62hs",
+      "published": null,
+      "wm-received": "2026-01-11T22:10:54Z",
+      "wm-id": 1967289,
+      "wm-source": "https://brid.gy/like/bluesky/did:plc:3yams5zbv7palph6kw6i5uh4/at%253A%252F%252Fdid%253Aplc%253A3yams5zbv7palph6kw6i5uh4%252Fapp.bsky.feed.post%252F3mc44o62nb42o/did%253Aplc%253Aqxyx3got4doboiek7jzg62hs",
+      "wm-target": "https://raincastle.blog/posts/2026/2026-01-10-2025-review/",
+      "wm-protocol": "webmention",
+      "like-of": "https://raincastle.blog/posts/2026/2026-01-10-2025-review/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Henrik Wist",
+        "photo": "https://avatars.webmention.io/cdn.bsky.app/7dc4f80eb47fae69c618e4f8da5902af87c246d6ed620cf8229190859d24e7aa.jpg",
+        "url": "https://bsky.app/profile/runbikeco.de"
+      },
+      "url": "https://bsky.app/profile/runbikeco.de/post/3mc5qdjzbic2u",
+      "published": "2026-01-11T14:28:37+00:00",
+      "wm-received": "2026-01-11T22:10:51Z",
+      "wm-id": 1967287,
+      "wm-source": "https://brid.gy/comment/bluesky/did:plc:3yams5zbv7palph6kw6i5uh4/at%253A%252F%252Fdid%253Aplc%253A3yams5zbv7palph6kw6i5uh4%252Fapp.bsky.feed.post%252F3mc44o62nb42o/at%253A%252F%252Fdid%253Aplc%253Aqxyx3got4doboiek7jzg62hs%252Fapp.bsky.feed.post%252F3mc5qdjzbic2u",
+      "wm-target": "https://raincastle.blog/posts/2026/2026-01-10-2025-review/",
+      "wm-protocol": "webmention",
+      "content": {
+        "text": "Solange noch Januar ist, ist es nie zu spät für einen Jahresrückblick! Danke fürs Teilen."
+      },
+      "in-reply-to": "https://raincastle.blog/posts/2026/2026-01-10-2025-review/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "stefan",
+        "photo": "https://avatars.webmention.io/cdn.bsky.app/1d796fdfeb5895cc211300dbcb7681ff2a24ce7e39788fab5acb82318a826963.jpg",
+        "url": "https://bsky.app/profile/johndillinger15.bsky.social"
+      },
+      "url": "https://bsky.app/profile/johndillinger15.bsky.social/post/3mc5rkrrrrs22",
+      "published": "2026-01-11T14:50:34+00:00",
+      "wm-received": "2026-01-11T22:10:51Z",
+      "wm-id": 1967288,
+      "wm-source": "https://brid.gy/comment/bluesky/did:plc:3yams5zbv7palph6kw6i5uh4/at%253A%252F%252Fdid%253Aplc%253A3yams5zbv7palph6kw6i5uh4%252Fapp.bsky.feed.post%252F3mc44o62nb42o/at%253A%252F%252Fdid%253Aplc%253A3yams5zbv7palph6kw6i5uh4%252Fapp.bsky.feed.post%252F3mc5rkrrrrs22",
+      "wm-target": "https://raincastle.blog/posts/2026/2026-01-10-2025-review/",
+      "wm-protocol": "webmention",
+      "content": {
+        "text": "Dann bin ich ja beruhigt ????"
+      },
+      "in-reply-to": "https://raincastle.blog/posts/2026/2026-01-10-2025-review/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
     {
       "type": "entry",
       "author": {
