@@ -8,6 +8,8 @@ Im Mai 2023 startete ich das Projekt jeden Gipfel im Bayerischen Wald hoch zu la
 
 Initial wollte ich meinen Fortschritt mittels [summitbag.com](summitbag.com) verfolgen, leider stellte sich heraus, dass es erstens manchmal unmöglich ist die GPS-Markierung tatsächlich zu erreichen und so den Gipfel gezählt zu bekommen, und zweitens summitbag nicht alle OpenStreetMap-Gipfel in der Datenbank hat. Daher erstelle ich mir nun selbst eine Fortschrittskarte, die ihr <a href='https://raincastle.blog/assets/peaks_progress.html' data-umami-event="peaks_map">hier</a> finden könnt. Den Quellcode zum python-script könnt ihr auf <a href='https://github.com/johndillinger15/Peaks_Project_Map' class='external' target='_blank' rel='noopener' data-umami-event="github">Github</a> finden.
 
+Mittlerweile habe ich die Dokumentation und Erinnerung an die Läufe noch etwas aufgebohrt und drucke mir für jeden Lauf eine "[Erinnerungs-Medaille](/posts/2026/2026-03-28-gipfelprojekt-3d-laufstrecke-relief)" selbst und hänge sie mir an die Wand.
+
 <h3 class="font-bold">Aktuell habe ich {{ counts_data.gelaufen_entries }} von {{ counts_data.raw_data_entries }} Gipfel absolviert.</h3><br>
 
 [<img src='/assets/images/current_peaks_map.png' data-umami-event="peaks_map" align='center'/>](/assets/peaks_progress.html)<br><br>
