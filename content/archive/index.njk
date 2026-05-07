@@ -13,8 +13,7 @@ title: Blog Archiv
         <ul class="mt-2">
         {% endif %}
             <li class="mb-1 px-2 py-1 truncate">
-                <span class="text-lg tabular-nums">{{ post.date | day }}</span>
-                <span class="text-sm font-extralight">{{ post.date | month }}</span>
+                <span class="w-28 shrink-0 text-lg tabular-nums">{{ post.date | day }} {{ post.date | month }}</span>
                 <a href="{{ post.url }}" class="ml-6">{{ post.data.title }}</a>
             </li>
         {% if loop.last %}
