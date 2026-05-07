@@ -7,21 +7,38 @@ title: Blog Archiv
 <div class="pb-8 mt-2 font-light dark:font-extralight">
     {% for post in collections.posts | reverse %}
         {% set currentYear = post | year %}
-        {% set previousYear = collections.posts | getPreviousCollectionItem(post) | year %}
+        {% set previousPost = collections.posts | getPreviousCollectionItem(post) %}
+        {% set previousYear = previousPost ? (previousPost | year) : null %}
+
         {% if loop.first %}
-        <h4 class="mt-8 mb-1 text-xl text-justify font-medium leading-tight text-neutral-800 dark:text-neutral-50">{{ currentYear }}<h4>
-        <ul class="mt-2">
+            <h4 class="mt-8 mb-1 text-xl font-medium leading-tight text-neutral-800 dark:text-neutral-50">
+                {{ currentYear }}
+            </h4>
+
+            <ul class="mt-2">
         {% endif %}
-            <li class="mb-1 px-2 py-1 truncate">
-                <span class="w-32 shrink-0 text-lg tabular-nums">{{ post.date | day }} {{ post.date | month }}</span>
-                <a href="{{ post.url }}" class="ml-6">{{ post.data.title }}</a>
-            </li>
+
+        <li class="flex items-center mb-1 px-2 py-1">
+            <span class="w-32 shrink-0 text-lg tabular-nums text-neutral-500">
+                {{ post.date | day }} {{ post.date | month }}
+            </span>
+
+            <a href="{{ post.url }}" class="truncate hover:underline">
+                {{ post.data.title }}
+            </a>
+        </li>
+
         {% if loop.last %}
-        </ul>
+            </ul>
+
         {% elif currentYear != previousYear %}
-        </ul>
-        <h4 class="mt-8 mb-1 text-xl text-justify font-medium leading-tight text-neutral-800 dark:text-neutral-50">{{ previousYear }}<h4>
-        <ul class="mt-2">
+            </ul>
+
+            <h4 class="mt-8 mb-1 text-xl font-medium leading-tight text-neutral-800 dark:text-neutral-50">
+                {{ previousYear }}
+            </h4>
+
+            <ul class="mt-2">
         {% endif %}
     {% endfor %}
 </div>
