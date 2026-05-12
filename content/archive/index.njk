@@ -5,10 +5,17 @@ title: Blog Archiv
 ---
 
 <div class="pb-8 mt-2 font-light dark:font-extralight">
+
     {% for post in collections.posts | reverse %}
+
         {% set currentYear = post | year %}
         {% set previousPost = collections.posts | getPreviousCollectionItem(post) %}
-        {% set previousYear = previousPost ? (previousPost | year) : null %}
+
+        {% if previousPost %}
+            {% set previousYear = previousPost | year %}
+        {% else %}
+            {% set previousYear = "" %}
+        {% endif %}
 
         {% if loop.first %}
             <h4 class="mt-8 mb-1 text-xl font-medium leading-tight text-neutral-800 dark:text-neutral-50">
@@ -19,7 +26,7 @@ title: Blog Archiv
         {% endif %}
 
         <li class="flex items-center mb-1 px-2 py-1">
-            <span class="w-32 shrink-0 text-lg tabular-nums text-neutral-500">
+            <span class="w-24 shrink-0 text-lg tabular-nums text-neutral-500">
                 {{ post.date | day }} {{ post.date | month }}
             </span>
 
@@ -40,5 +47,7 @@ title: Blog Archiv
 
             <ul class="mt-2">
         {% endif %}
+
     {% endfor %}
+
 </div>
