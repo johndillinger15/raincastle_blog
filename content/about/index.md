@@ -48,7 +48,7 @@ title: Über mich
         24. Regensburg Halbmarathon 2015: 01:26:21 (<a href="https://www.strava.com/activities/306091541" class='external' target='_blank' rel='noopener'>Strava</a>)<br>
         26. Regensburg Halbmarathon 2017: 01:31:42 (<a href="https://www.strava.com/activities/1009176790" class='external' target='_blank' rel='noopener'>Strava</a>)<br>
         Stockholm Halbmarathon 2018: 01:32:28 (<a href="https://www.strava.com/activities/1843183697" class='external' target='_blank' rel='noopener'>Strava</a> | <a href='/posts/2018-09-20-road-to-stockholm-race-review'>Blog</a>)<br>
-        Regensburg Halbmarathon 2026: 01:38:47 (<a href="https://www.strava.com/activities/18538524863" class='external' target='_blank' rel='noopener'>Strava</a> | <a href=''>Blog</a>)<br>
+        Regensburg Halbmarathon 2026: 01:38:47 (<a href="https://www.strava.com/activities/18538524863" class='external' target='_blank' rel='noopener'>Strava</a> | <a href='/posts/2026/2026-05-21-regensburg-halbmarathon-2026'>Blog</a>)<br>
   </div>
 </div>
 
