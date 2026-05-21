@@ -498,3 +498,28 @@ a.external::after {
     padding-left: 2px;
     line-height: 0.75;
 }
+
+.carousel-gallery {
+    display: flex;
+    overflow-x: auto;
+    gap: 1rem;
+
+    scroll-snap-type: x mandatory;
+    -webkit-overflow-scrolling: touch;
+
+    padding: 1rem 0;
+}
+
+.carousel-gallery img {
+    flex: 0 0 85vw !important;
+
+    width: auto !important;
+    max-width: none !important;
+
+    height: 70vh !important;
+
+    object-fit: cover;
+
+    border-radius: 16px;
+    scroll-snap-align: center;
+}
