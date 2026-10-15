@@ -16,6 +16,7 @@
     "dependencies": {
         "@11ty/eleventy-activity-feed": "^1.0.9",
         "@11ty/eleventy-fetch": "^3.0.0",
+        "@11ty/eleventy-img": "5.0.0",
         "@11ty/eleventy-plugin-rss": "^1.1.1",
         "@rollup/plugin-replace": "^2.4.2",
         "autoprefixer": "^10.2.6",

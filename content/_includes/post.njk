@@ -126,7 +126,9 @@ layout: base.njk
   {% set threadRoot = firstReply["wm-thread"] or firstReply["in-reply-to"] or firstReply.url %}
   <ul class="space-y-6">
     <li class="flex items-start space-x-4 border-b border-gray-300 dark:border-gray-700 pb-4">
-      <img src="{{ firstReply.author.photo or '/assets/images/avatar-default.jpg' | url }}" alt="{{ firstReply.author.name or 'Avatar' }}" class="w-12 h-12 rounded-full object-cover mt-1" loading="lazy">
+      {% if firstReply.author.photo %}
+        <img src="{{ firstReply.author.photo }}" alt="{{ firstReply.author.name or 'Avatar' }}" class="w-12 h-12 rounded-full object-cover mt-1" loading="lazy" eleventy:ignore>
+      {% endif %}
       <div class="flex-1">
         <div class="text-sm text-slate-600 dark:text-slate-400">
           {% set authorName = firstReply.author.name or (firstReply.author.url | extractUsername) or 'Anonymous' %}

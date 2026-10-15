@@ -9,6 +9,7 @@ const markdownIt = require("markdown-it");
 const markdownItAnchor = require("markdown-it-anchor");
 const pluginWebmentions = require("eleventy-plugin-webmentions");
 const { DateTime } = require("luxon");
+const { eleventyImageTransformPlugin } = require("@11ty/eleventy-img");
 
 module.exports = function (eleventyConfig) {
     // Set Markdown library
@@ -67,6 +68,10 @@ module.exports = function (eleventyConfig) {
 
     // Define passthrough for assets
     eleventyConfig.addPassthroughCopy("assets");
+
+    eleventyConfig.addPassthroughCopy({
+        "content/assets/images": "assets/images"
+    });
 
     // Add watch target for JS files (needed for JS bundling in dev mode)
     eleventyConfig.addWatchTarget("./assets/js/");
@@ -161,16 +166,28 @@ module.exports = function (eleventyConfig) {
 
     // Add custom hash for cache busting
     const hashes = new Map();
+
     eleventyConfig.addNunjucksFilter("addHash", function (absolutePath) {
         const cached = hashes.get(absolutePath);
+
         if (cached) {
             return `${absolutePath}?hash=${cached}`;
         }
-        const fileContent = readFileSync(`${process.cwd()}${absolutePath}`, {
+
+        // Images now live inside content/assets/images/
+        // Other assets (CSS, JS, favicons) remain in assets/
+        const sourcePath = absolutePath.startsWith("/assets/images/")
+            ? `/content${absolutePath}`
+            : absolutePath;
+
+        const fileContent = readFileSync(`${process.cwd()}${sourcePath}`, {
             encoding: "utf-8"
-        }).toString();
-        const hash = MD5(fileContent.toString());
+        });
+
+        const hash = MD5(fileContent);
+
         hashes.set(absolutePath, hash);
+
         return `${absolutePath}?hash=${hash}`;
     });
 
@@ -179,8 +196,21 @@ module.exports = function (eleventyConfig) {
         return collectionApi.getAllSorted().reverse().slice(0, 5);
     });
 
-    // Plugin for transforming images
-    eleventyConfig.addPlugin(require("./_11ty/srcset.js"));
+    // Official Eleventy Image HTML Transform
+    eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
+        formats: ["webp", "jpeg"],
+        widths: [320, 640, 820, 1024],
+
+        urlPath: "/assets/images/",
+        outputDir: "./_site/assets/images/",
+
+        defaultAttributes: {
+            loading: "lazy",
+            decoding: "async",
+            sizes: "(max-width: 820px) 100vw, 820px",
+            alt: ""
+        }
+    });
 
     eleventyConfig.addNunjucksFilter("fixMojibake", function (value) {
         if (!value) return value;
