@@ -75,3 +75,8 @@ Mittlerweile habe ich die Dokumentation und Erinnerung an die Läufe noch etwas 
     [Blog](/posts/2025/2025-07-01-Buescherl/)
 21. Kühberg (525m) - <a href='https://www.strava.com/activities/14929964319' class='external' target='_blank' rel='noopener'>Strava</a>,
     [Blog](/posts/2025/2025-07-01-Buescherl/)
+22. Kälberbuckel (1053m) - <a href='https://www.strava.com/activities/19470702080' class='external' target='_blank' rel='noopener'>Strava</a>
+23. Schusterstein (998m) - <a href='https://www.strava.com/activities/19470702080' class='external' target='_blank' rel='noopener'>Strava</a>
+24. Geißberg (909m) - <a href='https://www.strava.com/activities/19470702080' class='external' target='_blank' rel='noopener'>Strava</a>
+25. Kühberg (942m) - <a href='https://www.strava.com/activities/19470702080' class='external' target='_blank' rel='noopener'>Strava</a>
+26. Kühleite (704m) - <a href='https://www.strava.com/activities/20609293615' class='external' target='_blank' rel='noopener'>Strava</a>
